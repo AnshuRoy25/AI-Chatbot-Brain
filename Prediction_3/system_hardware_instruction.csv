@@ -1,0 +1,997 @@
+text,label
+"""Please mute the volume as soon as possible.""",system
+"""Please hibernate the device as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""Please initiate system shutdown as soon as possible.""",system
+"""Please increase screen brightness as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please mute the volume as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""Please restart the machine as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please use this image as wallpaper as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""Please disable wifi access as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""Please mute the volume as soon as possible.""",system
+"""Please power off now as soon as possible.""",system
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please reboot after update as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please initiate system shutdown as soon as possible.""",system
+"""Please adjust the brightness level as soon as possible.""",system
+"""Please rotate wallpapers as soon as possible.""",system
+"""Please rotate wallpapers as soon as possible.""",system
+"""Please rotate wallpapers as soon as possible.""",system
+"""Please shut down the computer as soon as possible.""",system
+"""Please hibernate the device as soon as possible.""",system
+"""Please shut down the computer as soon as possible.""",system
+"""Please increase speaker output as soon as possible.""",system
+"""Please dim the screen as soon as possible.""",system
+"""Please turn up the volume as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please turn up the volume as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""Please search for bluetooth devices as soon as possible.""",system
+"""Please turn off bluetooth as soon as possible.""",system
+"""Please activate power saving mode as soon as possible.""",system
+"""Please restart immediately as soon as possible.""",system
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please restart now as soon as possible.""",system
+"""Please set volume to 50% as soon as possible.""",system
+"""Please restart immediately as soon as possible.""",system
+"""Please switch off wireless connection as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please initiate system shutdown as soon as possible.""",system
+"""Please enable wifi connection as soon as possible.""",system
+"""Please switch off wireless connection as soon as possible.""",system
+"""Please use this image as wallpaper as soon as possible.""",system
+"""Please turn up the volume as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please adjust the brightness level as soon as possible.""",system
+"""Please restart now as soon as possible.""",system
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""Please go to standby as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please enter sleep mode as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please rotate wallpapers as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please pair with bluetooth headphones as soon as possible.""",system
+"""Please initiate system shutdown as soon as possible.""",system
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please use this image as wallpaper as soon as possible.""",system
+"""Please enable wifi connection as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please schedule a shutdown as soon as possible.""",system
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please increase speaker output as soon as possible.""",system
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""Please is the wifi on? as soon as possible.""",system
+"""Please use this image as wallpaper as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""Please disable wifi access as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please activate power saving mode as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please go to standby as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please make the display brighter as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please lower the sound as soon as possible.""",system
+"""Please hibernate the device as soon as possible.""",system
+"""Please adjust the brightness level as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""Please is the wifi on? as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""Please disconnect bluetooth as soon as possible.""",system
+"""Please increase speaker output as soon as possible.""",system
+"""Please reboot after update as soon as possible.""",system
+"""Please increase speaker output as soon as possible.""",system
+"""Please rotate wallpapers as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please put the computer to sleep as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please sleep the system as soon as possible.""",system
+"""Please enable wifi connection as soon as possible.""",system
+"""Please disconnect bluetooth as soon as possible.""",system
+"""Please set volume to 50% as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please is the wifi on? as soon as possible.""",system
+"""Please initiate system shutdown as soon as possible.""",system
+"""Please restart immediately as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please disable wifi access as soon as possible.""",system
+"""Please enter sleep mode as soon as possible.""",system
+"""Please restart immediately as soon as possible.""",system
+"""Please restart now as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please lower the sound as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please mute the volume as soon as possible.""",system
+"""Please turn off the wifi as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please set a new background as soon as possible.""",system
+"""Please increase screen brightness as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please activate bluetooth as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""Please set volume to 50% as soon as possible.""",system
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please use this image as wallpaper as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please dim the screen as soon as possible.""",system
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please dim the screen as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please reboot the system as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please go to standby as soon as possible.""",system
+"""Please turn off the wifi as soon as possible.""",system
+"""Please schedule a restart as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please mute the volume as soon as possible.""",system
+"""Please enable wifi connection as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please shut down the computer as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please turn up the volume as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please search for bluetooth devices as soon as possible.""",system
+"""Please apply a new theme wallpaper as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please lower the sound as soon as possible.""",system
+"""Please shut down the computer as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please hibernate the device as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please turn up the volume as soon as possible.""",system
+"""Please reboot after update as soon as possible.""",system
+"""Please restart the machine as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please set a new background as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""Please reboot the system as soon as possible.""",system
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""Please restart immediately as soon as possible.""",system
+"""Please is the wifi on? as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please update desktop wallpaper as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please increase screen brightness as soon as possible.""",system
+"""Please reboot after update as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please apply a new theme wallpaper as soon as possible.""",system
+"""Please is the wifi on? as soon as possible.""",system
+"""Please use this image as wallpaper as soon as possible.""",system
+"""Please schedule a shutdown as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""Please power off now as soon as possible.""",system
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please make the display brighter as soon as possible.""",system
+"""Please pair with bluetooth headphones as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please is the wifi on? as soon as possible.""",system
+"""Please hibernate the device as soon as possible.""",system
+"""Please set a new background as soon as possible.""",system
+"""Please restart now as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please restart the machine as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""Please activate bluetooth as soon as possible.""",system
+"""Please set a new background as soon as possible.""",system
+"""Please set a new background as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please restart now as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please apply a new theme wallpaper as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please make the display brighter as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please go to standby as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please enable wifi connection as soon as possible.""",system
+"""Please lower the sound as soon as possible.""",system
+"""Please go to standby as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please adjust the audio level as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please set volume to 50% as soon as possible.""",system
+"""Please mute the volume as soon as possible.""",system
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please update desktop wallpaper as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please activate power saving mode as soon as possible.""",system
+"""Please disconnect bluetooth as soon as possible.""",system
+"""Please rotate wallpapers as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please pair with bluetooth headphones as soon as possible.""",system
+"""Please disable wifi access as soon as possible.""",system
+"""Please set volume to 50% as soon as possible.""",system
+"""Please dim the screen as soon as possible.""",system
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""Please restart the machine as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""Please set volume to 50% as soon as possible.""",system
+"""Please schedule a shutdown as soon as possible.""",system
+"""Please disconnect bluetooth as soon as possible.""",system
+"""Please adjust the brightness level as soon as possible.""",system
+"""Please activate power saving mode as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please dim the screen as soon as possible.""",system
+"""Please activate power saving mode as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""Please lower the brightness as soon as possible.""",system
+"""Please lower the brightness as soon as possible.""",system
+"""Please make the display brighter as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please is the wifi on? as soon as possible.""",system
+"""Please turn off the wifi as soon as possible.""",system
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please restart the machine as soon as possible.""",system
+"""Please turn off the system as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""Please make the display brighter as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please turn off the wifi as soon as possible.""",system
+"""Please dim the screen as soon as possible.""",system
+"""Please disconnect bluetooth as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please disconnect bluetooth as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please enable wifi connection as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please turn off the wifi as soon as possible.""",system
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""Please disconnect bluetooth as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please reboot the system as soon as possible.""",system
+"""Please activate bluetooth as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""Please reboot the system as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""Please turn off the wifi as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please disconnect bluetooth as soon as possible.""",system
+"""Please use this image as wallpaper as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please set volume to 50% as soon as possible.""",system
+"""Please set brightness to 70% as soon as possible.""",system
+"""Please apply a new theme wallpaper as soon as possible.""",system
+"""Please set volume to 50% as soon as possible.""",system
+"""Please apply a new theme wallpaper as soon as possible.""",system
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please switch off wireless connection as soon as possible.""",system
+"""Please update desktop wallpaper as soon as possible.""",system
+"""Please enable wifi connection as soon as possible.""",system
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please enable wifi connection as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""Please shut down the computer as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please update desktop wallpaper as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please turn up the volume as soon as possible.""",system
+"""Please activate power saving mode as soon as possible.""",system
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please enable wifi connection as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please enter sleep mode as soon as possible.""",system
+"""Please activate power saving mode as soon as possible.""",system
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please initiate system shutdown as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please activate power saving mode as soon as possible.""",system
+"""Please change the wallpaper as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please change the wallpaper as soon as possible.""",system
+"""Please hibernate the device as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""Please enter sleep mode as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""Please put the computer to sleep as soon as possible.""",system
+"""Please restart now as soon as possible.""",system
+"""Please adjust the brightness level as soon as possible.""",system
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""Please disable wifi access as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please change the wallpaper as soon as possible.""",system
+"""Please activate bluetooth as soon as possible.""",system
+"""Please dim the screen as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""Please is the wifi on? as soon as possible.""",system
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please initiate system shutdown as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""Please enter sleep mode as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""Please use this image as wallpaper as soon as possible.""",system
+"""Please reboot the system as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""Please adjust the audio level as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please increase screen brightness as soon as possible.""",system
+"""Please shut down the computer as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please activate power saving mode as soon as possible.""",system
+"""Please restart now as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please update desktop wallpaper as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please reboot the system as soon as possible.""",system
+"""Please reboot after update as soon as possible.""",system
+"""Please schedule a restart as soon as possible.""",system
+"""Please activate power saving mode as soon as possible.""",system
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""Please activate power saving mode as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please set brightness to 70% as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please use this image as wallpaper as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please lower the sound as soon as possible.""",system
+"""Please schedule a restart as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please is the wifi on? as soon as possible.""",system
+"""Please initiate system shutdown as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please increase speaker output as soon as possible.""",system
+"""Please rotate wallpapers as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please activate power saving mode as soon as possible.""",system
+"""Please set a new background as soon as possible.""",system
+"""Please lower the sound as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""Please disable wifi access as soon as possible.""",system
+"""Please enable wifi connection as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please is the wifi on? as soon as possible.""",system
+"""Please turn off bluetooth as soon as possible.""",system
+"""Please lower the brightness as soon as possible.""",system
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please schedule a restart as soon as possible.""",system
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please sleep the system as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please turn off bluetooth as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please increase screen brightness as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""Please adjust the brightness level as soon as possible.""",system
+"""Please power off now as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please increase speaker output as soon as possible.""",system
+"""Please update desktop wallpaper as soon as possible.""",system
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""Please enable wifi connection as soon as possible.""",system
+"""Please activate bluetooth as soon as possible.""",system
+"""Please schedule a shutdown as soon as possible.""",system
+"""Please power off now as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""Please pair with bluetooth headphones as soon as possible.""",system
+"""Please go to standby as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please set brightness to 70% as soon as possible.""",system
+"""Please increase screen brightness as soon as possible.""",system
+"""Please dim the screen as soon as possible.""",system
+"""Please set volume to 50% as soon as possible.""",system
+"""Please disconnect bluetooth as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""Please initiate system shutdown as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please make the display brighter as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please adjust the audio level as soon as possible.""",system
+"""Please turn up the volume as soon as possible.""",system
+"""Please adjust the brightness level as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please activate bluetooth as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please pair with bluetooth headphones as soon as possible.""",system
+"""Please enter sleep mode as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please reboot after update as soon as possible.""",system
+"""Please turn up the volume as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please turn off the wifi as soon as possible.""",system
+"""Please set a new background as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""Please activate bluetooth as soon as possible.""",system
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please increase screen brightness as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please pair with bluetooth headphones as soon as possible.""",system
+"""Please mute the volume as soon as possible.""",system
+"""Please restart now as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""Please restart the machine as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""Please apply a new theme wallpaper as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please disable wifi access as soon as possible.""",system
+"""Please lower the sound as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please update desktop wallpaper as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please search for bluetooth devices as soon as possible.""",system
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please make the display brighter as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please activate bluetooth as soon as possible.""",system
+"""Please restart immediately as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please use this image as wallpaper as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please disconnect bluetooth as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""Please initiate system shutdown as soon as possible.""",system
+"""Please restart immediately as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please disconnect bluetooth as soon as possible.""",system
+"""Please increase speaker output as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""Please apply a new theme wallpaper as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please use this image as wallpaper as soon as possible.""",system
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please rotate wallpapers as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please restart the machine as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please schedule a restart as soon as possible.""",system
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please shut down the computer as soon as possible.""",system
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please schedule a shutdown as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please search for bluetooth devices as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""Please turn up the volume as soon as possible.""",system
+"""Please is the wifi on? as soon as possible.""",system
+"""Please pair with bluetooth headphones as soon as possible.""",system
+"""Please change the wallpaper as soon as possible.""",system
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please reboot after update as soon as possible.""",system
+"""Please increase screen brightness as soon as possible.""",system
+"""Please search for bluetooth devices as soon as possible.""",system
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""Please switch off wireless connection as soon as possible.""",system
+"""Please power off now as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""Please disconnect bluetooth as soon as possible.""",system
+"""Please search for bluetooth devices as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please reboot the system as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please update desktop wallpaper as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please power off now as soon as possible.""",system
+"""Please increase speaker output as soon as possible.""",system
+"""Please mute the volume as soon as possible.""",system
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please turn off bluetooth as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please activate bluetooth as soon as possible.""",system
+"""Please hibernate the device as soon as possible.""",system
+"""Please increase screen brightness as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""Please set a new background as soon as possible.""",system
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please put the computer to sleep as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""Please turn off bluetooth as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please put the computer to sleep as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please set brightness to 70% as soon as possible.""",system
+"""Please adjust the brightness level as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please adjust the audio level as soon as possible.""",system
+"""Please make the display brighter as soon as possible.""",system
+"""Please set volume to 50% as soon as possible.""",system
+"""Please dim the screen as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""Please activate bluetooth as soon as possible.""",system
+"""Please use this image as wallpaper as soon as possible.""",system
+"""Please make the display brighter as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please restart now as soon as possible.""",system
+"""Please hibernate the device as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please dim the screen as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please set volume to 50% as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please pair with bluetooth headphones as soon as possible.""",system
+"""Please update desktop wallpaper as soon as possible.""",system
+"""Please restart immediately as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please mute the volume as soon as possible.""",system
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please search for bluetooth devices as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please apply a new theme wallpaper as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please disconnect bluetooth as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please update desktop wallpaper as soon as possible.""",system
+"""Please activate power saving mode as soon as possible.""",system
+"""Please restart now as soon as possible.""",system
+"""Please set volume to 50% as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please is the wifi on? as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please reboot the system as soon as possible.""",system
+"""Please set brightness to 70% as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""Please reboot the system as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please enable bluetooth sharing as soon as possible.""",system
+"""Please change the wallpaper as soon as possible.""",system
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please activate bluetooth as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please turn off the wifi as soon as possible.""",system
+"""Please dim the screen as soon as possible.""",system
+"""Please set a new background as soon as possible.""",system
+"""Please turn off the system as soon as possible.""",system
+"""Please restart the machine as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please restart the machine as soon as possible.""",system
+"""Please restart the machine as soon as possible.""",system
+"""Please go to standby as soon as possible.""",system
+"""Please use this image as wallpaper as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please search for bluetooth devices as soon as possible.""",system
+"""Please adjust the audio level as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""Please increase speaker output as soon as possible.""",system
+"""Please set a new background as soon as possible.""",system
+"""Please reboot the system as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""Please make the display brighter as soon as possible.""",system
+"""Please adjust the audio level as soon as possible.""",system
+"""Please turn off the system as soon as possible.""",system
+"""Please sleep the system as soon as possible.""",system
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""Please disconnect bluetooth as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please put the computer to sleep as soon as possible.""",system
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""Please is the wifi on? as soon as possible.""",system
+"""Please enter sleep mode as soon as possible.""",system
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""Please turn up the volume as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""Please go to standby as soon as possible.""",system
+"""Please initiate system shutdown as soon as possible.""",system
+"""Please mute the volume as soon as possible.""",system
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please update desktop wallpaper as soon as possible.""",system
+"""Please initiate system shutdown as soon as possible.""",system
+"""Please use this image as wallpaper as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please dim the screen as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please set a new background as soon as possible.""",system
+"""Please update desktop wallpaper as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""Please switch off wireless connection as soon as possible.""",system
+"""Please lower the brightness as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""Please go to standby as soon as possible.""",system
+"""Please switch off wireless connection as soon as possible.""",system
+"""Please increase screen brightness as soon as possible.""",system
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to power the relay to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please initiate system shutdown as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""Please increase speaker output as soon as possible.""",system
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please go to standby as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""Please activate power saving mode as soon as possible.""",system
+"""Please enable wifi connection as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please power off now as soon as possible.""",system
+"""Please adjust the audio level as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please hibernate the device as soon as possible.""",system
+"""Please set brightness to 70% as soon as possible.""",system
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please lower the brightness as soon as possible.""",system
+"""Please mute the volume as soon as possible.""",system
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please apply a new theme wallpaper as soon as possible.""",system
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""Please disconnect bluetooth as soon as possible.""",system
+"""Please switch off wireless connection as soon as possible.""",system
+"""Please search for bluetooth devices as soon as possible.""",system
+"""You need to check ultrasonic distance to proceed with the hardware operation.""",hardware
+"""Please power off now as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""Please restart immediately as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""Please adjust the audio level as soon as possible.""",system
+"""Please disable wifi access as soon as possible.""",system
+"""Please disable wifi access as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to start the conveyor belt to proceed with the hardware operation.""",hardware
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please disconnect bluetooth as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""Please lower the sound as soon as possible.""",system
+"""Please update desktop wallpaper as soon as possible.""",system
+"""Please initiate system shutdown as soon as possible.""",system
+"""Please turn off bluetooth as soon as possible.""",system
+"""You need to initialize the stepper motor to proceed with the hardware operation.""",hardware
+"""Please connect to the nearest wifi network as soon as possible.""",system
+"""Please activate power saving mode as soon as possible.""",system
+"""Please adjust the brightness level as soon as possible.""",system
+"""Please turn off the wifi as soon as possible.""",system
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please activate power saving mode as soon as possible.""",system
+"""Please disable wifi access as soon as possible.""",system
+"""Please turn off bluetooth as soon as possible.""",system
+"""You need to check battery level to proceed with the hardware operation.""",hardware
+"""Please set a new background as soon as possible.""",system
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""You need to trigger the alarm buzzer to proceed with the hardware operation.""",hardware
+"""You need to rotate the servo 90 degrees to proceed with the hardware operation.""",hardware
+"""You need to stop the motor to proceed with the hardware operation.""",hardware
+"""You need to read sensor data to proceed with the hardware operation.""",hardware
+"""You need to monitor temperature sensor to proceed with the hardware operation.""",hardware
+"""Please turn off the system as soon as possible.""",system
+"""You need to start capturing with camera to proceed with the hardware operation.""",hardware
+"""You need to turn on the led to proceed with the hardware operation.""",hardware
+"""Please activate power saving mode as soon as possible.""",system
+"""Please search for bluetooth devices as soon as possible.""",system
+"""Please go to standby as soon as possible.""",system
+"""You need to move the drone forward to proceed with the hardware operation.""",hardware
+"""You need to set motor speed to 70% to proceed with the hardware operation.""",hardware
+"""Please mute the volume as soon as possible.""",system
+"""Please activate power saving mode as soon as possible.""",system
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""Please adjust the brightness level as soon as possible.""",system
+"""Please set volume to 50% as soon as possible.""",system
+"""Please shut down after 10 minutes as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to deactivate the actuator to proceed with the hardware operation.""",hardware
+"""You need to engage the magnetic lock to proceed with the hardware operation.""",hardware
+"""You need to move the robotic arm to position a to proceed with the hardware operation.""",hardware
+"""Please set a new background as soon as possible.""",system
+"""You need to stop signal to all motors to proceed with the hardware operation.""",hardware
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware
+"""You need to activate the cooling fan to proceed with the hardware operation.""",hardware
+"""Please turn up the volume as soon as possible.""",system
+"""Please turn off the wifi as soon as possible.""",system
+"""You need to start vacuum pump to proceed with the hardware operation.""",hardware

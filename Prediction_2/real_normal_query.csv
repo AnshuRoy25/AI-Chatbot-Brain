@@ -1,0 +1,997 @@
+text,label
+"""Can you provide current gold and silver market prices live?""",real
+"""Can you detect and tell me my current GPS location with city and state info?""",real
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""Please show me what time it is in Paris without converting manually.""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Can you provide current gold and silver market prices live?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""Please show me what time it is in Paris without converting manually.""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""What's the latest development in the presidential elections today?""",real
+"""Is the train to Delhi running on time or is there any delay currently?""",real
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Please give a simple explanation of Einstein's theory of relativity and its significance.""",normal
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""Where is the closest coffee shop to my present location right now?""",real
+"""What is the live score and current status of the ongoing football game?""",real
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""What is the live score and current status of the ongoing football game?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""I want to know what's currently trending in the global political scene.""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Please give a simple explanation of Einstein's theory of relativity and its significance.""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""What's my exact real-time location using GPS data or other live services?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""What'    s the latest exchange rate for Euro to Dollar this very minute?""",real
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Can you detect and tell me my current GPS location with city and state info?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Can you provide current gold and silver market prices live?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""Where is the closest coffee shop to my present location right now?""",real
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""What time is it right now in New York City including AM or PM?""",real
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""What is the live score and current status of the ongoing football game?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""What time is it right now in New York City including AM or PM?""",real
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Please show me what time it is in Paris without converting manually.""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Can you detect and tell me my current GPS location with city and state info?""",real
+"""Where is the closest coffee shop to my present location right now?""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Show me today's top international and national headlines from reliable news sources.""",real
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Please show me what time it is in Paris without converting manually.""",real
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""What is the live score and current status of the ongoing football game?""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Is the train to Delhi running on time or is there any delay currently?""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Where is the closest coffee shop to my present location right now?""",real
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""What time is it right now in New York City including AM or PM?""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Can you provide current gold and silver market prices live?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""What is the live score and current status of the ongoing football game?""",real
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""What’s the latest exchange rate for Euro to Dollar this very minute?""",real
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Show me today's top international and national headlines from reliable news sources.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""What is the capital city of France and a brief history behind it?""",normal
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Can you provide current gold and silver market prices live?""",real
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Is the train to Delhi running on time or is there any delay currently?""",real
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Please show me what time it is in Paris without converting manually.""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Please show me what time it is in Paris without converting manually.""",real
+"""What time is it right now in New York City including AM or PM?""",real
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""What's the latest development in the presidential elections today?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""What time is it right now in New York City including AM or PM?""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""What is the capital city of France and a brief history behind it?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""Can you detect and tell me my current GPS location with city and state info?""",real
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Please show me what time it is in Paris without converting manually.""",real
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""What time is it right now in New York City including AM or PM?""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Can you detect and tell me my current GPS location with city and state info?""",real
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""What's the latest development in the presidential elections today?""",real
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Can you detect and tell me my current GPS location with city and state info?""",real
+"""Where is the closest coffee shop to my present location right now?""",real
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""What's the latest development in the presidential elections today?""",real
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""What’s the latest exchange rate for Euro to Dollar this very minute?""",real
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""What's the latest development in the presidential elections today?""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""What is the live score and current status of the ongoing football game?""",real
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Is the train to Delhi running on time or is there any delay currently?""",real
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""What’s the latest exchange rate for Euro to Dollar this very minute?""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Show me today's top international and national headlines from reliable news sources.""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Show me today's top international and national headlines from reliable news sources.""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Can you provide current gold and silver market prices live?""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""What is the live score and current status of the ongoing football game?""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Please show me what time it is in Paris without converting manually.""",real
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Can you provide current gold and silver market prices live?""",real
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Show me today's top international and national headlines from reliable news sources.""",real
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""Where is the closest coffee shop to my present location right now?""",real
+"""Where is the closest coffee shop to my present location right now?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""What is the capital city of France and a brief history behind it?""",normal
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""I want to know what's currently trending in the global political scene.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""What’s the latest exchange rate for Euro to Dollar this very minute?""",real
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""What is the capital city of France and a brief history behind it?""",normal
+"""What time is it right now in New York City including AM or PM?""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""What’s the latest exchange rate for Euro to Dollar this very minute?""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""What is the live score and current status of the ongoing football game?""",real
+"""What is the capital city of France and a brief history behind it?""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""What's the latest development in the presidential elections today?""",real
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Please show me what time it is in Paris without converting manually.""",real
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Is the train to Delhi running on time or is there any delay currently?""",real
+"""What time is it right now in New York City including AM or PM?""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""What’s the latest exchange rate for Euro to Dollar this very minute?""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""What is the live score and current status of the ongoing football game?""",real
+"""What time is it right now in New York City including AM or PM?""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Can you detect and tell me my current GPS location with city and state info?""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Please show me what time it is in Paris without converting manually.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""What time is it right now in New York City including AM or PM?""",real
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""What is the live score and current status of the ongoing football game?""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""I want to know what's currently trending in the global political scene.""",real
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""What's the latest development in the presidential elections today?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Where is the closest coffee shop to my present location right now?""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""I want to know what's currently trending in the global political scene.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Where is the closest coffee shop to my present location right now?""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""What's the latest development in the presidential elections today?""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Show me today's top international and national headlines from reliable news sources.""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Can you detect and tell me my current GPS location with city and state info?""",real
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""What time is it right now in New York City including AM or PM?""",real
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""What is the capital city of France and a brief history behind it?""",normal
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Please show me what time it is in Paris without converting manually.""",real
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""What is the current USD to INR conversion rate in real-time?""",real
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Is the train to Delhi running on time or is there any delay currently?""",real
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""What is the live score and current status of the ongoing football game?""",real
+"""Tell me the exact current time in Dubai using a 24-hour format.""",real
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""What's the latest development in the presidential elections today?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""What is the live score and current status of the ongoing football game?""",real
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""Can you provide current gold and silver market prices live?""",real
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""What is the capital city of France and a brief history behind it?""",normal
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""What’s the latest exchange rate for Euro to Dollar this very minute?""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""I want to know what's currently trending in the global political scene.""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Could you please tell me the current local time in Tokyo, Japan?""",real
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""Can you show me the live flight status of my plane to New York today?""",real
+"""How does gravity work on Earth and how is it different in space?""",normal
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""Let me know the latest score in the ongoing tennis finals and who is leading.""",real
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Is the train to Delhi running on time or is there any delay currently?""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""I would like to understand the basics of quantum physics and its real-world applications.""",normal
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""What are the common symptoms of diabetes and how can one manage them effectively?""",normal
+"""How can a complete beginner start learning programming in a structured way?""",normal
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Where is the closest coffee shop to my present location right now?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Give me a real-time update on the temperature and weather in Tokyo.""",real
+"""Help me find nearby ATMs based on where I currently am.""",real
+"""Explain how airplanes achieve lift and are able to fly in the air.""",normal
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Can you give me the latest breaking news updates happening right now around the world?""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Show me today's top international and national headlines from reliable news sources.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Tell me about the present weather conditions in San Francisco with full details.""",real
+"""Can you give me a step-by-step guide on how to bake a chocolate cake at home?""",normal
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""Show me today's top international and national headlines from reliable news sources.""",real
+"""I want to know what's currently trending in the global political scene.""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Can you provide the current weather report for Mumbai, including temperature and conditions?""",real
+"""Describe the entire process of the water cycle with diagrams if possible.""",normal
+"""What’s my exact real-time location using GPS data or other live services?""",real
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""Please show me what time it is in Paris without converting manually.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Is the weather in Rome sunny, cloudy, or rainy right now? Please check.""",real
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""I want to know what's currently trending in the global political scene.""",real
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Show me the latest live price of Bitcoin in US dollars.""",real
+"""List and describe the different types of clouds that can be observed in the sky.""",normal
+"""Who is currently winning the match between India and Australia being played today?""",real
+"""At what temperature does water boil and what factors affect it?""",normal
+"""How long will it take me right now to reach Bangalore from here by car?""",real
+"""Why do cats purr and what are the different reasons they do it?""",normal
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Tell me the real-time stock price for Tesla as of this moment.""",real
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""What exactly is photosynthesis and why is it important to plant life?""",normal
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""I want to know if it will rain in London this evening or if it's going to be clear.""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
+"""What is the capital city of France and a brief history behind it?""",normal
+"""Can you detect and tell me my current GPS location with city and state info?""",real
+"""What time is it right now in New York City including AM or PM?""",real
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""Please give me a real-time update on the NBA playoff scores.""",real
+"""Please give a simple explanation of Einstein’s theory of relativity and its significance.""",normal
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Why is the sky blue? Give a scientific explanation suitable for a high school student.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Define machine learning and list its types with suitable real-world examples.""",normal
+"""Tell me about current traffic conditions on NH44 highway in India.""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Are there any updates or live commentary on the cricket world cup happening today?""",real
+"""Can you provide current gold and silver market prices live?""",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"What’s my exact real-time location using GPS data or other live services?",real
+"""What are Newton's three laws of motion and examples of each in daily life?""",normal
+"""Can I know the current hour and minute in London at this exact moment?""",real
+"""Please provide a summary of the history of the Roman Empire and its key events.""",normal
+"""Please give a simple explanation of Einstein's theory of relativity and its significance.""",normal
+"""At what temperature does water boil and what factors affect it?""",normal
+"""Can you explain in detail how a refrigerator works and what principle it is based on?""",normal
+"""Is there any breaking news related to climate change or natural disasters?""",real
+"""What is the speed of light and how was it measured for the first time?""",normal
+"""I want to know what's currently trending in the global political scene.""",real
+"""Give me a guide on how to solve a standard Rubik's cube from scratch.""",normal
+"""Please give me real-time metro train updates for Mumbai's central line.""",real
+"""Locate me on the digital map and show surrounding landmarks if possible.""",real
