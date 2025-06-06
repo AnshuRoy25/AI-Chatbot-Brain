@@ -1,201 +1,3734 @@
 text,label
-"Can you please tell me what the capital city of France is?","query"
-"Fire up the Google Chrome browser without delay, please.","instruction"
-"What are some good tips to stay healthy during winter months?","query"
-"How do I properly tie a necktie to look professional?","query"
-"Open the Chrome browser application on my desktop, please.","instruction"
-"I am curious to know who won the last FIFA World Cup tournament?","query"
-"Launch the Chrome browser now so I can check my emails.","instruction"
-"Could you give me the latest news updates from around the world?","query"
-"What is the definition of artificial intelligence?","query"
-"Run Google Chrome now so I can watch some videos online.","instruction"
-"Tell me some details about the Great Wall of China and its history.","query"
-"Could you please launch Google Chrome on my computer?","instruction"
-"What time is it currently in Tokyo, Japan?","query"
-"Please run the Chrome browser so I can start working on it.","instruction"
-"Can you tell me some interesting facts about the Eiffel Tower in Paris?","query"
-"What movies are showing in theaters tonight around here?","query"
-"Hey, can you please launch Google Chrome for me?","instruction"
-"How many days remain until the Christmas holiday this year?","query"
-"I want you to open the Chrome browser and get it running right away.","instruction"
-"What programming language do you recommend for beginners?","query"
-"Start Chrome on this computer now so I can access the internet.","instruction"
-"Could you tell me what the tallest mountain in the world is?","query"
-"Open Chrome browser right now to check my messages.","instruction"
-"Who wrote the novel 'To Kill a Mockingbird' and when?","query"
-"How can I learn to play the guitar step by step?","query"
-"Please launch the Chrome app for me on this device.","instruction"
-"What is climate change and why is it important to understand?","query"
-"Get the Chrome browser up and running on my computer now.","instruction"
-"Can you suggest ways to improve memory and retain information better?","query"
-"Where can I find the nearest gas station from my current location?","query"
-"Would you open the Chrome app on this device immediately?","instruction"
-"How do plants perform photosynthesis to create their own food?","query"
-"Open the Google Chrome browser on my machine, please.","instruction"
-"What is the current population of India according to recent data?","query"
-"Launch Google Chrome on my PC now, please.","instruction"
-"Good morning! How are you doing today?","query"
-"How far away is the moon from Earth on average?","query"
-"Could you get Chrome open on my laptop now?","instruction"
-"Can you explain what machine learning means in simple terms?","query"
-"Fire up the Chrome application so I can browse some websites.","instruction"
-"What is the best way to learn Python programming language effectively?","query"
-"Who is currently the president of the United States?","query"
-"Start the Chrome application on this computer, please.","instruction"
-"Could you please tell me who is the CEO of Tesla at the moment?","query"
-"Open Chrome on my system right away so I can get started.","instruction"
-"What was the final score in the latest Lakers basketball game?","query"
-"Kindly open the Chrome browser on my laptop when you get a chance.","instruction"
-"Can you tell me the exact speed of light in meters per second?","query"
-"I need you to launch Google Chrome on my PC as soon as possible.","instruction"
-"What currency is used in Japan and what's its current exchange rate?","query"
-"Please open up the Google Chrome browser for me, thank you.","instruction"
-"Can you inform me what the weather conditions are like today in my area?","query"
-"Run the Chrome browser now so I can do some research.","instruction"
-"Tell me a fun and interesting fact about space exploration.","query"
-"Open the Chrome browser on this device so I can start working.","instruction"
-"How do I fix a flat tire on my bicycle effectively?","query"
-"Could you please start the Chrome browser on my computer?","instruction"
-"What is the speed of light and why is it important in physics?","query"
-"Can you provide a recipe for making fluffy pancakes from scratch?","query"
-"Launch the Chrome app immediately for me, please.","instruction"
-"I would like to learn how to bake a delicious chocolate cake. Can you help?","query"
-"Open Google Chrome for me, please, so I can start browsing.","instruction"
-"What is the meaning of life according to different philosophies?","query"
-"Please run Chrome browser immediately for me, thanks.","instruction"
-"Could you tell me about the tallest mountain peaks around the world?","query"
-"Start the Chrome application on my laptop now, please.","instruction"
-"Who is the current president of the United States of America?","query"
-"I want you to start the Google Chrome application on this machine.","instruction"
-"How can I improve my writing skills for better communication?","query"
-"Can you open Chrome browser on my system at once?","instruction"
-"What is the official currency used in Japan?","query"
-"Could you start the Google Chrome application on my device immediately?","instruction"
-"I'm wondering if you can tell me what time the next train to New York departs?","query"
-"Please open the Google Chrome browser on my computer now.","instruction"
-"How is the traffic on my usual route to work this morning?","query"
-"What are the health benefits of drinking green tea regularly?","query"
-"Would you open the Google Chrome browser on my system?","instruction"
-"What is the best way to learn Python programming quickly?","query"
-"I would like to open Chrome on my laptop right now, please.","instruction"
-"Can you tell me about the history of the city of Rome?","query"
-"Open Chrome browser immediately so I can get started.","instruction"
-"How do I connect my printer wirelessly to my laptop?","query"
-"Run the Chrome browser so I can check my emails, please.","instruction"
-"Could you please tell me how I can reset my password if I've forgotten it?","query"
-"Open Chrome on my personal computer as soon as possible.","instruction"
-"Launch the Chrome browser on my computer so I can start browsing the internet.","instruction"
-"Where can I find the best pizza place nearby according to reviews?","query"
-"Can you explain the basics of blockchain technology in simple terms?","query"
-"Please go ahead and launch Google Chrome on the system for me.","instruction"
-"Open the Chrome browser now so I can start working on my projects.","instruction"
-"Kindly start Google Chrome on my laptop now, thank you.","instruction"
-"I would like you to open the Google Chrome browser on my computer right now.","instruction"
-"Please open up Chrome on my device when you have a moment.","instruction"
-"Can you open the Chrome browser on my PC, please?","instruction"
-"Could you please open the Google Chrome browser on my device immediately?","instruction"
-"Please open Google Chrome now so I can check my online accounts.","instruction"
-"Start the Chrome application on this computer so I can begin my work.","instruction"
-"I want you to open the Chrome browser and get it started immediately.","instruction"
-"What's the difference between renewable and non-renewable energy sources?","query"
-"Execute Chrome browser startup on my workstation now.","instruction"
-"How do you calculate compound interest on investments?","query"
-"Which ancient civilization built Machu Picchu in Peru?","query"
-"Activate Google Chrome application on this desktop immediately.","instruction"
-"What are the main causes of global deforestation?","query"
-"Initialize Chrome web browser on my machine right away.","instruction"
-"How do dolphins communicate with each other underwater?","query"
-"Boot up the Chrome browser software on my computer.","instruction"
-"What's the process of making cheese from milk?","query"
-"What are the different types of clouds in meteorology?","query"
-"Commence Chrome browser operation on this device now.","instruction"
-"How do you perform CPR correctly in an emergency?","query"
-"Load Chrome internet browser on my system immediately.","instruction"
-"What causes earthquakes and how are they measured?","query"
-"Initiate Google Chrome program on my laptop right now.","instruction"
-"Which vitamins are essential for healthy bone development?","query"
-"What's the history behind the invention of the printing press?","query"
-"Power up Chrome web browser on this computer please.","instruction"
-"How do you grow tomatoes successfully in a home garden?","query"
-"Start up Chrome browser application on my PC now.","instruction"
-"What are the benefits of meditation for mental health?","query"
-"Launch Chrome internet application on my device immediately.","instruction"
-"How do you change a car's brake pads safely?","query"
-"What's the difference between bacteria and viruses?","query"
-"Fire up Chrome browser program on my workstation.","instruction"
-"How do you make sourdough bread starter from scratch?","query"
-"Begin Chrome web application on this machine now.","instruction"
-"What are the main components of the human digestive system?","query"
-"Engage Chrome browser software on my computer right away.","instruction"
-"How do you properly winterize a swimming pool?","query"
-"What's the science behind how airplanes achieve lift?","query"
-"Trigger Chrome browser launch on my desktop system.","instruction"
-"How do you identify poisonous mushrooms in the wild?","query"
-"Open up Chrome web browser on my device now.","instruction"
-"What are the different phases of the moon cycle?","query"
-"Run Chrome browser startup on this computer immediately.","instruction"
-"How do you make natural dyes from plants and flowers?","query"
-"What's the process of photosynthesis in desert plants?","query"
-"Execute Chrome application startup on my machine.","instruction"
-"How do you properly maintain a motorcycle engine?","query"
-"Activate Chrome web browser on this system now.","instruction"
-"What are the health effects of air pollution on humans?","query"
-"Initialize Chrome browser on my workstation right away.","instruction"
-"How do you build a birdhouse for different bird species?","query"
-"What's the difference between hardwood and softwood trees?","query"
-"Boot Chrome internet browser on my computer now.","instruction"
-"How do you preserve flowers using different drying methods?","query"
-"Commence Chrome application on this device immediately.","instruction"
-"What are the major ocean currents around the world?","query"
-"Load Google Chrome on my desktop system right now.","instruction"
-"How do you train a puppy to walk on a leash?","query"
-"What's the history of the Great Pyramid of Giza?","query"
-"Initiate Chrome web browser on my machine now.","instruction"
-"How do you make homemade soap with natural ingredients?","query"
-"Power up Google Chrome on this computer immediately.","instruction"
-"What are the different types of renewable energy technologies?","query"
-"Start Chrome browser on my workstation right away.","instruction"
-"How do you identify constellations in the night sky?","query"
-"What's the process of honey production by bees?","query"
-"Launch Google Chrome application on my device now.","instruction"
-"How do you compost kitchen scraps effectively at home?","query"
-"Fire up Chrome web browser on this system immediately.","instruction"
-"What are the main layers of Earth's atmosphere?","query"
-"Begin Chrome browser on my computer right now.","instruction"
-"How do you knit a basic scarf for beginners?","query"
-"What's the difference between stalactites and stalagmites?","query"
-"Engage Google Chrome on my desktop immediately.","instruction"
-"How do you properly store wine for aging?","query"
-"Trigger Chrome application startup on this machine now.","instruction"
-"What are the main causes of ocean acidification?","query"
-"Open Chrome browser on my workstation right away.","instruction"
-"How do you build a raised garden bed from scratch?","query"
-"What's the science behind how magnets work?","query"
-"Run Google Chrome startup on my computer now.","instruction"
-"How do you make natural pest control for houseplants?","query"
-"Execute Chrome web browser on this device immediately.","instruction"
-"What are the different types of volcanic eruptions?","query"
-"Activate Chrome application on my system right now.","instruction"
-"How do you properly care for a cast iron skillet?","query"
-"What's the process of coffee bean roasting?","query"
-"Initialize Google Chrome on my machine immediately.","instruction"
-"How do you create a butterfly garden in your backyard?","query"
-"Boot up Chrome browser on this computer now.","instruction"
-"What are the health benefits of different herbal teas?","query"
-"Commence Google Chrome on my workstation right away.","instruction"
-"How do you make homemade yogurt without special equipment?","query"
-"What's the difference between hurricanes and typhoons?","query"
-"Load Chrome application on my desktop now.","instruction"
-"How do you properly sharpen kitchen knives at home?","query"
-"Initiate Chrome web browser on this device immediately.","instruction"
-"What are the main types of cloud computing services?","query"
-"Power up Google Chrome on my system right now.","instruction"
-"How do you create a rain garden for water conservation?","query"
-"What's the history behind the invention of chocolate?","query"
-"Start up Chrome browser on my machine now.","instruction"
-"How do you make natural cleaning products from household items?","query"
-"Launch Chrome application on this computer immediately.","instruction"
-"What are the different stages of butterfly metamorphosis?","query"
-"Fire up Google Chrome on my workstation right away.","instruction"
-"How do you properly prune fruit trees for better yield?","query"
-"What's the science behind how satellites stay in orbit?","query"
+"i want to know what is the humidity",query
+"what is the temperature please",query
+"what is the wind speed in mumbai please",query
+"how is the weather in mumbai",query
+"can you tell me what is the humidity in delhi?",query
+"could you tell me, whats the temperature in mumbai",query
+"i want to know what is the humidity",query
+"can you please tell me how is the weather?",query
+"could you tell me, whats the temperature in mumbai",query
+"i want to know can you please tell me how is the weather",query
+"i want to know what is the temperature",query
+"can you please tell me how is the weather?",query
+"could you tell me, what is the humidity in delhi",query
+"i want to know what is the humidity",query
+"could you tell me, what is the wind speed",query
+"what is the humidity",query
+"could you tell me, what is the wind speed in mumbai",query
+"how is the weather",query
+"how is the weather in mumbai?",query
+"hey, what is the wind speed",query
+"could you tell me, how is the weather in mumbai",query
+"can you tell me how is the weather in my location?",query
+"how is the weather",query
+"what is the humidity in delhi",query
+"how is the weather",query
+"can you tell me how is the weather?",query
+"what is the temperature",query
+"can you tell me how is the weather in my location?",query
+"can you please tell me how is the weather?",query
+"i want to know what is the humidity in delhi",query
+"i want to know what is the humidity near me",query
+"hey, what is the humidity near me",query
+"what is the humidity please",query
+"what is the wind speed?",query
+"what is the humidity in delhi",query
+"i want to know what is the humidity in delhi",query
+"how is the weather in my location",query
+"hey, whats the temperature in mumbai",query
+"what is the humidity",query
+"hey, what is the temperature",query
+"could you tell me, what is the wind speed",query
+"i want to know whats the temperature in mumbai",query
+"could you tell me, how is the weather",query
+"hey, whats the temperature in mumbai",query
+"could you tell me, what is the humidity in delhi",query
+"how is the weather please",query
+"could you tell me, what is the wind speed in mumbai",query
+"what is the wind speed in mumbai",query
+"i want to know whats the temperature in mumbai",query
+"what is the wind speed please",query
+"can you please tell me how is the weather?",query
+"how is the weather in mumbai",query
+"i want to know can you please tell me how is the weather",query
+"could you tell me, how is the weather in mumbai",query
+"could you tell me, what is the wind speed",query
+"what is the wind speed",query
+"could you tell me, what is the wind speed in mumbai",query
+"how is the weather in mumbai",query
+"could you tell me, whats the temperature in mumbai",query
+"what is the humidity",query
+"could you tell me, what is the wind speed in mumbai",query
+"can you tell me how is the weather in my location?",query
+"i want to know what is the wind speed",query
+"hey, what is the humidity in delhi",query
+"i want to know what is the wind speed in mumbai",query
+"what is the wind speed please",query
+"could you tell me, how is the weather",query
+"how is the weather?",query
+"how is the weather in my location",query
+"how is the weather in my location",query
+"hey, how is the weather in mumbai",query
+"can you please tell me how is the weather?",query
+"hey, what is the humidity in delhi",query
+"what is the humidity near me please",query
+"can you tell me what is the temperature?",query
+"whats the temperature in mumbai",query
+"what is the wind speed in mumbai?",query
+"how is the weather in mumbai?",query
+"how is the weather in mumbai?",query
+"can you tell me what is the humidity in delhi?",query
+"could you tell me, what is the humidity",query
+"i want to know whats the temperature in mumbai",query
+"can you tell me how is the weather?",query
+"i want to know what is the wind speed in mumbai",query
+"hey, how is the weather in mumbai",query
+"hey, how is the weather",query
+"i want to know how is the weather in my location",query
+"hey, what is the humidity near me",query
+"can you tell me how is the weather in mumbai?",query
+"whats the temperature in mumbai",query
+"i want to know what is the humidity in delhi",query
+"could you tell me, what is the humidity near me",query
+"could you tell me, what is the temperature",query
+"can you tell me what is the humidity?",query
+"hey, how is the weather in my location",query
+"what is the temperature?",query
+"what is the wind speed",query
+"could you tell me, what is the humidity in delhi",query
+"what is the wind speed in mumbai",query
+"i want to know can you please tell me how is the weather",query
+"can you tell me how is the weather in mumbai?",query
+"i want to know can you please tell me how is the weather",query
+"can you tell me what is the wind speed?",query
+"hey, how is the weather in my location",query
+"what is the wind speed in mumbai",query
+"whats the temperature in mumbai",query
+"what is the temperature",query
+"whats the temperature in mumbai",query
+"could you tell me, what is the wind speed",query
+"hey, what is the wind speed",query
+"what is the wind speed in mumbai?",query
+"i want to know how is the weather in my location",query
+"could you tell me, what is the humidity",query
+"hey, what is the temperature",query
+"what is the humidity near me please",query
+"whats the temperature in mumbai please",query
+"i want to know what is the wind speed",query
+"how is the weather?",query
+"i want to know whats the temperature in mumbai",query
+"what is the wind speed in mumbai",query
+"i want to know whats the temperature in mumbai",query
+"what is the humidity near me",query
+"hey, how is the weather in mumbai",query
+"can you tell me how is the weather?",query
+"what is the wind speed in mumbai?",query
+"can you please tell me the date",query
+"could you tell me, can you please tell me the date",query
+"what is the date today?",query
+"can you please tell me the date and time",query
+"i want to know can you please tell me the date and time",query
+"i want to know can you please tell me the date",query
+"hey, what is the date today",query
+"can you please tell me the date and time",query
+"i want to know can you please tell me the time",query
+"whats the time please",query
+"whats the time please",query
+"i want to know whats the date",query
+"hey, what is the date today",query
+"could you tell me, whats the time",query
+"hey, can you please tell me the date",query
+"whats the time?",query
+"can you please tell me the time please",query
+"hey, whats the date",query
+"can you tell me whats the date and time?",query
+"could you tell me, can you please tell me the time",query
+"i want to know whats the date",query
+"whats the date and time",query
+"can you please tell me the time?",query
+"hey, what is the date today",query
+"hey, can you please tell me the time",query
+"whats the date and time",query
+"whats the date and time",query
+"hey, whats the date",query
+"i want to know tell the date",query
+"i want to know can you please tell me the date and time",query
+"can you please tell me the date and time?",query
+"whats the date",query
+"whats the date and time",query
+"whats the time?",query
+"i want to know whats the time",query
+"whats the time",query
+"can you please tell me the time?",query
+"can you tell me whats the date?",query
+"whats the date?",query
+"hey, can you please tell me the date",query
+"can you please tell me the date and time",query
+"can you tell me can you please tell me the date?",query
+"can you tell me whats the time?",query
+"whats the time",query
+"can you tell me tell the date?",query
+"whats the date and time please",query
+"what is the date today please",query
+"could you tell me, whats the date and time",query
+"i want to know whats the date and time",query
+"tell the date?",query
+"whats the date?",query
+"can you tell me whats the time?",query
+"whats the date",query
+"can you please tell me the time",query
+"could you tell me, whats the date and time",query
+"can you tell me whats the time?",query
+"can you please tell me the date",query
+"whats the date",query
+"can you tell me can you please tell me the time?",query
+"i want to know can you please tell me the date and time",query
+"i want to know what is the date today",query
+"what is the date today?",query
+"i want to know what is the date today",query
+"tell the date please",query
+"tell the date",query
+"can you please tell me the date and time",query
+"what is the date today?",query
+"can you tell me whats the date and time?",query
+"can you please tell me the date please",query
+"hey, what is the date today",query
+"hey, can you please tell me the time",query
+"hey, can you please tell me the date",query
+"whats the time",query
+"what is the date today please",query
+"whats the time",query
+"can you please tell me the date",query
+"can you please tell me the date and time?",query
+"whats the date",query
+"what is the date today?",query
+"can you tell me whats the date?",query
+"can you please tell me the date",query
+"can you tell me can you please tell me the date?",query
+"i want to know tell the date",query
+"could you tell me, can you please tell me the time",query
+"whats the time please",query
+"whats the date and time",query
+"could you tell me, tell the date",query
+"hey, can you please tell me the date and time",query
+"tell the date",query
+"whats the date and time",query
+"whats the time please",query
+"hey, can you please tell me the date and time",query
+"what is the date today",query
+"can you tell me whats the date and time?",query
+"can you tell me can you please tell me the time?",query
+"hey, can you please tell me the date and time",query
+"can you please tell me the time please",query
+"whats the date and time please",query
+"hey, can you please tell me the date and time",query
+"whats the date",query
+"can you please tell me the time",query
+"tell the date",query
+"i want to know whats the date",query
+"whats the date and time?",query
+"can you please tell me the date",query
+"whats the time",query
+"hey, what is the date today",query
+"whats the date please",query
+"can you tell me tell the date?",query
+"i want to know whats the time",query
+"could you tell me, can you please tell me the time",query
+"can you please tell me the time please",query
+"whats the time please",query
+"hey, whats the date",query
+"whats the date and time?",query
+"whats the time?",query
+"hey, can you please tell me the time",query
+"could you tell me, whats the date and time",query
+"whats the date and time",query
+"i want to know tell the date",query
+"can you please tell me the date and time please",query
+"can you tell me tell the date?",query
+"hey, can you please tell me the date and time",query
+"can you please tell me the date and time?",query
+"whats the date",query
+"could you tell me, whats my location",query
+"can you please tell me my current location",query
+"can you please tell me my current location?",query
+"i want to know can you please tell me my current location",query
+"whats my location",query
+"i want to know can you please tell me my current location",query
+"hey, can you please tell me my current location",query
+"could you tell me, whats my current location",query
+"could you tell me, whats my current location",query
+"could you tell me, can you tell me the location",query
+"can you please tell me my location",query
+"can you please tell me my current location?",query
+"can you please tell me my location",query
+"hey, can you please tell me my current location",query
+"can you please tell me my location?",query
+"can you please tell me my current location?",query
+"could you tell me, can you please tell me my location",query
+"can you tell me can you please tell me my location?",query
+"can you please tell me my current location",query
+"can you please tell me my location",query
+"whats my location?",query
+"can you tell me the location please",query
+"could you tell me, whats my current location",query
+"can you please tell me my current location",query
+"i want to know whats my current location",query
+"can you please tell me my current location",query
+"can you tell me the location please",query
+"could you tell me, whats my current location",query
+"whats my current location?",query
+"whats my current location?",query
+"could you tell me, can you please tell me my current location",query
+"can you tell me whats my current location?",query
+"hey, whats my current location",query
+"can you please tell me my location",query
+"whats my current location?",query
+"i want to know can you tell me the location",query
+"whats my location",query
+"could you tell me, can you please tell me my location",query
+"i want to know can you please tell me my current location",query
+"can you please tell me my location",query
+"can you please tell me my current location",query
+"hey, can you tell me the location",query
+"whats my location",query
+"can you tell me can you please tell me my location?",query
+"can you please tell me my location please",query
+"can you please tell me my location?",query
+"could you tell me, can you tell me the location",query
+"can you please tell me my current location please",query
+"can you please tell me my current location please",query
+"whats my location please",query
+"can you please tell me my location please",query
+"whats my current location",query
+"can you please tell me my current location please",query
+"could you tell me, whats my current location",query
+"can you tell me the location?",query
+"can you tell me whats my location?",query
+"hey, can you please tell me my location",query
+"can you please tell me my current location",query
+"hey, can you tell me the location",query
+"can you please tell me my current location",query
+"can you please tell me my location",query
+"whats my location please",query
+"whats my current location please",query
+"hey, can you please tell me my current location",query
+"whats my location",query
+"whats my location",query
+"can you please tell me my location",query
+"whats my current location",query
+"hey, whats my current location",query
+"i want to know whats my location",query
+"whats my location",query
+"could you tell me, whats my location",query
+"can you please tell me my location",query
+"can you tell me the location",query
+"whats my current location please",query
+"can you tell me whats my current location?",query
+"can you tell me whats my current location?",query
+"can you tell me the location?",query
+"can you tell me whats my location?",query
+"hey, whats my current location",query
+"whats my current location",query
+"whats my location",query
+"can you please tell me my location please",query
+"can you tell me the location?",query
+"whats my current location please",query
+"can you please tell me my location",query
+"can you please tell me my current location",query
+"i want to know whats my location",query
+"can you please tell me my current location",query
+"whats my location",query
+"could you tell me, whats my current location",query
+"can you tell me the location",query
+"can you please tell me my current location",query
+"i want to know can you please tell me my location",query
+"whats my current location?",query
+"could you tell me, can you please tell me my current location",query
+"can you please tell me my current location please",query
+"could you tell me, can you please tell me my current location",query
+"can you tell me can you please tell me my current location?",query
+"can you please tell me my current location?",query
+"can you please tell me my location please",query
+"could you tell me, can you tell me the location",query
+"can you tell me the location please",query
+"can you please tell me my current location please",query
+"whats my location",query
+"could you tell me, can you please tell me my location",query
+"hey, whats my current location",query
+"could you tell me, can you tell me the location",query
+"could you tell me, can you tell me the location",query
+"can you tell me the location?",query
+"can you please tell me my current location please",query
+"can you tell me the location?",query
+"could you tell me, can you please tell me my location",query
+"can you please tell me my current location",query
+"can you please tell me my location",query
+"can you tell me whats my current location?",query
+"i want to know can you please tell me my current location",query
+"hey, whats my current location",query
+"i want to know can you tell me the location",query
+"can you tell me whats my location?",query
+"whats my location",query
+"can you tell me the location please",query
+"can you tell me the location",query
+"hey, whats my current location",query
+"can you please tell me my current location please",query
+"what is the value of 1 usd in inr",query
+"can you tell me whats the gold rate?",query
+"i want to know tell me about nvidia",query
+"can you tell me whats the gold rate?",query
+"tell me about nvidia please",query
+"can you tell me tell me about nvidia?",query
+"whats the latest model of iphone?",query
+"could you tell me, tell me about nvidia",query
+"latest news of india",query
+"could you tell me, tell me about nvidia",query
+"what is the value of 1 usd in inr",query
+"could you tell me, whats the latest model of iphone",query
+"hey, latest news of india",query
+"whats the latest model of iphone",query
+"whats the latest model of iphone",query
+"i want to know whats the gold rate",query
+"could you tell me, whats the gold rate",query
+"whats the latest model of iphone?",query
+"what is the value of 1 usd in inr please",query
+"could you tell me, tell me about nvidia",query
+"could you tell me, whats the gold rate",query
+"can you tell me whats the latest model of iphone?",query
+"whats the latest model of iphone?",query
+"what is the value of 1 usd in inr",query
+"tell me about nvidia",query
+"whats the latest model of iphone please",query
+"i want to know latest news of india",query
+"tell me about nvidia",query
+"i want to know what is the value of 1 usd in inr",query
+"hey, latest news of india",query
+"whats the gold rate please",query
+"whats the gold rate?",query
+"could you tell me, what is the value of 1 usd in inr",query
+"what is the value of 1 usd in inr please",query
+"whats the gold rate",query
+"tell me about nvidia please",query
+"what is the value of 1 usd in inr please",query
+"whats the latest model of iphone please",query
+"can you tell me whats the latest model of iphone?",query
+"whats the gold rate please",query
+"whats the gold rate",query
+"hey, tell me about nvidia",query
+"what is the value of 1 usd in inr",query
+"latest news of india?",query
+"tell me about nvidia",query
+"i want to know tell me about nvidia",query
+"whats the latest model of iphone",query
+"whats the gold rate please",query
+"hey, whats the gold rate",query
+"i want to know what is the value of 1 usd in inr",query
+"can you tell me latest news of india?",query
+"i want to know latest news of india",query
+"hey, latest news of india",query
+"hey, what is the value of 1 usd in inr",query
+"hey, whats the gold rate",query
+"could you tell me, what is the value of 1 usd in inr",query
+"latest news of india",query
+"tell me about nvidia?",query
+"latest news of india",query
+"could you tell me, latest news of india",query
+"what is the value of 1 usd in inr",query
+"hey, whats the latest model of iphone",query
+"latest news of india?",query
+"i want to know what is the value of 1 usd in inr",query
+"can you tell me whats the gold rate?",query
+"whats the latest model of iphone",query
+"what is the value of 1 usd in inr",query
+"hey, what is the value of 1 usd in inr",query
+"whats the gold rate?",query
+"latest news of india?",query
+"latest news of india",query
+"could you tell me, whats the latest model of iphone",query
+"latest news of india",query
+"whats the gold rate",query
+"hey, latest news of india",query
+"whats the latest model of iphone",query
+"latest news of india please",query
+"hey, whats the gold rate",query
+"tell me about nvidia",query
+"whats the latest model of iphone please",query
+"whats the latest model of iphone?",query
+"what is the value of 1 usd in inr",query
+"i want to know tell me about nvidia",query
+"i want to know whats the latest model of iphone",query
+"tell me about nvidia?",query
+"whats the latest model of iphone",query
+"hey, what is the value of 1 usd in inr",query
+"whats the latest model of iphone please",query
+"latest news of india",query
+"tell me about nvidia please",query
+"latest news of india?",query
+"could you tell me, what is the value of 1 usd in inr",query
+"can you tell me latest news of india?",query
+"hey, what is the value of 1 usd in inr",query
+"could you tell me, latest news of india",query
+"hey, whats the gold rate",query
+"whats the latest model of iphone please",query
+"latest news of india?",query
+"tell me about nvidia please",query
+"whats the gold rate",query
+"can you tell me latest news of india?",query
+"i want to know latest news of india",query
+"whats the gold rate",query
+"latest news of india?",query
+"tell me about nvidia please",query
+"could you tell me, latest news of india",query
+"what is the value of 1 usd in inr please",query
+"latest news of india",query
+"whats the gold rate",query
+"could you tell me, tell me about nvidia",query
+"can you tell me tell me about nvidia?",query
+"i want to know what is the value of 1 usd in inr",query
+"whats the latest model of iphone please",query
+"can you tell me what is the value of 1 usd in inr?",query
+"can you tell me whats the latest model of iphone?",query
+"tell me about nvidia",query
+"hey, tell me about nvidia",query
+"tell me about nvidia",query
+"latest news of india please",query
+"tell me about nvidia",query
+"whats the latest model of iphone",query
+"what is the value of 1 usd in inr",query
+"what is the value of 1 usd in inr please",query
+"latest news of india please",query
+"whats the gold rate",query
+"how/what is the weather",query
+"can you please tell me how is the weather",query
+"how is the weather in my location",query
+"how is the weather in mumbai",query
+"whats the temperature in mumbai",query
+"what is the temperature",query
+"what is the humidity near me",query
+"what is the humidity in delhi",query
+"what is the humidity",query
+"what is the wind speed",query
+"what is the wind speed in mumbai",query
+"whats the time",query
+"can you please tell me the time",query
+"whats the date",query
+"what is the date today",query
+"can you please tell me the date",query
+"tell the date",query
+"whats the date and time",query
+"can you please tell me the date and time",query
+"whats my current location",query
+"whats my location",query
+"can you tell me the location",query
+"can you please tell me my current location",query
+"can you please tell me my location",query
+"whats the latest model of iphone",query
+"tell me about nvidia",query
+"whats the gold rate",query
+"what is the value of 1 usd in inr",query
+"latest news of india",query
+"how is the weather today",query
+"what is the current weather",query
+"can you check the weather",query
+"tell me the weather forecast",query
+"weather update please",query
+"whats the weather like",query
+"how is the weather outside",query
+"current weather conditions",query
+"weather report for today",query
+"check the weather for me",query
+"what is the weather forecast",query
+"how is the weather right now",query
+"weather in chennai",query
+"temperature in delhi",query
+"whats the temperature today",query
+"current temperature reading",query
+"how hot is it today",query
+"temperature check please",query
+"what is the current temperature",query
+"temperature outside",query
+"how cold is it",query
+"todays temperature",query
+"temperature in bangalore",query
+"whats the temp",query
+"temperature near me",query
+"humidity level today",query
+"current humidity",query
+"humidity percentage",query
+"whats the humidity level",query
+"humidity in mumbai",query
+"check humidity",query
+"humidity reading",query
+"moisture level",query
+"humidity index",query
+"atmospheric humidity",query
+"humidity in kolkata",query
+"current humidity level",query
+"wind speed today",query
+"current wind speed",query
+"how fast is the wind",query
+"wind velocity",query
+"wind speed in delhi",query
+"check wind speed",query
+"wind conditions",query
+"wind speed reading",query
+"whats the wind like",query
+"wind speed in hyderabad",query
+"current wind conditions",query
+"wind measurement",query
+"what time is it",query
+"current time please",query
+"tell me the current time",query
+"time check",query
+"whats the time now",query
+"current time",query
+"time right now",query
+"can you give me the time",query
+"show me the time",query
+"time please",query
+"what is the time now",query
+"time update",query
+"whats todays date",query
+"current date",query
+"todays date please",query
+"what date is it",query
+"date today",query
+"tell me todays date",query
+"whats the date today",query
+"date check",query
+"current date please",query
+"show me the date",query
+"what is todays date",query
+"date right now",query
+"current date and time",query
+"time and date please",query
+"whats the time and date",query
+"date time now",query
+"current time and date",query
+"time date check",query
+"show time and date",query
+"tell me time and date",query
+"current time date",query
+"todays time and date",query
+"time and date right now",query
+"where am i currently",query
+"my current position",query
+"where am i right now",query
+"current location please",query
+"tell me where i am",query
+"my location now",query
+"where am i located",query
+"current position",query
+"my present location",query
+"where i am now",query
+"location check",query
+"my coordinates",query
+"find my location",query
+"detect my location",query
+"show my location",query
+"where am i situated",query
+"current gps location",query
+"locate me",query
+"my geographical location",query
+"position check",query
+"where am i standing",query
+"my whereabouts",query
+"tell me my location",query
+"show my position",query
+"latest iphone model",query
+"newest iphone version",query
+"most recent iphone",query
+"current iphone model",query
+"latest apple phone",query
+"new iphone release",query
+"iphone latest version",query
+"recent iphone model",query
+"current apple iphone",query
+"newest apple phone",query
+"latest iphone launch",query
+"information about nvidia",query
+"nvidia company details",query
+"about nvidia corporation",query
+"nvidia business info",query
+"nvidia company overview",query
+"what is nvidia",query
+"nvidia information",query
+"details about nvidia",query
+"nvidia company data",query
+"overview of nvidia",query
+"nvidia facts",query
+"current gold price",query
+"gold rate today",query
+"price of gold",query
+"gold market rate",query
+"todays gold price",query
+"gold value today",query
+"current gold value",query
+"gold price check",query
+"gold rate now",query
+"gold market price",query
+"gold price update",query
+"usd to inr rate",query
+"dollar to rupee rate",query
+"usd inr exchange rate",query
+"dollar rate today",query
+"usd to inr conversion",query
+"current usd inr rate",query
+"exchange rate usd inr",query
+"dollar rupee rate",query
+"usd inr today",query
+"currency rate usd inr",query
+"dollar to inr value",query
+"india news today",query
+"current india news",query
+"latest indian news",query
+"india news update",query
+"news from india",query
+"indian news today",query
+"recent india news",query
+"india current news",query
+"breaking news india",query
+"todays indian news",query
+"india news now",query
+"whats the weather condition",query
+"weather status",query
+"atmospheric conditions",query
+"climate today",query
+"weather situation",query
+"meteorological conditions",query
+"weather pattern",query
+"environmental conditions",query
+"weather state",query
+"climate conditions",query
+"weather in pune",query
+"weather in kolkata",query
+"weather in hyderabad",query
+"weather in ahmedabad",query
+"weather in jaipur",query
+"weather in lucknow",query
+"weather in kanpur",query
+"weather in nagpur",query
+"weather in indore",query
+"weather in bhopal",query
+"weather in visakhapatnam",query
+"weather in patna",query
+"temperature in pune",query
+"temperature in kolkata",query
+"temperature in hyderabad",query
+"temperature in ahmedabad",query
+"temperature in jaipur",query
+"temperature in lucknow",query
+"temperature in kanpur",query
+"temperature in nagpur",query
+"temperature in indore",query
+"temperature in bhopal",query
+"temperature in visakhapatnam",query
+"temperature in patna",query
+"humidity in pune",query
+"humidity in hyderabad",query
+"humidity in ahmedabad",query
+"humidity in jaipur",query
+"humidity in lucknow",query
+"humidity in kanpur",query
+"humidity in nagpur",query
+"humidity in indore",query
+"humidity in bhopal",query
+"humidity in visakhapatnam",query
+"humidity in patna",query
+"wind speed in pune",query
+"wind speed in kolkata",query
+"wind speed in chennai",query
+"wind speed in ahmedabad",query
+"wind speed in jaipur",query
+"wind speed in lucknow",query
+"wind speed in kanpur",query
+"wind speed in nagpur",query
+"wind speed in indore",query
+"wind speed in bhopal",query
+"wind speed in visakhapatnam",query
+"wind speed in patna",query
+"what time is it right now",query
+"show current time",query
+"time display",query
+"clock time",query
+"present time",query
+"time at the moment",query
+"exact time now",query
+"precise time",query
+"time information",query
+"current clock time",query
+"time status",query
+"live time",query
+"what is the current date",query
+"show current date",query
+"date display",query
+"calendar date",query
+"present date",query
+"date at the moment",query
+"exact date now",query
+"precise date",query
+"date information",query
+"current calendar date",query
+"date status",query
+"live date",query
+"what is the current time and date",query
+"show current time and date",query
+"time date display",query
+"calendar time",query
+"present time and date",query
+"time date information",query
+"exact time and date",query
+"precise time date",query
+"current clock date",query
+"time date status",query
+"live time date",query
+"complete date time",query
+"where am i positioned",query
+"my exact location",query
+"precise location",query
+"location information",query
+"geographical position",query
+"location status",query
+"place where i am",query
+"current site",query
+"present position",query
+"location details",query
+"where i am positioned",query
+"site location",query
+"current place",query
+"location coordinates",query
+"gps position",query
+"coordinate location",query
+"position information",query
+"location data",query
+"present site",query
+"current coordinates",query
+"position details",query
+"location point",query
+"spatial location",query
+"latest samsung phone",query
+"newest samsung model",query
+"recent samsung release",query
+"current samsung phone",query
+"samsung latest model",query
+"new samsung device",query
+"latest oneplus phone",query
+"newest oneplus model",query
+"recent oneplus release",query
+"current oneplus phone",query
+"oneplus latest model",query
+"new oneplus device",query
+"latest xiaomi phone",query
+"newest xiaomi model",query
+"recent xiaomi release",query
+"current xiaomi phone",query
+"xiaomi latest model",query
+"new xiaomi device",query
+"information about google",query
+"google company details",query
+"about google corporation",query
+"google business info",query
+"google company overview",query
+"what is google",query
+"google information",query
+"details about google",query
+"google company data",query
+"overview of google",query
+"google facts",query
+"google background",query
+"information about microsoft",query
+"microsoft company details",query
+"about microsoft corporation",query
+"microsoft business info",query
+"microsoft company overview",query
+"what is microsoft",query
+"microsoft information",query
+"details about microsoft",query
+"microsoft company data",query
+"overview of microsoft",query
+"microsoft facts",query
+"microsoft background",query
+"information about apple",query
+"apple company details",query
+"about apple corporation",query
+"apple business info",query
+"apple company overview",query
+"what is apple",query
+"apple information",query
+"details about apple",query
+"apple company data",query
+"overview of apple",query
+"apple facts",query
+"apple background",query
+"current silver price",query
+"silver rate today",query
+"price of silver",query
+"silver market rate",query
+"todays silver price",query
+"silver value today",query
+"current silver value",query
+"silver price check",query
+"silver rate now",query
+"silver market price",query
+"silver price update",query
+"silver trading price",query
+"current copper price",query
+"copper rate today",query
+"price of copper",query
+"copper market rate",query
+"todays copper price",query
+"copper value today",query
+"current copper value",query
+"copper price check",query
+"copper rate now",query
+"copper market price",query
+"copper price update",query
+"copper trading price",query
+"eur to inr rate",query
+"euro to rupee rate",query
+"eur inr exchange rate",query
+"euro rate today",query
+"eur to inr conversion",query
+"current eur inr rate",query
+"exchange rate eur inr",query
+"euro rupee rate",query
+"eur inr today",query
+"currency rate eur inr",query
+"euro to inr value",query
+"exchange rate today",query
+"gbp to inr rate",query
+"pound to rupee rate",query
+"gbp inr exchange rate",query
+"pound rate today",query
+"gbp to inr conversion",query
+"current gbp inr rate",query
+"exchange rate gbp inr",query
+"pound rupee rate",query
+"gbp inr today",query
+"currency rate gbp inr",query
+"pound to inr value",query
+"british pound rate",query
+"pakistan news today",query
+"current pakistan news",query
+"latest pakistani news",query
+"pakistan news update",query
+"news from pakistan",query
+"pakistani news today",query
+"recent pakistan news",query
+"pakistan current news",query
+"breaking news pakistan",query
+"todays pakistani news",query
+"pakistan news now",query
+"pakistan latest news",query
+"china news today",query
+"current china news",query
+"latest chinese news",query
+"china news update",query
+"news from china",query
+"chinese news today",query
+"recent china news",query
+"china current news",query
+"breaking news china",query
+"todays chinese news",query
+"china news now",query
+"china latest news",query
+"usa news today",query
+"current usa news",query
+"latest american news",query
+"usa news update",query
+"news from usa",query
+"american news today",query
+"recent usa news",query
+"usa current news",query
+"breaking news usa",query
+"todays american news",query
+"usa news now",query
+"usa latest news",query
+"uk news today",query
+"could you tell me tell me about the moon",query
+"how do airplanes fly",query
+"what is climate change",query
+"i want to know about tell me about the moon",query
+"i want to know about how does photosynthesis occur",query
+"explain how does a computer work",query
+"i want to know about what are the seven continents",query
+"please tell me what are mammals",query
+"explain who is albert einstein",query
+"please tell me who is albert einstein",query
+"please tell me who invented the telephone",query
+"explain tell me about the solar instruction",query
+"explain how are rainbows formed",query
+"give me details on what is climate change",query
+"what is ai",query
+"how do airplanes fly",query
+"explain who invented the telephone",query
+"what are mammals",query
+"can you explain what is electricity?",query
+"please tell me tell me about dinosaurs",query
+"can you explain what is the capital of france?",query
+"could you tell me what is python programming",query
+"explain what is python programming",query
+"could you tell me how does photosynthesis occur",query
+"please tell me define gravity",query
+"please tell me how does photosynthesis occur",query
+"could you tell me what is electricity",query
+"what is photosynthesis",query
+"give me details on what is machine learning",query
+"who invented the telephone",query
+"could you tell me how are rainbows formed",query
+"i want to know about how does a computer work",query
+"can you explain tell me a joke?",query
+"i want to know about what is the capital of france",query
+"can you explain explain black holes?",query
+"who invented the telephone",query
+"please tell me what is ai",query
+"could you tell me how does a computer work",query
+"could you tell me what are the seven continents",query
+"could you tell me tell me about the moon",query
+"explain why is the sky blue",query
+"give me details on explain black holes",query
+"explain what is an atom",query
+"please tell me who is albert einstein",query
+"could you tell me what is electricity",query
+"give me details on how does a computer work",query
+"what are the seven continents",query
+"explain black holes",query
+"please tell me what are the seven continents",query
+"explain how does a computer work",query
+"explain black holes",query
+"could you tell me explain black holes",query
+"please tell me what is python programming",query
+"explain explain newton's first law",query
+"i want to know about explain the water cycle",query
+"what is python programming",query
+"could you tell me tell me about the moon",query
+"i want to know about what is electricity",query
+"please tell me who invented the telephone",query
+"what are mammals",query
+"explain tell me a joke",query
+"who invented the telephone",query
+"what are the seven continents",query
+"can you explain explain newton's first law?",query
+"explain how does a computer work",query
+"tell me about the moon",query
+"could you tell me what is photosynthesis",query
+"give me details on what is the capital of france",query
+"explain tell me about the moon",query
+"explain explain the water cycle",query
+"give me details on tell me about the moon",query
+"please tell me tell me about dinosaurs",query
+"please tell me what is the capital of france",query
+"i want to know about how does a computer work",query
+"could you tell me how do airplanes fly",query
+"explain what is ai",query
+"can you explain explain newton's first law?",query
+"explain newton's first law",query
+"what is python programming",query
+"give me details on how does a computer work",query
+"give me details on how are rainbows formed",query
+"who invented the telephone",query
+"how does photosynthesis occur",query
+"what is climate change",query
+"give me details on what is photosynthesis",query
+"i want to know about what is climate change",query
+"what is machine learning",query
+"tell me about dinosaurs",query
+"give me details on why is the sky blue",query
+"explain what is climate change",query
+"please tell me what is climate change",query
+"tell me about dinosaurs",query
+"please tell me what is machine learning",query
+"what is ai",query
+"please tell me what are mammals",query
+"give me details on what is the capital of france",query
+"tell me about the moon",query
+"i want to know about who is albert einstein",query
+"explain black holes",query
+"who invented the telephone",query
+"define gravity",query
+"explain newton's first law",query
+"tell me a joke",query
+"can you explain how does a computer work?",query
+"explain what is machine learning",query
+"give me details on explain newton's first law",query
+"explain what are mammals",query
+"can you explain how do airplanes fly?",query
+"i want to know about what are mammals",query
+"please tell me how does photosynthesis occur",query
+"explain how does photosynthesis occur",query
+"give me details on define gravity",query
+"i want to know about explain newton's first law",query
+"explain tell me about the moon",query
+"tell me about the solar instruction",query
+"please tell me who is albert einstein",query
+"give me details on how are rainbows formed",query
+"explain what is the capital of france",query
+"give me details on how does a computer work",query
+"define gravity",query
+"give me details on tell me about dinosaurs",query
+"give me details on what is ai",query
+"give me details on what is ai",query
+"explain tell me about the moon",query
+"can you explain explain black holes?",query
+"please tell me what is machine learning",query
+"could you tell me explain the water cycle",query
+"what is the capital of france",query
+"give me details on tell me about the moon",query
+"explain how does photosynthesis occur",query
+"who invented the telephone",query
+"i want to know about what is an atom",query
+"give me details on tell me about dinosaurs",query
+"please tell me explain newton's first law",query
+"explain what is python programming",query
+"please tell me what is ai",query
+"i want to know about who is albert einstein",query
+"explain who is albert einstein",query
+"why is the sky blue",query
+"explain define gravity",query
+"explain define gravity",query
+"please tell me explain newton's first law",query
+"can you explain what are mammals?",query
+"explain why is the sky blue",query
+"explain what is ai",query
+"tell me a joke",query
+"who invented the telephone",query
+"i want to know about how do airplanes fly",query
+"please tell me what is climate change",query
+"what is photosynthesis",query
+"how does a computer work",query
+"i want to know about how does photosynthesis occur",query
+"explain explain the water cycle",query
+"can you explain explain black holes?",query
+"could you tell me what is an atom",query
+"tell me about dinosaurs",query
+"please tell me explain the water cycle",query
+"tell me about the solar instruction",query
+"please tell me tell me about the moon",query
+"what is photosynthesis",query
+"explain what is electricity",query
+"i want to know about what is an atom",query
+"could you tell me tell me about the moon",query
+"give me details on what is python programming",query
+"could you tell me define gravity",query
+"i want to know about tell me about the moon",query
+"please tell me tell me a joke",query
+"tell me about the moon",query
+"i want to know about what are the seven continents",query
+"could you tell me how are rainbows formed",query
+"explain what is electricity",query
+"could you tell me what is an atom",query
+"i want to know about explain newton's first law",query
+"please tell me explain black holes",query
+"please tell me what is climate change",query
+"what is electricity",query
+"how do airplanes fly",query
+"give me details on what is python programming",query
+"give me details on what is electricity",query
+"who is albert einstein",query
+"give me details on what is electricity",query
+"give me details on who invented the telephone",query
+"explain why is the sky blue",query
+"can you explain how are rainbows formed?",query
+"could you tell me tell me about dinosaurs",query
+"can you explain what are the seven continents?",query
+"what is machine learning",query
+"explain explain black holes",query
+"can you explain why is the sky blue?",query
+"please tell me what is python programming",query
+"please tell me how does a computer work",query
+"explain why is the sky blue",query
+"explain how are rainbows formed",query
+"what is electricity",query
+"i want to know about define gravity",query
+"give me details on what is climate change",query
+"give me details on who is albert einstein",query
+"can you explain why is the sky blue?",query
+"give me details on what is the capital of france",query
+"please tell me tell me about the moon",query
+"give me details on what is climate change",query
+"could you tell me explain the water cycle",query
+"explain newton's first law",query
+"please tell me explain the water cycle",query
+"please tell me tell me about dinosaurs",query
+"please tell me what is climate change",query
+"give me details on define gravity",query
+"tell me about the moon",query
+"explain tell me about the moon",query
+"give me details on explain black holes",query
+"tell me about dinosaurs",query
+"who invented the telephone",query
+"give me details on how does photosynthesis occur",query
+"give me details on what are the seven continents",query
+"i want to know about why is the sky blue",query
+"i want to know about how are rainbows formed",query
+"can you explain how does photosynthesis occur?",query
+"who is albert einstein",query
+"explain how do airplanes fly",query
+"tell me about the moon",query
+"can you explain who is albert einstein?",query
+"can you explain what is machine learning?",query
+"explain who is albert einstein",query
+"what is machine learning",query
+"explain what is the capital of france",query
+"could you tell me what is machine learning",query
+"please tell me what is the capital of france",query
+"give me details on explain the water cycle",query
+"explain how does photosynthesis occur",query
+"what is photosynthesis",query
+"can you explain what is ai?",query
+"can you explain what is ai?",query
+"can you explain what is photosynthesis?",query
+"who is albert einstein",query
+"can you explain what is the capital of france?",query
+"how does photosynthesis occur",query
+"explain what is photosynthesis",query
+"please tell me how does photosynthesis occur",query
+"please tell me what is the capital of france",query
+"please tell me what is ai",query
+"please tell me what is electricity",query
+"can you explain what is an atom?",query
+"explain define gravity",query
+"i want to know about define gravity",query
+"explain how do airplanes fly",query
+"give me details on tell me a joke",query
+"can you explain how do airplanes fly?",query
+"could you tell me what is python programming",query
+"what is electricity",query
+"could you tell me how does a computer work",query
+"give me details on tell me about dinosaurs",query
+"tell me about the solar instruction",query
+"explain what is python programming",query
+"can you explain what are the seven continents?",query
+"could you tell me explain black holes",query
+"what are mammals",query
+"please tell me how does photosynthesis occur",query
+"give me details on how do airplanes fly",query
+"explain what is the capital of france",query
+"i want to know about what is photosynthesis",query
+"could you tell me what are the seven continents",query
+"i want to know about what are mammals",query
+"give me details on what is python programming",query
+"can you explain who invented the telephone?",query
+"explain what is the capital of france",query
+"i want to know about how are rainbows formed",query
+"explain explain black holes",query
+"what is electricity",query
+"what is climate change",query
+"what is machine learning",query
+"explain tell me a joke",query
+"explain what is an atom",query
+"i want to know about tell me about dinosaurs",query
+"i want to know about what are mammals",query
+"could you tell me why is the sky blue",query
+"i want to know about how does photosynthesis occur",query
+"could you tell me what is an atom",query
+"i want to know about what are the seven continents",query
+"what is python programming",query
+"how do airplanes fly",query
+"i want to know about how does photosynthesis occur",query
+"can you explain what are the seven continents?",query
+"can you explain what are the seven continents?",query
+"please tell me what is ai",query
+"please tell me what is the capital of france",query
+"could you tell me tell me about the moon",query
+"can you explain who is albert einstein?",query
+"how are rainbows formed",query
+"please tell me tell me about dinosaurs",query
+"give me details on explain newton's first law",query
+"explain what is climate change",query
+"explain who is albert einstein",query
+"give me details on define gravity",query
+"explain why is the sky blue",query
+"tell me about the solar instruction",query
+"please tell me how are rainbows formed",query
+"tell me about dinosaurs",query
+"what is an atom",query
+"explain what is ai",query
+"why is the sky blue",query
+"explain why is the sky blue",query
+"explain what is ai",query
+"explain how are rainbows formed",query
+"i want to know about what is photosynthesis",query
+"please tell me what is the capital of france",query
+"explain explain black holes",query
+"what is an atom",query
+"please tell me who invented the telephone",query
+"what are the seven continents",query
+"can you explain what is machine learning?",query
+"give me details on explain newton's first law",query
+"give me details on what is python programming",query
+"please tell me define gravity",query
+"can you explain define gravity?",query
+"please tell me what is the capital of france",query
+"i want to know about how do airplanes fly",query
+"please tell me tell me about the moon",query
+"i want to know about who is albert einstein",query
+"explain what is python programming",query
+"tell me about the moon",query
+"explain why is the sky blue",query
+"give me details on what is ai",query
+"explain how does a computer work",query
+"please tell me tell me about dinosaurs",query
+"i want to know about what is photosynthesis",query
+"please tell me what is electricity",query
+"tell me a joke",query
+"explain what are mammals",query
+"give me details on how are rainbows formed",query
+"what is climate change",query
+"give me details on define gravity",query
+"please tell me who is albert einstein",query
+"explain what are the seven continents",query
+"give me details on what is an atom",query
+"what is the capital of france",query
+"can you explain tell me about the solar instruction?",query
+"what is photosynthesis",query
+"explain how does a computer work",query
+"define gravity",query
+"tell me a joke",query
+"explain why is the sky blue",query
+"what is the capital of france",query
+"what is photosynthesis",query
+"give me details on what is python programming",query
+"give me details on tell me about the solar instruction",query
+"tell me about the solar instruction",query
+"could you tell me explain newton's first law",query
+"please tell me how do airplanes fly",query
+"could you tell me what are mammals",query
+"please tell me what is the capital of france",query
+"explain why is the sky blue",query
+"i want to know about define gravity",query
+"how does a computer work",query
+"explain what is electricity",query
+"i want to know about tell me about the solar instruction",query
+"what is the capital of france",query
+"i want to know about why is the sky blue",query
+"give me details on what is ai",query
+"please tell me what is electricity",query
+"could you tell me what are the seven continents",query
+"please tell me what is the capital of france",query
+"explain what is ai",query
+"what is climate change",query
+"what are the seven continents",query
+"please tell me who is albert einstein",query
+"i want to know about what is photosynthesis",query
+"could you tell me what is machine learning",query
+"could you tell me what is photosynthesis",query
+"how does a computer work",query
+"explain what is the capital of france",query
+"could you tell me how are rainbows formed",query
+"i want to know about who invented the telephone",query
+"please tell me explain newton's first law",query
+"what is electricity",query
+"what is photosynthesis",query
+"what is the capital of france",query
+"please tell me what is ai",query
+"explain explain black holes",query
+"what is photosynthesis",query
+"could you tell me what are mammals",query
+"explain how does a computer work",query
+"i want to know about what are mammals",query
+"how are rainbows formed",query
+"what are mammals",query
+"please tell me who invented the telephone",query
+"how are rainbows formed",query
+"explain the water cycle",query
+"please tell me what is python programming",query
+"please tell me what is python programming",query
+"could you tell me what are mammals",query
+"how do airplanes fly",query
+"explain tell me a joke",query
+"explain black holes",query
+"explain what is python programming",query
+"explain tell me a joke",query
+"what is climate change",query
+"i want to know about tell me about the solar instruction",query
+"i want to know about tell me about the moon",query
+"please tell me tell me about the solar instruction",query
+"tell me a joke",query
+"what are mammals",query
+"give me details on what are mammals",query
+"who is albert einstein",query
+"could you tell me tell me about the solar instruction",query
+"i want to know about tell me about the solar instruction",query
+"please tell me how are rainbows formed",query
+"can you explain what is the capital of france?",query
+"please tell me what are mammals",query
+"can you explain tell me about the solar instruction?",query
+"tell me a joke",query
+"give me details on define gravity",query
+"i want to know about how does photosynthesis occur",query
+"can you explain what is python programming?",query
+"give me details on what is machine learning",query
+"i want to know about why is the sky blue",query
+"explain tell me a joke",query
+"i want to know about why is the sky blue",query
+"i want to know about tell me about the moon",query
+"could you tell me what are the seven continents",query
+"please tell me what is python programming",query
+"i want to know about what are the seven continents",query
+"give me details on tell me about dinosaurs",query
+"i want to know about explain the water cycle",query
+"give me details on what are mammals",query
+"please tell me what are the seven continents",query
+"i want to know about how are rainbows formed",query
+"could you tell me what is machine learning",query
+"can you explain explain the water cycle?",query
+"could you tell me tell me about the solar instruction",query
+"could you tell me what is climate change",query
+"explain what are the seven continents",query
+"how does a computer work",query
+"please tell me tell me a joke",query
+"give me details on tell me a joke",query
+"tell me about the moon",query
+"please tell me who is albert einstein",query
+"could you tell me define gravity",query
+"please tell me who is albert einstein",query
+"give me details on explain newton's first law",query
+"could you tell me who is albert einstein",query
+"tell me a joke",query
+"how do airplanes fly",query
+"i want to know about how are rainbows formed",query
+"give me details on tell me a joke",query
+"i want to know about explain newton's first law",query
+"give me details on how does a computer work",query
+"how do airplanes fly",query
+"what is ai",query
+"what is the capital of france",query
+"explain explain newton's first law",query
+"can you explain what is the capital of france?",query
+"who is albert einstein",query
+"what is machine learning",query
+"can you explain tell me about dinosaurs?",query
+"give me details on how are rainbows formed",query
+"could you tell me what is machine learning",query
+"i want to know about why is the sky blue",query
+"explain who invented the telephone",query
+"could you tell me why is the sky blue",query
+"explain tell me about the moon",query
+"can you explain who invented the telephone?",query
+"explain explain the water cycle",query
+"could you tell me tell me about the solar instruction",query
+"give me details on what is the capital of france",query
+"can you explain what is climate change?",query
+"give me details on tell me about the solar instruction",query
+"tell me about the moon",query
+"give me details on define gravity",query
+"what is machine learning",query
+"could you tell me how are rainbows formed",query
+"explain how are rainbows formed",query
+"explain black holes",query
+"please tell me what is machine learning",query
+"tell me about the solar instruction",query
+"could you tell me what is machine learning",query
+"please tell me what is machine learning",query
+"can you explain tell me about the moon?",query
+"explain explain black holes",query
+"i want to know about what is machine learning",query
+"i want to know about what is climate change",query
+"could you tell me what is an atom",query
+"please tell me what are the seven continents",query
+"could you tell me what is ai",query
+"explain how do airplanes fly",query
+"i want to know about what is climate change",query
+"what is climate change",query
+"please tell me explain newton's first law",query
+"please tell me why is the sky blue",query
+"could you tell me explain black holes",query
+"explain explain the water cycle",query
+"explain what is electricity",query
+"explain tell me about the solar instruction",query
+"explain what is an atom",query
+"can you explain what is climate change?",query
+"explain how do airplanes fly",query
+"give me details on what are mammals",query
+"give me details on explain black holes",query
+"give me details on what is an atom",query
+"explain what are mammals",query
+"who invented the telephone",query
+"what is the capital of france?",query
+"how do i make chocolate chip cookies?",query
+"what time does the library close?",query
+"can you help me with my math homework?",query
+"what is the weather like today?",query
+"how do i reset my password?",query
+"what are the symptoms of a cold?",query
+"how long does it take to cook rice?",query
+"what is the best way to study for exams?",query
+"can you recommend a good book to read?",query
+"how do i change a tire?",query
+"what is the difference between html and css?",query
+"how do i plant tomatoes in my garden?",query
+"what are the hours for the grocery store?",query
+"can you explain photosynthesis?",query
+"how do i make a paper airplane?",query
+"what is the population of new york city?",query
+"how do i backup my phone?",query
+"what are some healthy breakfast ideas?",query
+"how do i calculate compound interest?",query
+"what is the boiling point of water?",query
+"how do i write a resume?",query
+"what are the benefits of exercise?",query
+"how do i learn a new language?",query
+"what is the speed of light?",query
+"how do i organize my closet?",query
+"what are the main causes of pollution?",query
+"how do i make homemade pizza?",query
+"what is the history of the internet?",query
+"how do i take care of houseplants?",query
+"what are the different types of clouds?",query
+"how do i save money on groceries?",query
+"what is the process of photosynthesis?",query
+"how do i improve my public speaking skills?",query
+"what are the planets in our solar instruction?",query
+"how do i make a budget?",query
+"what is the meaning of democracy?",query
+"how do i start a vegetable garden?",query
+"what are the health benefits of drinking water?",query
+"how do i write a thank you letter?",query
+"what is the difference between a virus and bacteria?",query
+"how do i make scrambled eggs?",query
+"what are the basic rules of grammar?",query
+"how do i clean my computer screen?",query
+"what is the importance of recycling?",query
+"how do i tie my shoes properly?",query
+"what are the different types of renewable energy?",query
+"how do i make a smoothie?",query
+"what is the scientific method?",query
+"how do i fold a fitted sheet?",query
+"what are the benefits of reading books?",query
+"how do i care for a pet dog?",query
+"what is the water cycle?",query
+"how do i make french toast?",query
+"what are the basic first aid techniques?",query
+"how do i clean windows without streaks?",query
+"what is the difference between weather and climate?",query
+"how do i start jogging safely?",query
+"what are the main food groups?",query
+"how do i make a paper boat?",query
+"what is the importance of sleep?",query
+"how do i organize my email inbox?",query
+"what are the different types of music genres?",query
+"how do i make lemonade from scratch?",query
+"what is the function of the heart?",query
+"how do i wash delicate clothes?",query
+"what are the basic principles of photography?",query
+"how do i make a friendship bracelet?",query
+"what is the process of digestion?",query
+"how do i clean silver jewelry?",query
+"what are the different seasons and why do they occur?",query
+"how do i make pancakes from scratch?",query
+"what is the importance of voting?",query
+"how do i remove stains from clothing?",query
+"what are the basic cooking measurements?",query
+"how do i make a bird feeder?",query
+"what is the difference between fruits and vegetables?",query
+"how do i create a daily routine?",query
+"what are the benefits of meditation?",query
+"how do i make homemade bread?",query
+"what is the structure of an atom?",query
+"how do i organize my study space?",query
+"what are the different types of rocks?",query
+"how do i make a simple salad?",query
+"what is the importance of handwashing?",query
+"how do i paint a room properly?",query
+"what are the basic swimming strokes?",query
+"how do i make hot chocolate?",query
+"what is the role of vitamins in our body?",query
+"how do i start a compost bin?",query
+"what are the different types of transportation?",query
+"how do i make a kite?",query
+"what is the water pollution and its effects?",query
+"how do i iron clothes properly?",query
+"what are the basic table manners?",query
+"how do i make a simple cake?",query
+"what is the importance of exercise for children?",query
+"how do i clean my car interior?",query
+"what are the different types of art?",query
+"how do i make homemade ice cream?",query
+"what is the process of respiration?",query
+"how do i organize my bookshelf?",query
+"what are the benefits of teamwork?",query
+"how do i make a vegetable soup?",query
+"what is the difference between renewable and non-renewable resources?",query
+"how do i clean my bathroom effectively?",query
+"what are the basic safety rules at home?",query
+"how do i make a grilled cheese sandwich?",query
+"what is the importance of biodiversity?",query
+"how do i start a herb garden indoors?",query
+"what are the different types of mammals?",query
+"how do i make homemade yogurt?",query
+"what is the role of forests in our ecoinstruction?",query
+"how do i clean and maintain my bicycle?",query
+"what are the basic principles of time management?",query
+"how do i make a fruit salad?",query
+"what is the difference between acids and bases?",query
+"how do i organize my kitchen cabinets?",query
+"what are the benefits of drinking green tea?",query
+"how do i make a simple origami crane?",query
+"what is the importance of physical fitness?",query
+"how do i clean my shoes properly?",query
+"what are the different types of birds?",query
+"how do i make homemade pasta?",query
+"what is the process of water purification?",query
+"how do i organize my computer files?",query
+"what are the basic rules of road safety?",query
+"how do i make a healthy smoothie bowl?",query
+"what is the importance of family traditions?",query
+"how do i clean my refrigerator?",query
+"what are the different types of insects?",query
+"how do i make homemade granola?",query
+"what is the role of bees in pollination?",query
+"how do i organize my wardrobe by season?",query
+"what are the benefits of outdoor activities?",query
+"how do i make a simple stir-fry?",query
+"what is the difference between deciduous and evergreen trees?",query
+"how do i clean my laptop keyboard?",query
+"what are the basic principles of nutrition?",query
+"how do i make homemade soap?",query
+"what is the importance of cultural diversity?",query
+"how do i start a small vegetable patch?",query
+"what are the different types of fish?",query
+"how do i make a healthy breakfast smoothie?",query
+"what is the process of photosynthesis in simple terms?",query
+"how do i organize my desk for productivity?",query
+"what are the benefits of regular dental care?",query
+"how do i make homemade pizza dough?",query
+"what is the importance of water conservation?",query
+"how do i clean my windows naturally?",query
+"what are the different types of weather patterns?",query
+"how do i make a simple chicken soup?",query
+"what is the role of recycling in environmental protection?",query
+"how do i organize my photo collection?",query
+"what are the benefits of learning a musical instrument?",query
+"how do i make homemade muffins?",query
+"what is the difference between herbivores and carnivores?",query
+"how do i clean my kitchen appliances?",query
+"what are the basic principles of personal hygiene?",query
+"how do i make a simple garden salad?",query
+"what is the importance of friendship?",query
+"how do i start composting at home?",query
+"what are the different types of trees?",query
+"how do i make homemade jam?",query
+"what is the process of the nitrogen cycle?",query
+"how do i organize my medicine cabinet?",query
+"what are the benefits of volunteering?",query
+"how do i make a simple pasta salad?",query
+"what is the difference between mammals and reptiles?",query
+"how do i clean my ceiling fans?",query
+"what are the basic principles of money management?",query
+"how do i make homemade cookies?",query
+"what is the importance of community service?",query
+"how do i start a flower garden?",query
+"what are the different types of reptiles?",query
+"how do i make a healthy lunch box?",query
+"what is the role of earthworms in soil health?",query
+"how do i organize my craft supplies?",query
+"what are the benefits of reading to children?",query
+"how do i make homemade salad dressing?",query
+"what is the difference between butterflies and moths?",query
+"how do i clean my baseboards?",query
+"what are the basic principles of conflict resolution?",query
+"how do i make a simple quinoa bowl?",query
+"what is the importance of preserving natural habitats?",query
+"how do i organize my garage?",query
+"what are the different types of clouds and their meanings?",query
+"how do i make homemade energy bars?",query
+"what is the process of the carbon cycle?",query
+"how do i clean my outdoor furniture?",query
+"what are the benefits of keeping a journal?",query
+"how do i make a simple tuna salad?",query
+"what is the difference between frogs and toads?",query
+"how do i organize my pantry effectively?",query
+"what are the basic principles of effective communication?",query
+"how do i make homemade trail mix?",query
+"what is the importance of protecting endangered species?",query
+"how do i start a butterfly garden?",query
+"what are the different types of amphibians?",query
+"how do i make a healthy wrap?",query
+"what is the role of decomposers in ecoinstructions?",query
+"how do i organize my holiday decorations?",query
+"what are the benefits of practicing gratitude?",query
+"how do i make homemade hummus?",query
+"what is the difference between spiders and insects?",query
+"how do i clean my light fixtures?",query
+"what are the basic principles of goal setting?",query
+"how do i make a simple bean salad?",query
+"what is the importance of soil conservation?",query
+"how do i organize my tool shed?",query
+"what are the different types of flowers?",query
+"how do i make homemade granola bars?",query
+"what is the process of metamorphosis?",query
+"how do i clean my gutters safely?",query
+"what are the benefits of spending time in nature?",query
+"how do i make a simple rice bowl?",query
+"what is the difference between annuals and perennials?",query
+"how do i organize my linen closet?",query
+"what are the basic principles of stress management?",query
+"how do i make homemade smoothie popsicles?",query
+"what is the importance of seed dispersal?",query
+"how do i start a rain garden?",query
+"what are the different types of mushrooms?",query
+"how do i make a healthy snack mix?",query
+"what is the role of predators in maintaining ecoinstruction balance?",query
+"how do i organize my jewelry collection?",query
+"what are the benefits of learning new skills?",query
+"how do i make homemade crackers?",query
+"what is the difference between evergreen and deciduous plants?",query
+"how do i clean my air vents?",query
+"what are the basic principles of active listening?",query
+"how do i make a simple coleslaw?",query
+"what is the importance of plant pollination?",query
+"how do i organize my basement storage?",query
+"what are the different types of berries?",query
+"how do i make homemade nut butter?",query
+"what is the process of seed germination?",query
+"how do i clean my patio or deck?",query
+"what are the benefits of maintaining a healthy work-life balance?",query
+"how do i make a simple egg salad?",query
+"what is the difference between herbs and spices?",query
+"how do i organize my home office?",query
+"what are the basic principles of problem-solving?",query
+"how do i make homemade veggie chips?",query
+"what is the importance of wetlands?",query
+"how do i start a container garden?",query
+"what are the different types of nuts?",query
+"how do i make a healthy parfait?",query
+"what is the role of mycorrhizae in plant health?",query
+"how do i organize my attic space?",query
+"what are the benefits of regular exercise for mental health?",query
+"how do i make homemade fruit leather?",query
+"what is the difference between monocots and dicots?",query
+"how do i clean my upholstered furniture?",query
+"what are the basic principles of time blocking?",query
+"how do i make a simple potato salad?",query
+"what is the importance of coral reefs?",query
+"how do i organize my craft room?",query
+"what are the different types of grasses?",query
+"how do i make homemade oat milk?",query
+"what is the process of transpiration in plants?",query
+"how do i clean my dryer vent?",query
+"what are the benefits of practicing mindfulness?",query
+"how do i make a simple caprese salad?",query
+"what is the difference between organic and inorganic compounds?",query
+"how do i organize my spice rack?",query
+"what are the basic principles of delegation?",query
+"how do i make homemade energy balls?",query
+"what is the importance of maintaining biodiversity in gardens?",query
+"how do i start a succulent garden?",query
+"what are the different types of cacti?",query
+"how do i make a healthy chicken salad?",query
+"what is the role of nitrogen-fixing bacteria?",query
+"how do i organize my bathroom cabinets?",query
+"what are the benefits of regular stretching?",query
+"how do i make homemade apple sauce?",query
+"what is the difference between hardwood and softwood trees?",query
+"how do i clean my washing machine?",query
+"what are the basic principles of effective teamwork?",query
+"how do i make a simple fruit smoothie?",query
+"what is the importance of soil ph?",query
+"how do i organize my children's toys?",query
+"what are the different types of ferns?",query
+"how do i make homemade pickles?",query
+"what is the process of nitrogen fixation?",query
+"how do i clean my dishwasher?",query
+"what are the benefits of maintaining good posture?",query
+"how do i make a simple greek salad?",query
+"what is the difference between annual and biennial plants?",query
+"how do i organize my shoe collection?",query
+"what are the basic principles of crisis management?",query
+"how do i make homemade kombucha?",query
+"what is the importance of companion planting?",query
+"how do i start an indoor herb garden?",query
+"what are the different types of mosses?",query
+"how do i make a healthy buddha bowl?",query
+"what is the role of beneficial insects in gardens?",query
+"how do i organize my digital photos?",query
+"what are the benefits of practicing deep breathing?",query
+"how do i make homemade granola?",query
+"what is the difference between pruning and trimming?",query
+"how do i clean my coffee maker?",query
+"what are the basic principles of constructive feedback?",query
+"how do i make a simple spinach salad?",query
+"what is the importance of crop rotation?",query
+"how do i organize my holiday gift wrapping supplies?",query
+"what are the different types of orchids?",query
+"how do i make homemade bone broth?",query
+"what is the process of composting?",query
+"how do i clean my microwave naturally?",query
+"what are the benefits of forest bathing?",query
+"how do i make a simple avocado toast?",query
+"what is the difference between mulch and compost?",query
+"how do i organize my workout equipment?",query
+"what are the basic principles of sustainable living?",query
+"how do i make homemade fermented vegetables?",query
+"what is the importance of pollinators?",query
+"how do i start a balcony garden?",query
+"what are the different types of roses?",query
+"how do i make a healthy grain bowl?",query
+"what is the role of earthworms in composting?",query
+"how do i organize my seasonal clothing?",query
+"what are the benefits of cold therapy?",query
+"how do i make homemade seed crackers?",query
+"what is the difference between organic and conventional farming?",query
+"how do i clean my oven naturally?",query
+"what are the basic principles of waste reduction?",query
+"how do i make a simple kale salad?",query
+"what is the importance of green spaces in cities?",query
+"how do i organize my camping gear?",query
+"what are the different types of herbs for cooking?",query
+"how do i make homemade coconut milk?",query
+"what is the process of vermicomposting?",query
+"how do i clean my blender properly?",query
+"what are the benefits of spending time with pets?",query
+"how do i make a simple beet salad?",query
+"what is the difference between heirloom and hybrid seeds?",query
+"how do i organize my art supplies?",query
+"what are the basic principles of energy conservation?",query
+"how do i make homemade almond milk?",query
+"what is the importance of native plants?",query
+"how do i start a windowsill garden?",query
+"what are the different types of lavender?",query
+"how do i make a healthy quinoa salad?",query
+"what is the role of mycorrhizal fungi?",query
+"how do i organize my cleaning supplies?",query
+"what are the benefits of laughter therapy?",query
+"how do i make homemade cashew cheese?",query
+"what is the difference between permaculture and traditional gardening?",query
+"how do i clean my toaster oven?",query
+"what are the basic principles of mindful eating?",query
+"how do i make a simple cucumber salad?",query
+"what is the importance of soil microorganisms?",query
+"how do i organize my board games?",query
+"what are the different types of mint plants?",query
+"how do i make homemade vegetable stock?",query
+"what is the process of natural pest control?",query
+"how do i clean my cutting boards safely?",query
+"what are the benefits of aromatherapy?",query
+"how do i make a simple tomato salad?",query
+"what is the difference between determinate and indeterminate tomatoes?",query
+"how do i organize my music collection?",query
+"what are the basic principles of water-wise gardening?",query
+"how do i make homemade chia pudding?",query
+"what is the importance of beneficial microorganisms?",query
+"how do i start a kitchen scrap garden?",query
+"what are the different types of basil?",query
+"how do i make a healthy power bowl?",query
+"what is the role of cover crops?",query
+"how do i organize my book collection by genre?",query
+"what are the benefits of sound therapy?",query
+"how do i make homemade date syrup?",query
+"what is the difference between organic and biodynamic farming?",query
+"how do i clean my garbage disposal?",query
+"what are the basic principles of circular economy?",query
+"how do i make a simple radish salad?",query
+"what is the importance of seed saving?",query
+"how do i organize my electronic cables?",query
+"what are the different types of sage plants?",query
+"how do i make homemade coconut butter?",query
+"what is the process of natural fertilization?",query
+"how do i clean my range hood filter?",query
+"what are the benefits of color therapy?",query
+"how do i make a simple carrot salad?",query
+"what is the difference between open-pollinated and hybrid varieties?",query
+"how do i organize my magazine collection?",query
+"what are the basic principles of regenerative agriculture?",query
+"how do i make homemade tahini?",query
+"what is the importance of plant diversity?",query
+"how do i start a medicinal herb garden?",query
+"what are the different types of thyme?",query
+"how do i make a healthy cabbage salad?",query
+"what is the role of beneficial nematodes?",query
+"how do i organize my recipe collection?",query
+"what are the benefits of hydrotherapy?",query
+"how do i make homemade sunflower seed butter?",query
+"what is the difference between heirloom and antique varieties?",query
+"how do i clean my water filter?",query
+"what are the basic principles of zero waste living?",query
+"how do i make a simple broccoli salad?",query
+"what is the importance of soil food webs?",query
+"how do i organize my vitamins and supplements?",query
+"what are the different types of rosemary?",query
+"how do i make homemade hemp milk?",query
+"what is the process of biological pest management?",query
+"how do i clean my slow cooker properly?",query
+"what are the benefits of crystal therapy?",query
+"how do i make a simple cauliflower salad?",query
+"what is the difference between conventional and no-till farming?",query
+"how do i organize my workout clothes?",query
+"what are the basic principles of permaculture design?",query
+"how do i make homemade walnut milk?",query
+"what is the importance of habitat corridors?",query
+"how do i start a rooftop garden?",query
+"what are the different types of oregano?",query
+"how do i make a healthy brussels sprouts salad?",query
+"what is the role of predatory insects?",query
+"how do i organize my bathroom toiletries?",query
+"what are the benefits of reflexology?",query
+"how do i make homemade flax milk?",query
+"what is the difference between intensive and extensive farming?",query
+"how do i clean my tea kettle?",query
+"what are the basic principles of biophilic design?",query
+"how do i make a simple fennel salad?",query
+"what is the importance of mycorrhizal networks?",query
+"how do i organize my craft ribbons and trims?",query
+"what are the different types of parsley?",query
+"how do i make homemade rice milk?",query
+"what is the process of integrated pest management?",query
+"how do i clean my pressure cooker?",query
+"what are the benefits of acupressure?",query
+"how do i make a simple asparagus salad?",query
+"what is the difference between monoculture and polyculture?",query
+"how do i organize my winter accessories?",query
+"what are the basic principles of sustainable fashion?",query
+"how do i make homemade pea milk?",query
+"what is the importance of pollinator gardens?",query
+"how do i start a shade garden?",query
+"what are the different types of cilantro?",query
+"how do i make a healthy arugula salad?",query
+"what is the role of companion plants?",query
+"how do i organize my gift bags and tissue paper?",query
+"what are the benefits of massage therapy?",query
+"how do i make homemade macadamia milk?",query
+"what is the difference between synthetic and organic fertilizers?",query
+"how do i clean my juicer thoroughly?",query
+"what are the basic principles of conscious consumption?",query
+"increase the volume",instruction
+"increase the volume by 50",instruction
+"set the volume to 40",instruction
+"can you please increase the volume",instruction
+"can you please increase the volume by 50",instruction
+"can you please set the volume to 40",instruction
+"increase the brightness",instruction
+"increase the brightness by 50",instruction
+"set the brightness to 40",instruction
+"can you please increase the brightness",instruction
+"can you please increase the brightness by 50",instruction
+"can you please set the brightness to 40",instruction
+"shutdown the instruction",instruction
+"shutdown the computer",instruction
+"shutdown the laptop",instruction
+"can you please shutdown the instruction",instruction
+"can you please shutdown the computer",instruction
+"can you please shutdown the laptop",instruction
+"restart the instruction",instruction
+"restart the computer",instruction
+"restart the laptop",instruction
+"can you please restart the instruction",instruction
+"can you please restart the computer",instruction
+"can you please restart the laptop",instruction
+"play shape of you",instruction
+"can you please play interstellar theme on youtube",instruction
+"search quantum computing",instruction
+"search physics on google",instruction
+"can you please search artificial intelligence on google",instruction
+"can you please open chrome for me",instruction
+"can you please open spotify for me",instruction
+"can you please open task manager for me",instruction
+"can you please open notepad for me",instruction
+"open chrome",instruction
+"open spotify",instruction
+"open task manager",instruction
+"open notepad",instruction
+"close the chrome",instruction
+"close the spotify",instruction
+"close the task manager",instruction
+"close the notepad",instruction
+"turn up the volume",instruction
+"make the volume louder",instruction
+"volume up",instruction
+"raise the volume",instruction
+"boost the volume",instruction
+"amplify the volume",instruction
+"enhance the volume",instruction
+"pump up the volume",instruction
+"maximize the volume",instruction
+"crank up the volume",instruction
+"decrease the volume",instruction
+"lower the volume",instruction
+"reduce the volume",instruction
+"mute the volume",instruction
+"turn down the volume",instruction
+"set volume to zero",instruction
+"minimize the volume",instruction
+"quiet the volume",instruction
+"volume down",instruction
+"adjust volume to 75",instruction
+"change volume to 25",instruction
+"modify volume to 60",instruction
+"update volume to 80",instruction
+"configure volume to 35",instruction
+"establish volume at 45",instruction
+"fix volume at 90",instruction
+"determine volume as 20",instruction
+"regulate volume to 55",instruction
+"control volume at 65",instruction
+"manage volume to 30",instruction
+"please increase the volume",instruction
+"could you increase the volume",instruction
+"would you increase the volume",instruction
+"kindly increase the volume",instruction
+"i need you to increase the volume",instruction
+"help me increase the volume",instruction
+"assist me with increasing the volume",instruction
+"make the brightness higher",instruction
+"brighten the screen",instruction
+"turn up the brightness",instruction
+"raise the brightness",instruction
+"boost the brightness",instruction
+"amplify the brightness",instruction
+"enhance the brightness",instruction
+"maximize the brightness",instruction
+"brighten the display",instruction
+"illuminate the screen",instruction
+"decrease the brightness",instruction
+"lower the brightness",instruction
+"reduce the brightness",instruction
+"dim the brightness",instruction
+"turn down the brightness",instruction
+"darken the screen",instruction
+"minimize the brightness",instruction
+"fade the brightness",instruction
+"brightness down",instruction
+"adjust brightness to 75",instruction
+"change brightness to 25",instruction
+"modify brightness to 60",instruction
+"update brightness to 80",instruction
+"configure brightness to 35",instruction
+"establish brightness at 45",instruction
+"fix brightness at 90",instruction
+"determine brightness as 20",instruction
+"regulate brightness to 55",instruction
+"control brightness at 65",instruction
+"manage brightness to 30",instruction
+"please increase the brightness",instruction
+"could you increase the brightness",instruction
+"would you increase the brightness",instruction
+"kindly increase the brightness",instruction
+"i need you to increase the brightness",instruction
+"help me increase the brightness",instruction
+"assist me with increasing the brightness",instruction
+"power off the instruction",instruction
+"turn off the computer",instruction
+"shut down the machine",instruction
+"power down the laptop",instruction
+"turn off the device",instruction
+"switch off the instruction",instruction
+"halt the computer",instruction
+"stop the instruction",instruction
+"end the session",instruction
+"terminate the instruction",instruction
+"close the instruction",instruction
+"exit the instruction",instruction
+"kill the instruction",instruction
+"suspend the computer",instruction
+"hibernate the laptop",instruction
+"sleep the instruction",instruction
+"standby the computer",instruction
+"shutdown now",instruction
+"immediate shutdown",instruction
+"force shutdown",instruction
+"emergency shutdown",instruction
+"quick shutdown",instruction
+"fast shutdown",instruction
+"shutdown please",instruction
+"kindly shutdown",instruction
+"please shutdown",instruction
+"would you shutdown",instruction
+"could you shutdown",instruction
+"i need to shutdown",instruction
+"help me shutdown",instruction
+"reboot the instruction",instruction
+"reboot the computer",instruction
+"restart the machine",instruction
+"reboot the laptop",instruction
+"reset the instruction",instruction
+"refresh the computer",instruction
+"reload the instruction",instruction
+"cycle the computer",instruction
+"reinitialize the instruction",instruction
+"restore the computer",instruction
+"renew the instruction",instruction
+"revive the computer",instruction
+"restart now",instruction
+"immediate restart",instruction
+"force restart",instruction
+"emergency restart",instruction
+"quick restart",instruction
+"fast restart",instruction
+"restart please",instruction
+"kindly restart",instruction
+"please restart",instruction
+"would you restart",instruction
+"could you restart",instruction
+"i need to restart",instruction
+"help me restart",instruction
+"soft restart",instruction
+"hard restart",instruction
+"warm restart",instruction
+"cold restart",instruction
+"play despacito on youtube",instruction
+"play bohemian rhapsody",instruction
+"play imagine dragons",instruction
+"play ed sheeran",instruction
+"play taylor swift",instruction
+"play drake",instruction
+"play adele",instruction
+"play billie eilish",instruction
+"play the weeknd",instruction
+"play ariana grande",instruction
+"play coldplay",instruction
+"play maroon 5",instruction
+"play bruno mars",instruction
+"play justin bieber",instruction
+"play rihanna",instruction
+"play eminem",instruction
+"play kanye west",instruction
+"play beyonce",instruction
+"play dua lipa",instruction
+"play harry styles",instruction
+"play shawn mendes",instruction
+"play selena gomez",instruction
+"play twenty one pilots",instruction
+"play panic at the disco",instruction
+"play fall out boy",instruction
+"play my chemical romance",instruction
+"play linkin park",instruction
+"play green day",instruction
+"play red hot chili peppers",instruction
+"play radiohead",instruction
+"play the beatles",instruction
+"play queen",instruction
+"play led zeppelin",instruction
+"play pink floyd",instruction
+"play ac/dc",instruction
+"play metallica",instruction
+"play guns n roses",instruction
+"play nirvana",instruction
+"play pearl jam",instruction
+"play u2",instruction
+"play the rolling stones",instruction
+"play david bowie",instruction
+"play elvis presley",instruction
+"play michael jackson",instruction
+"play madonna",instruction
+"play whitney houston",instruction
+"play celine dion",instruction
+"play barbra streisand",instruction
+"play frank sinatra",instruction
+"play elvis",instruction
+"can you play despacito",instruction
+"please play bohemian rhapsody",instruction
+"would you play imagine dragons",instruction
+"could you play ed sheeran",instruction
+"kindly play taylor swift",instruction
+"i want to hear drake",instruction
+"play some adele for me",instruction
+"put on billie eilish",instruction
+"start playing the weeknd",instruction
+"launch ariana grande",instruction
+"queue up coldplay",instruction
+"stream maroon 5",instruction
+"search machine learning",instruction
+"search deep learning",instruction
+"search neural networks",instruction
+"search data science",instruction
+"search python programming",instruction
+"search javascript",instruction
+"search web development",instruction
+"search react js",instruction
+"search node js",instruction
+"search angular",instruction
+"search vue js",instruction
+"search html css",instruction
+"search bootstrap",instruction
+"search jquery",instruction
+"search php",instruction
+"search mysql",instruction
+"search mongodb",instruction
+"search sql",instruction
+"search database design",instruction
+"search cloud computing",instruction
+"search aws",instruction
+"search azure",instruction
+"search google cloud",instruction
+"search docker",instruction
+"search kubernetes",instruction
+"search devops",instruction
+"search git github",instruction
+"search linux",instruction
+"search ubuntu",instruction
+"search windows",instruction
+"search cybersecurity",instruction
+"search ethical hacking",instruction
+"search blockchain",instruction
+"search cryptocurrency",instruction
+"search bitcoin",instruction
+"search ethereum",instruction
+"search mobile development",instruction
+"search android development",instruction
+"search ios development",instruction
+"search flutter",instruction
+"search react native",instruction
+"search swift",instruction
+"search kotlin",instruction
+"search java",instruction
+"search c plus plus",instruction
+"search c sharp",instruction
+"search ruby",instruction
+"search go language",instruction
+"search rust",instruction
+"search scala",instruction
+"search r programming",instruction
+"search statistics",instruction
+"search mathematics",instruction
+"search calculus",instruction
+"search algebra",instruction
+"search geometry",instruction
+"search trigonometry",instruction
+"search biology",instruction
+"search chemistry",instruction
+"search psychology",instruction
+"search sociology",instruction
+"search history",instruction
+"search geography",instruction
+"search economics",instruction
+"search finance",instruction
+"search marketing",instruction
+"search business",instruction
+"search entrepreneurship",instruction
+"search philosophy",instruction
+"search literature",instruction
+"search art",instruction
+"search music",instruction
+"search movies",instruction
+"search sports",instruction
+"search fitness",instruction
+"search health",instruction
+"search nutrition",instruction
+"search cooking",instruction
+"search recipes",instruction
+"search travel",instruction
+"search photography",instruction
+"search gaming",instruction
+"search technology",instruction
+"search innovation",instruction
+"search startups",instruction
+"search investing",instruction
+"search stock market",instruction
+"search cryptocurrency trading",instruction
+"search forex",instruction
+"can you search machine learning",instruction
+"please search deep learning",instruction
+"would you search neural networks",instruction
+"could you search data science",instruction
+"kindly search python programming",instruction
+"i want to search javascript",instruction
+"help me search web development",instruction
+"look up react js for me",instruction
+"find information about node js",instruction
+"google search angular",instruction
+"search on google for vue js",instruction
+"lookup html css on google",instruction
+"open firefox",instruction
+"open internet explorer",instruction
+"open edge",instruction
+"open safari",instruction
+"open opera",instruction
+"open brave",instruction
+"open google chrome",instruction
+"open mozilla firefox",instruction
+"open microsoft edge",instruction
+"open apple safari",instruction
+"open opera browser",instruction
+"open brave browser",instruction
+"open music player",instruction
+"open windows media player",instruction
+"open vlc",instruction
+"open itunes",instruction
+"open apple music",instruction
+"open youtube music",instruction
+"open soundcloud",instruction
+"open pandora",instruction
+"open amazon music",instruction
+"open tidal",instruction
+"open deezer",instruction
+"open winamp",instruction
+"open foobar",instruction
+"open audacity",instruction
+"open garageband",instruction
+"open fl studio",instruction
+"open ableton",instruction
+"open pro tools",instruction
+"open logic pro",instruction
+"open cubase",instruction
+"open reaper",instruction
+"open calculator",instruction
+"open calendar",instruction
+"open clock",instruction
+"open alarm",instruction
+"open timer",instruction
+"open stopwatch",instruction
+"open weather",instruction
+"open maps",instruction
+"open google maps",instruction
+"open apple maps",instruction
+"open waze",instruction
+"open uber",instruction
+"open lyft",instruction
+"open settings",instruction
+"open control panel",instruction
+"open device manager",instruction
+"open instruction preferences",instruction
+"open activity monitor",instruction
+"open resource monitor",instruction
+"open performance monitor",instruction
+"open event viewer",instruction
+"open registry editor",instruction
+"open command prompt",instruction
+"open powershell",instruction
+"open terminal",instruction
+"open bash",instruction
+"open cmd",instruction
+"open run",instruction
+"open file explorer",instruction
+"open finder",instruction
+"open my computer",instruction
+"open this pc",instruction
+"open documents",instruction
+"open downloads",instruction
+"open pictures",instruction
+"open videos",instruction
+"open music",instruction
+"open desktop",instruction
+"open recycle bin",instruction
+"open trash",instruction
+"open word",instruction
+"open microsoft word",instruction
+"open excel",instruction
+"open microsoft excel",instruction
+"open powerpoint",instruction
+"open microsoft powerpoint",instruction
+"open outlook",instruction
+"open microsoft outlook",instruction
+"open onenote",instruction
+"open microsoft onenote",instruction
+"open access",instruction
+"open microsoft access",instruction
+"open publisher",instruction
+"open microsoft publisher",instruction
+"open visio",instruction
+"open microsoft visio",instruction
+"open project",instruction
+"open microsoft project",instruction
+"open teams",instruction
+"open microsoft teams",instruction
+"open skype",instruction
+"open zoom",instruction
+"open discord",instruction
+"open slack",instruction
+"open whatsapp",instruction
+"open telegram",instruction
+"open signal",instruction
+"open messenger",instruction
+"open facebook",instruction
+"open twitter",instruction
+"open instagram",instruction
+"open linkedin",instruction
+"open tiktok",instruction
+"open snapchat",instruction
+"open pinterest",instruction
+"open reddit",instruction
+"open youtube",instruction
+"open netflix",instruction
+"open hulu",instruction
+"open disney plus",instruction
+"open amazon prime",instruction
+"open hbo max",instruction
+"open paramount plus",instruction
+"open peacock",instruction
+"open apple tv",instruction
+"open twitch",instruction
+"open steam",instruction
+"open epic games",instruction
+"open origin",instruction
+"open uplay",instruction
+"open battle net",instruction
+"open gog galaxy",instruction
+"open xbox",instruction
+"open playstation",instruction
+"open nintendo",instruction
+"open photoshop",instruction
+"open illustrator",instruction
+"open indesign",instruction
+"open after effects",instruction
+"open premiere pro",instruction
+"open lightroom",instruction
+"open acrobat",instruction
+"open dreamweaver",instruction
+"open animate",instruction
+"open dimension",instruction
+"open xd",instruction
+"open audition",instruction
+"open bridge",instruction
+"open camera raw",instruction
+"open media encoder",instruction
+"open character animator",instruction
+"open prelude",instruction
+"open speedgrade",instruction
+"open story plus",instruction
+"close firefox",instruction
+"close internet explorer",instruction
+"close edge",instruction
+"close safari",instruction
+"close opera",instruction
+"close brave",instruction
+"close google chrome",instruction
+"close mozilla firefox",instruction
+"close microsoft edge",instruction
+"close apple safari",instruction
+"close opera browser",instruction
+"close brave browser",instruction
+"close music player",instruction
+"close windows media player",instruction
+"close vlc",instruction
+"close itunes",instruction
+"close apple music",instruction
+"close youtube music",instruction
+"close soundcloud",instruction
+"close pandora",instruction
+"close amazon music",instruction
+"close tidal",instruction
+"close deezer",instruction
+"close winamp",instruction
+"close foobar",instruction
+"close audacity",instruction
+"close garageband",instruction
+"close fl studio",instruction
+"close ableton",instruction
+"close pro tools",instruction
+"close logic pro",instruction
+"close cubase",instruction
+"close reaper",instruction
+"close calculator",instruction
+"close calendar",instruction
+"close clock",instruction
+"close alarm",instruction
+"close timer",instruction
+"close stopwatch",instruction
+"close weather",instruction
+"close maps",instruction
+"close google maps",instruction
+"close apple maps",instruction
+"close waze",instruction
+"close uber",instruction
+"close lyft",instruction
+"close settings",instruction
+"close control panel",instruction
+"close device manager",instruction
+"close instruction preferences",instruction
+"close activity monitor",instruction
+"close resource monitor",instruction
+"close performance monitor",instruction
+"close event viewer",instruction
+"close registry editor",instruction
+"close command prompt",instruction
+"close powershell",instruction
+"close terminal",instruction
+"close bash",instruction
+"close cmd",instruction
+"close run",instruction
+"close file explorer",instruction
+"close finder",instruction
+"close my computer",instruction
+"close this pc",instruction
+"close documents",instruction
+"close downloads",instruction
+"close pictures",instruction
+"close videos",instruction
+"close music",instruction
+"close desktop",instruction
+"close recycle bin",instruction
+"close trash",instruction
+"close word",instruction
+"close microsoft word",instruction
+"close excel",instruction
+"close microsoft excel",instruction
+"close powerpoint",instruction
+"close microsoft powerpoint",instruction
+"close outlook",instruction
+"close microsoft outlook",instruction
+"close onenote",instruction
+"close microsoft onenote",instruction
+"close access",instruction
+"close microsoft access",instruction
+"close publisher",instruction
+"close microsoft publisher",instruction
+"close visio",instruction
+"close microsoft visio",instruction
+"close project",instruction
+"close microsoft project",instruction
+"close teams",instruction
+"close microsoft teams",instruction
+"close skype",instruction
+"close zoom",instruction
+"close discord",instruction
+"close slack",instruction
+"close whatsapp",instruction
+"close telegram",instruction
+"close signal",instruction
+"close messenger",instruction
+"close facebook",instruction
+"close twitter",instruction
+"close instagram",instruction
+"close linkedin",instruction
+"close tiktok",instruction
+"close snapchat",instruction
+"close pinterest",instruction
+"close reddit",instruction
+"close youtube",instruction
+"close netflix",instruction
+"close hulu",instruction
+"close disney plus",instruction
+"close amazon prime",instruction
+"close hbo max",instruction
+"close paramount plus",instruction
+"close peacock",instruction
+"close apple tv",instruction
+"close twitch",instruction
+"close steam",instruction
+"close epic games",instruction
+"close origin",instruction
+"close uplay",instruction
+"close battle net",instruction
+"close gog galaxy",instruction
+"close xbox",instruction
+"close playstation",instruction
+"close nintendo",instruction
+"close photoshop",instruction
+"close illustrator",instruction
+"close indesign",instruction
+"close after effects",instruction
+"close premiere pro",instruction
+"close lightroom",instruction
+"close acrobat",instruction
+"close dreamweaver",instruction
+"close animate",instruction
+"close dimension",instruction
+"close xd",instruction
+"close audition",instruction
+"close bridge",instruction
+"close camera raw",instruction
+"close media encoder",instruction
+"close character animator",instruction
+"close prelude",instruction
+"close speedgrade",instruction
+"close story plus",instruction
+"inrease the volume",instruction
+"increase the volume by 50",instruction
+"set the volume to 40",instruction
+"can you please inrease the volume",instruction
+"can you please increase the volume by 50",instruction
+"can you please set the volume to 40",instruction
+"turn up the volume",instruction
+"raise the volume level",instruction
+"make it louder",instruction
+"boost the volume by 30",instruction
+"set volume to maximum",instruction
+"volume up",instruction
+"increase sound level",instruction
+"please turn up the volume",instruction
+"adjust volume higher",instruction
+"volume to 75 percent",instruction
+"max volume please",instruction
+"make the volume 80",instruction
+"i need more volume",instruction
+"louder please",instruction
+"increase by 20 percent",instruction
+"volume at 50 percent",instruction
+"please increase the volume",instruction
+"turn volume to 60",instruction
+"raise by 15 units",instruction
+"lower the volume",instruction
+"decrease volume by 10",instruction
+"mute the sound",instruction
+"unmute the volume",instruction
+"volume down",instruction
+"soften the volume",instruction
+"quiet mode please",instruction
+"set volume to zero",instruction
+"half volume level",instruction
+"reduce volume gradually",instruction
+"volume to mid level",instruction
+"minimum volume please",instruction
+"inrease the brightness",instruction
+"increase the brightness by 50",instruction
+"set the brightness to 40",instruction
+"can you please inrease the brightness",instruction
+"can you please increase the brightness by 50",instruction
+"can you please set the brightness to 40",instruction
+"make the screen brighter",instruction
+"turn up brightness",instruction
+"set brightness to max",instruction
+"increase display light",instruction
+"brightness level 70",instruction
+"adjust brightness higher",instruction
+"screen too dim",instruction
+"raise brightness by 20",instruction
+"maximum brightness please",instruction
+"set to 90 percent brightness",instruction
+"i need more brightness",instruction
+"brighter display please",instruction
+"increase by 30 percent",instruction
+"brightness at 60 percent",instruction
+"please make it brighter",instruction
+"turn brightness to 80",instruction
+"raise by 25 units",instruction
+"dim the screen",instruction
+"reduce brightness by 15",instruction
+"night mode brightness",instruction
+"auto brightness off",instruction
+"set brightness to min",instruction
+"eye comfort level",instruction
+"low light setting",instruction
+"dark mode brightness",instruction
+"adjust for night time",instruction
+"shutdown the instruction",instruction
+"shutdown the computer",instruction
+"shutdown the laptop",instruction
+"can you please shutdown the instruction",instruction
+"can you please shutdown the computer",instruction
+"can you please shutdown the laptop",instruction
+"turn off the pc",instruction
+"power down the instruction",instruction
+"shutdown now",instruction
+"please shutdown the device",instruction
+"close all and shutdown",instruction
+"initiate shutdown sequence",instruction
+"shutdown my computer",instruction
+"turn off the machine",instruction
+"shutdown immediately",instruction
+"shutdown this device",instruction
+"power off the instruction",instruction
+"shutdown process please",instruction
+"complete shutdown",instruction
+"terminate instruction operation",instruction
+"force shutdown",instruction
+"schedule shutdown",instruction
+"shutdown in 5 minutes",instruction
+"emergency power off",instruction
+"shutdown with updates",instruction
+"restart the instruction",instruction
+"restart the computer",instruction
+"restart the laptop",instruction
+"can you please restart the instruction",instruction
+"can you please restart the computer",instruction
+"can you please restart the laptop",instruction
+"reboot the pc",instruction
+"restart now",instruction
+"please restart the device",instruction
+"reboot the instruction",instruction
+"initiate restart sequence",instruction
+"restart my computer",instruction
+"refresh the instruction",instruction
+"restart immediately",instruction
+"restart this device",instruction
+"reboot please",instruction
+"restart process",instruction
+"soft restart",instruction
+"hard restart",instruction
+"full instruction restart",instruction
+"restart in safe mode",instruction
+"reboot with updates",instruction
+"scheduled restart",instruction
+"restart to apply changes",instruction
+"emergency reboot",instruction
+"play shape of you",instruction
+"can you please play interstellar theme on youtube",instruction
+"play despacito on youtube",instruction
+"play mozart on youtube",instruction
+"stream avengers trailer",instruction
+"play latest news on youtube",instruction
+"open youtube video",instruction
+"play pop music",instruction
+"stream documentary",instruction
+"play tutorial video",instruction
+"queue up music video",instruction
+"play relaxing music",instruction
+"stream standup comedy",instruction
+"play my playlist",instruction
+"open favorite channel",instruction
+"play trending videos",instruction
+"stream live event",instruction
+"play educational content",instruction
+"search for podcast",instruction
+"play workout music",instruction
+"stream 4k content",instruction
+"play background music",instruction
+"open subscribed channels",instruction
+"play kids songs",instruction
+"stream gameplay video",instruction
+"search quantum computing",instruction
+"search physics on google",instruction
+"can you please search artificial intelligence on google",instruction
+"look up world news",instruction
+"search for recipes",instruction
+"find nearby restaurants",instruction
+"google search history",instruction
+"search weather forecast",instruction
+"look up definition",instruction
+"find scientific papers",instruction
+"search movie showtimes",instruction
+"google translate please",instruction
+"find instruction stores",instruction
+"search job openings",instruction
+"look up medical information",instruction
+"find programming tutorials",instruction
+"search stock prices",instruction
+"google maps search",instruction
+"find book summaries",instruction
+"search tech news",instruction
+"lookup word meaning",instruction
+"find open source projects",instruction
+"search health tips",instruction
+"google academic search",instruction
+"find local events",instruction
+"search diy ideas",instruction
+"can you please open chrome",instruction
+"open spotify",instruction
+"open task manager",instruction
+"open notepad",instruction
+"close the chrome",instruction
+"close spotify",instruction
+"close task manager",instruction
+"close notepad",instruction
+"launch microsoft word",instruction
+"open calculator app",instruction
+"start photoshop",instruction
+"run excel please",instruction
+"open file explorer",instruction
+"close all apps",instruction
+"terminate background apps",instruction
+"launch settings",instruction
+"open control panel",instruction
+"start powerpoint",instruction
+"run diagnostic tool",instruction
+"open camera app",instruction
+"close unnecessary programs",instruction
+"exit all applications",instruction
+"open steam client",instruction
+"launch video editor",instruction
+"start antivirus scan",instruction
+"run disk cleanup",instruction
+"open paint tool",instruction
+"close all windows",instruction
+"minimize all programs",instruction
+"open instruction preferences",instruction
+"launch calendar app",instruction
+"start screen recording",instruction
+"open voice recorder",instruction
+"run troubleshooter",instruction
+"open firefox browser",instruction
+"launch mail client",instruction
+"start video call app",instruction
+"open weather application",instruction
+"run instruction update",instruction
+"open pdf reader",instruction
+"launch music production software",instruction
+"start virtual machine",instruction
+"open programming ide",instruction
+"run backup tool",instruction
+"open screenshot tool",instruction
+"launch database manager",instruction
+"start network monitor",instruction
+"open color picker",instruction
+"run defragmentation",instruction
+"open font manager",instruction
+"launch terminal",instruction
+"start remote desktop",instruction
+"open archive tool",instruction
+"run registry editor",instruction
+"open task scheduler",instruction
+"launch instruction monitor",instruction
+"start disk partition tool",instruction
+"open command prompt",instruction
+"run instruction restore",instruction
+"open device manager",instruction
+"launch bios setup",instruction
+"start performance monitor",instruction
+"open group policy editor",instruction
+"run memory diagnostic",instruction
+"open services console",instruction
+"launch event viewer",instruction
+"start windows security",instruction
+"open regional settings",instruction
+"run component services",instruction
+"open sound settings",instruction
+"launch language pack",instruction
+"start windows tools",instruction
+"open default programs",instruction
+"run troubleshooting pack",instruction
+"open user accounts",instruction
+"launch instruction information",instruction
+"start resource monitor",instruction
+"open power options",instruction
+"run clean manager",instruction
+"open indexing options",instruction
+"launch sysnative tool",instruction
+"start computer management",instruction
+"open print management",instruction
+"run windows memory diagnostic",instruction
+"open remote assistance",instruction
+"launch windows media player",instruction
+"start windows defender",instruction
+"open sysdm.cpl",instruction
+"run msinfo32",instruction
+"open perfmon",instruction
+"launch diskmgmt.msc",instruction
+"start services.msc",instruction
+"open devmgmt.msc",instruction
+"run eventvwr.msc",instruction
+"open taskschd.msc",instruction
+"launch secpol.msc",instruction
+"start lusrmgr.msc",instruction
+"open fsmgmt.msc",instruction
+"run compmgmt.msc",instruction
+"open odbcad32.exe",instruction
+"launch printui.exe",instruction
+"start mmc.exe",instruction
+"open sndvol.exe",instruction
+"run cleanmgr.exe",instruction
+"open msconfig.exe",instruction
+"launch dxdiag.exe",instruction
+"start chkdsk.exe",instruction
+"open sfc.exe",instruction
+"run diskpart.exe",instruction
+"open format.com",instruction
+"launch ipconfig.exe",instruction
+"start ping.exe",instruction
+"open tracert.exe",instruction
+"run netstat.exe",instruction
+"open nslookup.exe",instruction
+"launch telnet.exe",instruction
+"start ftp.exe",instruction
+"open chrome",instruction
+"open the curtains",instruction
+"close the curtains",instruction
+"switch on the lights",instruction
+"switch off the lights",instruction
+"turn on the fan",instruction
+"turn off the fan",instruction
+"activate led strips",instruction
+"deactivate led strips",instruction
+"robotic arm pass me that object",instruction
+"where is my object",instruction
+"make me coffee",instruction
+"open the door",instruction
+"close the door",instruction
+"pull the curtains open",instruction
+"draw the curtains closed",instruction
+"can you open the curtains please",instruction
+"please close the curtains",instruction
+"i need the curtains opened",instruction
+"shut the curtains",instruction
+"open up the curtains",instruction
+"close those curtains",instruction
+"turn the lights on",instruction
+"turn the lights off",instruction
+"switch the lights on",instruction
+"switch the lights off",instruction
+"light up the room",instruction
+"turn off all lights",instruction
+"dim the lights",instruction
+"brighten the lights",instruction
+"lights on please",instruction
+"lights off please",instruction
+"can you turn on the lights",instruction
+"please switch off the lights",instruction
+"i need more light",instruction
+"make it darker",instruction
+"illuminate the room",instruction
+"kill the lights",instruction
+"power on the lights",instruction
+"power off the lights",instruction
+"activate the lighting instruction",instruction
+"deactivate the lighting instruction",instruction
+"turn on the ceiling fan",instruction
+"turn off the ceiling fan",instruction
+"start the fan",instruction
+"stop the fan",instruction
+"switch on the fan",instruction
+"switch off the fan",instruction
+"fan on",instruction
+"fan off",instruction
+"i need some air circulation",instruction
+"start the ventilation",instruction
+"cool me down with the fan",instruction
+"turn up the fan speed",instruction
+"turn down the fan speed",instruction
+"increase fan speed",instruction
+"decrease fan speed",instruction
+"maximum fan speed",instruction
+"minimum fan speed",instruction
+"fan at full speed",instruction
+"slow down the fan",instruction
+"speed up the fan",instruction
+"turn on the led strips",instruction
+"turn off the led strips",instruction
+"activate led lighting",instruction
+"deactivate led lighting",instruction
+"switch on the led strips",instruction
+"switch off the led strips",instruction
+"light up the led strips",instruction
+"turn off those led strips",instruction
+"i want colorful lighting",instruction
+"change led strip colors",instruction
+"set led strips to blue",instruction
+"set led strips to red",instruction
+"set led strips to green",instruction
+"make led strips brighter",instruction
+"make led strips dimmer",instruction
+"led strips on",instruction
+"led strips off",instruction
+"activate ambient lighting",instruction
+"deactivate ambient lighting",instruction
+"turn on decorative lights",instruction
+"turn off decorative lights",instruction
+"robotic arm bring me that book",instruction
+"robotic arm get me that pen",instruction
+"robotic arm fetch that cup",instruction
+"robotic arm hand me that remote",instruction
+"robotic arm pass me the bottle",instruction
+"robotic arm give me that tool",instruction
+"robotic arm retrieve that item",instruction
+"robotic arm pick up that object",instruction
+"robotic arm grab that thing",instruction
+"robotic arm deliver that package",instruction
+"robot arm pass me that",instruction
+"robot arm get that for me",instruction
+"robot arm bring that here",instruction
+"robot arm fetch that item",instruction
+"robot arm hand me that",instruction
+"arm pass me that object",instruction
+"arm get me that thing",instruction
+"arm bring me that item",instruction
+"arm fetch that for me",instruction
+"arm grab that object",instruction
+"where did i put my keys",instruction
+"where is my phone",instruction
+"where is my wallet",instruction
+"where is my book",instruction
+"where is my remote control",instruction
+"where is my charger",instruction
+"where is my laptop",instruction
+"where is my tablet",instruction
+"where is my glasses",instruction
+"where is my watch",instruction
+"find my keys",instruction
+"find my phone",instruction
+"find my wallet",instruction
+"locate my object",instruction
+"locate my keys",instruction
+"locate my phone",instruction
+"search for my keys",instruction
+"search for my phone",instruction
+"help me find my keys",instruction
+"help me find my phone",instruction
+"where did i leave my keys",instruction
+"where did i leave my phone",instruction
+"i can't find my keys",instruction
+"i can't find my phone",instruction
+"i lost my keys",instruction
+"i lost my phone",instruction
+"track my keys",instruction
+"track my phone",instruction
+"show me where my keys are",instruction
+"show me where my phone is",instruction
+"brew me some coffee",instruction
+"prepare coffee for me",instruction
+"i need a cup of coffee",instruction
+"make a fresh cup of coffee",instruction
+"start the coffee maker",instruction
+"brew a pot of coffee",instruction
+"i want some coffee",instruction
+"coffee please",instruction
+"can you make me coffee",instruction
+"please make me coffee",instruction
+"i need my morning coffee",instruction
+"prepare my usual coffee",instruction
+"make me a strong coffee",instruction
+"make me a mild coffee",instruction
+"brew me an espresso",instruction
+"make me a latte",instruction
+"prepare my coffee now",instruction
+"start brewing coffee",instruction
+"begin coffee preparation",instruction
+"activate coffee maker",instruction
+"turn on coffee machine",instruction
+"i'm ready for coffee",instruction
+"time for coffee",instruction
+"coffee time",instruction
+"get the coffee ready",instruction
+"prepare the coffee",instruction
+"set up coffee brewing",instruction
+"initialize coffee maker",instruction
+"open the front door",instruction
+"close the front door",instruction
+"open the main door",instruction
+"close the main door",instruction
+"unlock the door",instruction
+"lock the door",instruction
+"open the entrance",instruction
+"close the entrance",instruction
+"i need the door opened",instruction
+"i need the door closed",instruction
+"can you open the door",instruction
+"can you close the door",instruction
+"please open the door",instruction
+"please close the door",instruction
+"door open",instruction
+"door close",instruction
+"open door please",instruction
+"close door please",instruction
+"unlock and open the door",instruction
+"close and lock the door",instruction
+"let me in",instruction
+"secure the door",instruction
+"unsecure the door",instruction
+"grant access through door",instruction
+"deny access through door",instruction
+"activate door opening",instruction
+"activate door closing",instruction
+"open curtains in bedroom",instruction
+"close curtains in living room",instruction
+"open all curtains",instruction
+"close all curtains",instruction
+"pull back the drapes",instruction
+"draw the drapes",instruction
+"open the blinds",instruction
+"close the blinds",instruction
+"raise the blinds",instruction
+"lower the blinds",instruction
+"let in some sunlight",instruction
+"block out the sunlight",instruction
+"i want natural light",instruction
+"make the room darker",instruction
+"open window coverings",instruction
+"close window coverings",instruction
+"retract the curtains",instruction
+"extend the curtains",instruction
+"curtains up",instruction
+"curtains down",instruction
+"switch on bedroom lights",instruction
+"switch off kitchen lights",instruction
+"turn on bathroom lights",instruction
+"turn off hallway lights",instruction
+"light up the living room",instruction
+"darken the bedroom",instruction
+"all lights on",instruction
+"all lights off",instruction
+"main lights on",instruction
+"main lights off",instruction
+"overhead lights on",instruction
+"overhead lights off",instruction
+"table lamp on",instruction
+"table lamp off",instruction
+"floor lamp on",instruction
+"floor lamp off",instruction
+"desk light on",instruction
+"desk light off",instruction
+"reading light on",instruction
+"reading light off",instruction
+"night light on",instruction
+"night light off",instruction
+"emergency lights on",instruction
+"emergency lights off",instruction
+"accent lighting on",instruction
+"accent lighting off",instruction
+"task lighting on",instruction
+"task lighting off",instruction
+"mood lighting on",instruction
+"mood lighting off",instruction
+"bright lighting please",instruction
+"soft lighting please",instruction
+"full brightness",instruction
+"low brightness",instruction
+"turn on living room fan",instruction
+"turn off bedroom fan",instruction
+"start kitchen fan",instruction
+"stop bathroom fan",instruction
+"exhaust fan on",instruction
+"exhaust fan off",instruction
+"ceiling fan clockwise",instruction
+"ceiling fan counterclockwise",instruction
+"reverse fan direction",instruction
+"fan speed high",instruction
+"fan speed medium",instruction
+"fan speed low",instruction
+"oscillating fan on",instruction
+"oscillating fan off",instruction
+"tower fan on",instruction
+"tower fan off",instruction
+"pedestal fan on",instruction
+"pedestal fan off",instruction
+"ventilation fan on",instruction
+"ventilation fan off",instruction
+"cooling fan on",instruction
+"cooling fan off",instruction
+"air circulation on",instruction
+"air circulation off",instruction
+"fresh air circulation",instruction
+"stop air circulation",instruction
+"activate room ventilation",instruction
+"deactivate room ventilation",instruction
+"turn on strip lighting",instruction
+"turn off strip lighting",instruction
+"rgb led strips on",instruction
+"rgb led strips off",instruction
+"color changing lights on",instruction
+"color changing lights off",instruction
+"under cabinet lighting on",instruction
+"under cabinet lighting off",instruction
+"backlight on",instruction
+"backlight off",instruction
+"accent strips on",instruction
+"accent strips off",instruction
+"decorative lighting on",instruction
+"decorative lighting off",instruction
+"party lights on",instruction
+"party lights off",instruction
+"mood strips on",instruction
+"mood strips off",instruction
+"gaming lights on",instruction
+"gaming lights off",instruction
+"ambient strips on",instruction
+"ambient strips off",instruction
+"led strip red color",instruction
+"led strip blue color",instruction
+"led strip green color",instruction
+"led strip white color",instruction
+"led strip rainbow mode",instruction
+"led strip disco mode",instruction
+"led strip breathing mode",instruction
+"led strip static mode",instruction
+"robotic arm pick up my phone",instruction
+"robotic arm grab my keys",instruction
+"robotic arm fetch my glasses",instruction
+"robotic arm bring my book",instruction
+"robotic arm get my remote",instruction
+"robotic arm pass my wallet",instruction
+"robotic arm hand me my tablet",instruction
+"robotic arm deliver my package",instruction
+"robotic arm retrieve my tool",instruction
+"robotic arm collect my item",instruction
+"robot help me get that",instruction
+"robot bring that object here",instruction
+"robot fetch that thing",instruction
+"robot pass me that item",instruction
+"robot hand me that tool",instruction
+"robot deliver that package",instruction
+"robot collect that object",instruction
+"robot grab that thing",instruction
+"robot pick that up",instruction
+"robot get that for me",instruction
+"mechanical arm assistance",instruction
+"mechanical arm help",instruction
+"automated arm service",instruction
+"automated arm help",instruction
+"servo arm pick up",instruction
+"servo arm deliver",instruction
+"articulated arm fetch",instruction
+"articulated arm grab",instruction
+"manipulator arm get",instruction
+"manipulator arm bring",instruction
+"where are my sunglasses",instruction
+"where are my headphones",instruction
+"where is my backpack",instruction
+"where is my umbrella",instruction
+"where is my jacket",instruction
+"where is my shoes",instruction
+"where is my bag",instruction
+"where is my documents",instruction
+"where is my medicine",instruction
+"where is my tools",instruction
+"find my missing item",instruction
+"find my lost object",instruction
+"locate missing object",instruction
+"locate lost item",instruction
+"search for missing thing",instruction
+"search for lost object",instruction
+"track down my item",instruction
+"track down my object",instruction
+"help locate my stuff",instruction
+"help find my belongings",instruction
+"object detection service",instruction
+"object location service",instruction
+"item finder assistance",instruction
+"item locator help",instruction
+"lost object recovery",instruction
+"missing item search",instruction
+"personal item tracker",instruction
+"belongings locator",instruction
+"asset tracking help",instruction
+"property location service",instruction
+"brew me an americano",instruction
+"brew me a cappuccino",instruction
+"make me hot coffee",instruction
+"make me iced coffee",instruction
+"prepare black coffee",instruction
+"prepare coffee with milk",instruction
+"strong coffee please",instruction
+"weak coffee please",instruction
+"decaf coffee please",instruction
+"regular coffee please",instruction
+"fresh ground coffee",instruction
+"instant coffee preparation",instruction
+"coffee machine start",instruction
+"coffee machine stop",instruction
+"espresso machine on",instruction
+"espresso machine off",instruction
+"coffee brewing cycle",instruction
+"coffee preparation mode",instruction
+"automatic coffee making",instruction
+"manual coffee brewing",instruction
+"coffee maker activation",instruction
+"coffee maker operation",instruction
+"beverage preparation",instruction
+"hot beverage service",instruction
+"morning coffee routine",instruction
+"coffee service request",instruction
+"caffeine preparation",instruction
+"coffee dispensing",instruction
+"coffee production",instruction
+"coffee manufacturing",instruction
+"open garage door",instruction
+"close garage door",instruction
+"open patio door",instruction
+"close patio door",instruction
+"open sliding door",instruction
+"close sliding door",instruction
+"open back door",instruction
+"close back door",instruction
+"open side door",instruction
+"close side door",instruction
+"electronic door control",instruction
+"automatic door operation",instruction
+"smart door activation",instruction
+"smart door deactivation",instruction
+"door access control",instruction
+"door security control",instruction
+"entry point control",instruction
+"exit point control",instruction
+"portal opening",instruction
+"portal closing",instruction
+"doorway access",instruction
+"doorway blocking",instruction
+"entrance automation",instruction
+"exit automation",instruction
+"door motor control",instruction
+"door mechanism control",instruction
+"access barrier control",instruction
+"security barrier control",instruction
+"automated entry instruction",instruction
+"automated exit instruction",instruction
+"open the curtains","instruction"
+"close the curtains","instruction"
+"can you draw the curtains?","instruction"
+"pull the curtains back","instruction"
+"let some light in by opening the curtains","instruction"
+"shut the curtains","instruction"
+"curtains open please","instruction"
+"curtains close now","instruction"
+"turn on the lights","instruction"
+"switch off the fan","instruction"
+"can you toggle the led strip?","instruction"
+"lights off","instruction"
+"lights on","instruction"
+"fan on please","instruction"
+"led strip off","instruction"
+"please turn off all lights","instruction"
+"activate the light switch","instruction"
+"switch on fan","instruction"
+"pass me the object","instruction"
+"where is my object?","instruction"
+"use the robotic arm to grab that","instruction"
+"hand me that item","instruction"
+"pick that up using the robot arm","instruction"
+"robot arm, fetch the item","instruction"
+"grab the object for me","instruction"
+"deliver that thing to me","instruction"
+"make me coffee","instruction"
+"brew some coffee","instruction"
+"prepare coffee for me","instruction"
+"start the coffee machine","instruction"
+"i need coffee","instruction"
+"can i have some coffee?","instruction"
+"make a cup of coffee","instruction"
+"coffee please","instruction"
+"open the door","instruction"
+"close the door","instruction"
+"can you open the main door?","instruction"
+"shut the door","instruction"
+"unlock the door","instruction"
+"lock the door","instruction"
+"main door open","instruction"
+please close the door,instruction
+"now, open the curtains",instruction
+"right away, curtains close now",instruction
+"right away, pull the curtains back",instruction
+"please, close the curtains",instruction
+"right away, please turn off all lights",instruction
+"right away, prepare coffee for me",instruction
+"kindly, start the coffee machine",instruction
+"immediately, lock the door",instruction
+"please, please turn off all lights",instruction
+"right away, unlock the door",instruction
+"please, switch off the fan",instruction
+"now, use the robotic arm to grab that",instruction
+"right away, can i have some coffee?",instruction
+"kindly, can i have some coffee?",instruction
+"now, brew some coffee",instruction
+"please, where is my object?",instruction
+"immediately, prepare coffee for me",instruction
+"kindly, pass me the object",instruction
+"immediately, deliver that thing to me",instruction
+"right away, switch on fan",instruction
+"please, use the robotic arm to grab that",instruction
+"kindly, close the curtains",instruction
+"now, lights on",instruction
+"kindly, switch on fan",instruction
+"please, can i have some coffee?",instruction
+"right away, i need coffee",instruction
+"immediately, led strip off",instruction
+"immediately, close the door",instruction
+"immediately, prepare coffee for me",instruction
+"kindly, make me coffee",instruction
+"right away, shut the curtains",instruction
+"please, turn on the lights",instruction
+"please, close the curtains",instruction
+"kindly, i need coffee",instruction
+"immediately, can you toggle the led strip?",instruction
+"kindly, i need coffee",instruction
+"immediately, can you draw the curtains?",instruction
+"kindly, shut the curtains",instruction
+"right away, coffee please",instruction
+"kindly, can you draw the curtains?",instruction
+"kindly, lock the door",instruction
+"now, switch off the fan",instruction
+"right away, brew some coffee",instruction
+"please, pull the curtains back",instruction
+"immediately, brew some coffee",instruction
+"right away, where is my object?",instruction
+"right away, unlock the door",instruction
+"please, pull the curtains back",instruction
+"please, prepare coffee for me",instruction
+"kindly, turn on the lights",instruction
+"please, grab the object for me",instruction
+"kindly, i need coffee",instruction
+"kindly, shut the door",instruction
+"immediately, brew some coffee",instruction
+"immediately, led strip off",instruction
+"now, fan on please",instruction
+"please, make a cup of coffee",instruction
+"please, please turn off all lights",instruction
+"kindly, where is my object?",instruction
+"please, fan on please",instruction
+"now, open the door",instruction
+"right away, open the curtains",instruction
+"immediately, open the door",instruction
+"right away, pull the curtains back",instruction
+"immediately, make a cup of coffee",instruction
+"now, pass me the object",instruction
+"please, coffee please",instruction
+"immediately, lights on",instruction
+"please, close the door",instruction
+"right away, switch off the fan",instruction
+"right away, make a cup of coffee",instruction
+"immediately, lights off",instruction
+"now, open the door",instruction
+"please, shut the door",instruction
+"please, please close the door",instruction
+"immediately, make a cup of coffee",instruction
+"kindly, make me coffee",instruction
+"right away, coffee please",instruction
+"right away, close the door",instruction
+"right away, please close the door",instruction
+"please, can you draw the curtains?",instruction
+"immediately, pick that up using the robot arm",instruction
+"immediately, lights off",instruction
+"immediately, pass me the object",instruction
+"kindly, deliver that thing to me",instruction
+"now, pick that up using the robot arm",instruction
+"now, lights off",instruction
+"please, make me coffee",instruction
+"right away, unlock the door",instruction
+"now, close the curtains",instruction
+"right away, close the curtains",instruction
+"now, make me coffee",instruction
+"now, close the curtains",instruction
+"kindly, i need coffee",instruction
+"immediately, make a cup of coffee",instruction
+"immediately, robot arm, fetch the item",instruction
+"kindly, please close the door",instruction
+"now, hand me that item",instruction
+"immediately, curtains close now",instruction
+"kindly, pick that up using the robot arm",instruction
+"please, open the curtains",instruction
+"please, please close the door",instruction
+"right away, open the curtains",instruction
+"immediately, activate the light switch",instruction
+"right away, pass me the object",instruction
+"right away, please turn off all lights",instruction
+"kindly, prepare coffee for me",instruction
+"immediately, shut the curtains",instruction
+"right away, curtains open please",instruction
+"kindly, open the door",instruction
+"please, turn on the lights",instruction
+"now, pull the curtains back",instruction
+"please, start the coffee machine",instruction
+"immediately, open the door",instruction
+"now, activate the light switch",instruction
+"right away, hand me that item",instruction
+"kindly, please close the door",instruction
+"please, prepare coffee for me",instruction
+"please, lights off",instruction
+"right away, curtains close now",instruction
+"immediately, open the curtains",instruction
+"right away, please close the door",instruction
+"now, shut the door",instruction
+"please, curtains open please",instruction
+"kindly, open the curtains",instruction
+"right away, make a cup of coffee",instruction
+"please, can you open the main door?",instruction
+"now, activate the light switch",instruction
+"right away, can you toggle the led strip?",instruction
+"right away, can you draw the curtains?",instruction
+"right away, prepare coffee for me",instruction
+"immediately, can you toggle the led strip?",instruction
+"kindly, switch off the fan",instruction
+"please, unlock the door",instruction
+"please, pass me the object",instruction
+"now, brew some coffee",instruction
+"right away, pass me the object",instruction
+"kindly, open the curtains",instruction
+"kindly, can you draw the curtains?",instruction
+"kindly, open the door",instruction
+"kindly, start the coffee machine",instruction
+"right away, main door open",instruction
+"now, i need coffee",instruction
+"now, curtains open please",instruction
+"now, lock the door",instruction
+"right away, turn on the lights",instruction
+"right away, lights off",instruction
+"now, where is my object?",instruction
+"immediately, shut the curtains",instruction
+"kindly, curtains close now",instruction
+"please, pass me the object",instruction
+"kindly, please close the door",instruction
+"right away, can you open the main door?",instruction
+"immediately, shut the door",instruction
+"now, coffee please",instruction
+"immediately, curtains open please",instruction
+"immediately, curtains close now",instruction
+"kindly, can you draw the curtains?",instruction
+"please, lights on",instruction
+"right away, where is my object?",instruction
+"immediately, where is my object?",instruction
+"right away, brew some coffee",instruction
+"kindly, open the door",instruction
+"kindly, can you draw the curtains?",instruction
+"right away, pull the curtains back",instruction
+"now, lights on",instruction
+"immediately, shut the door",instruction
+"now, where is my object?",instruction
+"immediately, turn on the lights",instruction
+"please, can you draw the curtains?",instruction
+"now, main door open",instruction
+"immediately, make a cup of coffee",instruction
+"please, hand me that item",instruction
+"immediately, switch off the fan",instruction
+"now, switch on fan",instruction
+"immediately, switch on fan",instruction
+"right away, open the curtains",instruction
+"right away, please turn off all lights",instruction
+"please, lights on",instruction
+"now, close the door",instruction
+"kindly, deliver that thing to me",instruction
+"please, led strip off",instruction
+"immediately, led strip off",instruction
+"kindly, unlock the door",instruction
+"please, curtains close now",instruction
+"kindly, i need coffee",instruction
+"right away, start the coffee machine",instruction
+"kindly, make a cup of coffee",instruction
+"right away, brew some coffee",instruction
+"immediately, pass me the object",instruction
+"right away, lock the door",instruction
+"now, unlock the door",instruction
+"kindly, turn on the lights",instruction
+"right away, turn on the lights",instruction
+"now, let some light in by opening the curtains",instruction
+"now, make a cup of coffee",instruction
+"immediately, please close the door",instruction
+"kindly, led strip off",instruction
+"now, deliver that thing to me",instruction
+"now, prepare coffee for me",instruction
+"please, grab the object for me",instruction
+"now, pass me the object",instruction
+"kindly, pull the curtains back",instruction
+"now, turn on the lights",instruction
+"please, switch on fan",instruction
+"now, coffee please",instruction
+"kindly, please close the door",instruction
+"please, coffee please",instruction
+"right away, switch off the fan",instruction
+"kindly, main door open",instruction
+"immediately, where is my object?",instruction
+"right away, pull the curtains back",instruction
+"right away, pull the curtains back",instruction
+"kindly, close the curtains",instruction
+"now, prepare coffee for me",instruction
+"right away, grab the object for me",instruction
+"please, brew some coffee",instruction
+"right away, start the coffee machine",instruction
+"immediately, make me coffee",instruction
+"please, use the robotic arm to grab that",instruction
+"now, start the coffee machine",instruction
+"immediately, can you open the main door?",instruction
+"immediately, activate the light switch",instruction
+"kindly, deliver that thing to me",instruction
+"please, open the curtains",instruction
+"please, can you draw the curtains?",instruction
+"now, make a cup of coffee",instruction
+"right away, use the robotic arm to grab that",instruction
+"immediately, can you toggle the led strip?",instruction
+"right away, make a cup of coffee",instruction
+"please, lights on",instruction
+"kindly, i need coffee",instruction
+"right away, brew some coffee",instruction
+"now, brew some coffee",instruction
+"immediately, let some light in by opening the curtains",instruction
+"now, grab the object for me",instruction
+"kindly, brew some coffee",instruction
+"right away, pull the curtains back",instruction
+"please, hand me that item",instruction
+"now, open the curtains",instruction
+"immediately, can you toggle the led strip?",instruction
+"immediately, can you draw the curtains?",instruction
+"please, close the door",instruction
+"right away, brew some coffee",instruction
+"now, led strip off",instruction
+"now, unlock the door",instruction
+"immediately, please turn off all lights",instruction
+"kindly, robot arm, fetch the item",instruction
+"kindly, curtains open please",instruction
+"now, can you open the main door?",instruction
+"kindly, coffee please",instruction
+"please, make a cup of coffee",instruction
+"kindly, can you open the main door?",instruction
+"please, pass me the object",instruction
+"now, hand me that item",instruction
+"please, pass me the object",instruction
+"please, can you draw the curtains?",instruction
+"immediately, main door open",instruction
+"kindly, start the coffee machine",instruction
+"kindly, let some light in by opening the curtains",instruction
+"please, curtains open please",instruction
+"right away, start the coffee machine",instruction
+"please, start the coffee machine",instruction
+"please, open the curtains",instruction
+"now, pass me the object",instruction
+"please, robot arm, fetch the item",instruction
+"immediately, make me coffee",instruction
+"immediately, lights off",instruction
+"now, i need coffee",instruction
+"immediately, close the curtains",instruction
+"please, curtains open please",instruction
+"now, let some light in by opening the curtains",instruction
+"now, shut the door",instruction
+"immediately, hand me that item",instruction
+"right away, please turn off all lights",instruction
+"kindly, led strip off",instruction
+"immediately, close the door",instruction
+"right away, shut the curtains",instruction
+"please, can i have some coffee?",instruction
+"now, pick that up using the robot arm",instruction
+"immediately, hand me that item",instruction
+"immediately, close the door",instruction
+"now, deliver that thing to me",instruction
+"now, can you open the main door?",instruction
+"please, close the door",instruction
+"now, curtains close now",instruction
+"kindly, open the door",instruction
+"please, robot arm, fetch the item",instruction
+"kindly, let some light in by opening the curtains",instruction
+"immediately, main door open",instruction
+"please, make a cup of coffee",instruction
+"now, curtains close now",instruction
+"kindly, brew some coffee",instruction
+"please, lock the door",instruction
+"kindly, prepare coffee for me",instruction
+"immediately, shut the door",instruction
+"kindly, curtains close now",instruction
+"please, please turn off all lights",instruction
+"immediately, curtains open please",instruction
+"immediately, open the door",instruction
+"right away, please turn off all lights",instruction
+"now, lights off",instruction
+"please, deliver that thing to me",instruction
+"kindly, turn on the lights",instruction
+"now, main door open",instruction
+"now, switch off the fan",instruction
+"please, open the curtains",instruction
+"right away, please close the door",instruction
+"kindly, can i have some coffee?",instruction
+"kindly, curtains close now",instruction
+"right away, led strip off",instruction
+"now, start the coffee machine",instruction
+"now, shut the door",instruction
+"immediately, grab the object for me",instruction
+"immediately, robot arm, fetch the item",instruction
+"immediately, deliver that thing to me",instruction
+"right away, please close the door",instruction
+"please, robot arm, fetch the item",instruction
+"please, brew some coffee",instruction
+"please, activate the light switch",instruction
+"right away, open the door",instruction
+"kindly, hand me that item",instruction
+"right away, coffee please",instruction
+"immediately, i need coffee",instruction
+"now, hand me that item",instruction
+"now, grab the object for me",instruction
+"please, open the curtains",instruction
+"please, switch off the fan",instruction
+"immediately, lights on",instruction
+"please, activate the light switch",instruction
+"please, curtains open please",instruction
+"kindly, can i have some coffee?",instruction
+"right away, curtains open please",instruction
+"immediately, use the robotic arm to grab that",instruction
+"now, turn on the lights",instruction
+"kindly, lights on",instruction
+"right away, i need coffee",instruction
+"now, close the curtains",instruction
+"immediately, lights on",instruction
+"right away, open the door",instruction
+"please, can you toggle the led strip?",instruction
+"kindly, make a cup of coffee",instruction
+"now, close the curtains",instruction
+"please, grab the object for me",instruction
+"now, fan on please",instruction
+"right away, deliver that thing to me",instruction
+"now, fan on please",instruction
+"kindly, use the robotic arm to grab that",instruction
+"now, deliver that thing to me",instruction
+"immediately, can you draw the curtains?",instruction
+"kindly, let some light in by opening the curtains",instruction
+"please, pull the curtains back",instruction
+"please, pass me the object",instruction
+"kindly, use the robotic arm to grab that",instruction
+"please, led strip off",instruction
+"please, open the door",instruction
+"immediately, i need coffee",instruction
+"kindly, activate the light switch",instruction
+"immediately, can you open the main door?",instruction
+"kindly, unlock the door",instruction
+"right away, use the robotic arm to grab that",instruction
+"kindly, switch on fan",instruction
+"now, let some light in by opening the curtains",instruction
+"immediately, make me coffee",instruction
+"right away, lights off",instruction
+"now, unlock the door",instruction
+"right away, switch off the fan",instruction
+"right away, open the curtains",instruction
+"kindly, curtains open please",instruction
+"kindly, coffee please",instruction
+"right away, pull the curtains back",instruction
+"please, main door open",instruction
+"kindly, unlock the door",instruction
+"right away, make a cup of coffee",instruction
+"please, hand me that item",instruction
+"now, lock the door",instruction
+"kindly, pull the curtains back",instruction
+"please, switch off the fan",instruction
+"kindly, switch on fan",instruction
+"now, use the robotic arm to grab that",instruction
+"immediately, where is my object?",instruction
+"immediately, lights off",instruction
+"now, prepare coffee for me",instruction
+"please, pass me the object",instruction
+"now, curtains open please",instruction
+"now, use the robotic arm to grab that",instruction
+"please, close the door",instruction
+"immediately, lights off",instruction
+"kindly, lights off",instruction
+"right away, can i have some coffee?",instruction
+"now, main door open",instruction
+"right away, shut the curtains",instruction
+"kindly, hand me that item",instruction
+"now, make me coffee",instruction
+"kindly, coffee please",instruction
+"right away, i need coffee",instruction
+"kindly, hand me that item",instruction
+"right away, robot arm, fetch the item",instruction
+"please, make me coffee",instruction
+"now, please close the door",instruction
+"now, make me coffee",instruction
+"immediately, can you draw the curtains?",instruction
+"please, brew some coffee",instruction
+"kindly, grab the object for me",instruction
+"please, curtains open please",instruction
+"please, turn on the lights",instruction
+"please, i need coffee",instruction
+"please, curtains open please",instruction
+"please, let some light in by opening the curtains",instruction
+"kindly, please close the door",instruction
+"now, deliver that thing to me",instruction
+"immediately, switch off the fan",instruction
+"right away, robot arm, fetch the item",instruction
+"immediately, fan on please",instruction
+"right away, coffee please",instruction
+"please, activate the light switch",instruction
+"please, hand me that item",instruction
+"right away, main door open",instruction
+"now, please close the door",instruction
+"kindly, close the door",instruction
+"right away, lights on",instruction
+"right away, unlock the door",instruction
+"kindly, grab the object for me",instruction
+"kindly, close the door",instruction
+"immediately, robot arm, fetch the item",instruction
+"immediately, switch off the fan",instruction
+"now, grab the object for me",instruction
+"please, led strip off",instruction
+"please, make me coffee",instruction
+"please, curtains open please",instruction
+"please, curtains open please",instruction
+"please, activate the light switch",instruction
+"immediately, make me coffee",instruction
+"now, let some light in by opening the curtains",instruction
+"kindly, open the curtains",instruction
+"immediately, activate the light switch",instruction
+"now, start the coffee machine",instruction
+"right away, curtains open please",instruction
+"now, can you draw the curtains?",instruction
+"please, let some light in by opening the curtains",instruction
+"please, pick that up using the robot arm",instruction
+"now, let some light in by opening the curtains",instruction
+"kindly, pick that up using the robot arm",instruction
+"right away, can you draw the curtains?",instruction
+"kindly, can you draw the curtains?",instruction
+"right away, curtains close now",instruction
+"please, grab the object for me",instruction
+"please, pass me the object",instruction
+"right away, please close the door",instruction
+"kindly, brew some coffee",instruction
+"now, let some light in by opening the curtains",instruction
+"kindly, lock the door",instruction
+"now, activate the light switch",instruction
+"right away, make me coffee",instruction
+"right away, close the curtains",instruction
+"kindly, pass me the object",instruction
+"kindly, switch on fan",instruction
+"right away, make a cup of coffee",instruction
+

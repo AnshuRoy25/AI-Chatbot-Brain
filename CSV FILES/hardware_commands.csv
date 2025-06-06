@@ -1,0 +1,920 @@
+text,label
+"Open the curtains",hardware
+"Close the curtains",hardware
+"Switch on the lights",hardware
+"Switch off the lights",hardware
+"Turn on the fan",hardware
+"Turn off the fan",hardware
+"Activate LED strips",hardware
+"Deactivate LED strips",hardware
+"Robotic arm pass me that object",hardware
+"Where is my object",hardware
+"Make me coffee",hardware
+"Open the door",hardware
+"Close the door",hardware
+"Pull the curtains open",hardware
+"Draw the curtains closed",hardware
+"Can you open the curtains please",hardware
+"Please close the curtains",hardware
+"I need the curtains opened",hardware
+"Shut the curtains",hardware
+"Open up the curtains",hardware
+"Close those curtains",hardware
+"Turn the lights on",hardware
+"Turn the lights off",hardware
+"Switch the lights on",hardware
+"Switch the lights off",hardware
+"Light up the room",hardware
+"Turn off all lights",hardware
+"Dim the lights",hardware
+"Brighten the lights",hardware
+"Lights on please",hardware
+"Lights off please",hardware
+"Can you turn on the lights",hardware
+"Please switch off the lights",hardware
+"I need more light",hardware
+"Make it darker",hardware
+"Illuminate the room",hardware
+"Kill the lights",hardware
+"Power on the lights",hardware
+"Power off the lights",hardware
+"Activate the lighting system",hardware
+"Deactivate the lighting system",hardware
+"Turn on the ceiling fan",hardware
+"Turn off the ceiling fan",hardware
+"Start the fan",hardware
+"Stop the fan",hardware
+"Switch on the fan",hardware
+"Switch off the fan",hardware
+"Fan on",hardware
+"Fan off",hardware
+"I need some air circulation",hardware
+"Start the ventilation",hardware
+"Cool me down with the fan",hardware
+"Turn up the fan speed",hardware
+"Turn down the fan speed",hardware
+"Increase fan speed",hardware
+"Decrease fan speed",hardware
+"Maximum fan speed",hardware
+"Minimum fan speed",hardware
+"Fan at full speed",hardware
+"Slow down the fan",hardware
+"Speed up the fan",hardware
+"Turn on the LED strips",hardware
+"Turn off the LED strips",hardware
+"Activate LED lighting",hardware
+"Deactivate LED lighting",hardware
+"Switch on the LED strips",hardware
+"Switch off the LED strips",hardware
+"Light up the LED strips",hardware
+"Turn off those LED strips",hardware
+"I want colorful lighting",hardware
+"Change LED strip colors",hardware
+"Set LED strips to blue",hardware
+"Set LED strips to red",hardware
+"Set LED strips to green",hardware
+"Make LED strips brighter",hardware
+"Make LED strips dimmer",hardware
+"LED strips on",hardware
+"LED strips off",hardware
+"Activate ambient lighting",hardware
+"Deactivate ambient lighting",hardware
+"Turn on decorative lights",hardware
+"Turn off decorative lights",hardware
+"Robotic arm bring me that book",hardware
+"Robotic arm get me that pen",hardware
+"Robotic arm fetch that cup",hardware
+"Robotic arm hand me that remote",hardware
+"Robotic arm pass me the bottle",hardware
+"Robotic arm give me that tool",hardware
+"Robotic arm retrieve that item",hardware
+"Robotic arm pick up that object",hardware
+"Robotic arm grab that thing",hardware
+"Robotic arm deliver that package",hardware
+"Robot arm pass me that",hardware
+"Robot arm get that for me",hardware
+"Robot arm bring that here",hardware
+"Robot arm fetch that item",hardware
+"Robot arm hand me that",hardware
+"Arm pass me that object",hardware
+"Arm get me that thing",hardware
+"Arm bring me that item",hardware
+"Arm fetch that for me",hardware
+"Arm grab that object",hardware
+"Where did I put my keys",hardware
+"Where is my phone",hardware
+"Where is my wallet",hardware
+"Where is my book",hardware
+"Where is my remote control",hardware
+"Where is my charger",hardware
+"Where is my laptop",hardware
+"Where is my tablet",hardware
+"Where is my glasses",hardware
+"Where is my watch",hardware
+"Find my keys",hardware
+"Find my phone",hardware
+"Find my wallet",hardware
+"Locate my object",hardware
+"Locate my keys",hardware
+"Locate my phone",hardware
+"Search for my keys",hardware
+"Search for my phone",hardware
+"Help me find my keys",hardware
+"Help me find my phone",hardware
+"Where did I leave my keys",hardware
+"Where did I leave my phone",hardware
+"I can't find my keys",hardware
+"I can't find my phone",hardware
+"I lost my keys",hardware
+"I lost my phone",hardware
+"Track my keys",hardware
+"Track my phone",hardware
+"Show me where my keys are",hardware
+"Show me where my phone is",hardware
+"Brew me some coffee",hardware
+"Prepare coffee for me",hardware
+"I need a cup of coffee",hardware
+"Make a fresh cup of coffee",hardware
+"Start the coffee maker",hardware
+"Brew a pot of coffee",hardware
+"I want some coffee",hardware
+"Coffee please",hardware
+"Can you make me coffee",hardware
+"Please make me coffee",hardware
+"I need my morning coffee",hardware
+"Prepare my usual coffee",hardware
+"Make me a strong coffee",hardware
+"Make me a mild coffee",hardware
+"Brew me an espresso",hardware
+"Make me a latte",hardware
+"Prepare my coffee now",hardware
+"Start brewing coffee",hardware
+"Begin coffee preparation",hardware
+"Activate coffee maker",hardware
+"Turn on coffee machine",hardware
+"I'm ready for coffee",hardware
+"Time for coffee",hardware
+"Coffee time",hardware
+"Get the coffee ready",hardware
+"Prepare the coffee",hardware
+"Set up coffee brewing",hardware
+"Initialize coffee maker",hardware
+"Open the front door",hardware
+"Close the front door",hardware
+"Open the main door",hardware
+"Close the main door",hardware
+"Unlock the door",hardware
+"Lock the door",hardware
+"Open the entrance",hardware
+"Close the entrance",hardware
+"I need the door opened",hardware
+"I need the door closed",hardware
+"Can you open the door",hardware
+"Can you close the door",hardware
+"Please open the door",hardware
+"Please close the door",hardware
+"Door open",hardware
+"Door close",hardware
+"Open door please",hardware
+"Close door please",hardware
+"Unlock and open the door",hardware
+"Close and lock the door",hardware
+"Let me in",hardware
+"Secure the door",hardware
+"Unsecure the door",hardware
+"Grant access through door",hardware
+"Deny access through door",hardware
+"Activate door opening",hardware
+"Activate door closing",hardware
+"Open curtains in bedroom",hardware
+"Close curtains in living room",hardware
+"Open all curtains",hardware
+"Close all curtains",hardware
+"Pull back the drapes",hardware
+"Draw the drapes",hardware
+"Open the blinds",hardware
+"Close the blinds",hardware
+"Raise the blinds",hardware
+"Lower the blinds",hardware
+"Let in some sunlight",hardware
+"Block out the sunlight",hardware
+"I want natural light",hardware
+"Make the room darker",hardware
+"Open window coverings",hardware
+"Close window coverings",hardware
+"Retract the curtains",hardware
+"Extend the curtains",hardware
+"Curtains up",hardware
+"Curtains down",hardware
+"Switch on bedroom lights",hardware
+"Switch off kitchen lights",hardware
+"Turn on bathroom lights",hardware
+"Turn off hallway lights",hardware
+"Light up the living room",hardware
+"Darken the bedroom",hardware
+"All lights on",hardware
+"All lights off",hardware
+"Main lights on",hardware
+"Main lights off",hardware
+"Overhead lights on",hardware
+"Overhead lights off",hardware
+"Table lamp on",hardware
+"Table lamp off",hardware
+"Floor lamp on",hardware
+"Floor lamp off",hardware
+"Desk light on",hardware
+"Desk light off",hardware
+"Reading light on",hardware
+"Reading light off",hardware
+"Night light on",hardware
+"Night light off",hardware
+"Emergency lights on",hardware
+"Emergency lights off",hardware
+"Accent lighting on",hardware
+"Accent lighting off",hardware
+"Task lighting on",hardware
+"Task lighting off",hardware
+"Mood lighting on",hardware
+"Mood lighting off",hardware
+"Bright lighting please",hardware
+"Soft lighting please",hardware
+"Full brightness",hardware
+"Low brightness",hardware
+"Turn on living room fan",hardware
+"Turn off bedroom fan",hardware
+"Start kitchen fan",hardware
+"Stop bathroom fan",hardware
+"Exhaust fan on",hardware
+"Exhaust fan off",hardware
+"Ceiling fan clockwise",hardware
+"Ceiling fan counterclockwise",hardware
+"Reverse fan direction",hardware
+"Fan speed high",hardware
+"Fan speed medium",hardware
+"Fan speed low",hardware
+"Oscillating fan on",hardware
+"Oscillating fan off",hardware
+"Tower fan on",hardware
+"Tower fan off",hardware
+"Pedestal fan on",hardware
+"Pedestal fan off",hardware
+"Ventilation fan on",hardware
+"Ventilation fan off",hardware
+"Cooling fan on",hardware
+"Cooling fan off",hardware
+"Air circulation on",hardware
+"Air circulation off",hardware
+"Fresh air circulation",hardware
+"Stop air circulation",hardware
+"Activate room ventilation",hardware
+"Deactivate room ventilation",hardware
+"Turn on strip lighting",hardware
+"Turn off strip lighting",hardware
+"RGB LED strips on",hardware
+"RGB LED strips off",hardware
+"Color changing lights on",hardware
+"Color changing lights off",hardware
+"Under cabinet lighting on",hardware
+"Under cabinet lighting off",hardware
+"Backlight on",hardware
+"Backlight off",hardware
+"Accent strips on",hardware
+"Accent strips off",hardware
+"Decorative lighting on",hardware
+"Decorative lighting off",hardware
+"Party lights on",hardware
+"Party lights off",hardware
+"Mood strips on",hardware
+"Mood strips off",hardware
+"Gaming lights on",hardware
+"Gaming lights off",hardware
+"Ambient strips on",hardware
+"Ambient strips off",hardware
+"LED strip red color",hardware
+"LED strip blue color",hardware
+"LED strip green color",hardware
+"LED strip white color",hardware
+"LED strip rainbow mode",hardware
+"LED strip disco mode",hardware
+"LED strip breathing mode",hardware
+"LED strip static mode",hardware
+"Robotic arm pick up my phone",hardware
+"Robotic arm grab my keys",hardware
+"Robotic arm fetch my glasses",hardware
+"Robotic arm bring my book",hardware
+"Robotic arm get my remote",hardware
+"Robotic arm pass my wallet",hardware
+"Robotic arm hand me my tablet",hardware
+"Robotic arm deliver my package",hardware
+"Robotic arm retrieve my tool",hardware
+"Robotic arm collect my item",hardware
+"Robot help me get that",hardware
+"Robot bring that object here",hardware
+"Robot fetch that thing",hardware
+"Robot pass me that item",hardware
+"Robot hand me that tool",hardware
+"Robot deliver that package",hardware
+"Robot collect that object",hardware
+"Robot grab that thing",hardware
+"Robot pick that up",hardware
+"Robot get that for me",hardware
+"Mechanical arm assistance",hardware
+"Mechanical arm help",hardware
+"Automated arm service",hardware
+"Automated arm help",hardware
+"Servo arm pick up",hardware
+"Servo arm deliver",hardware
+"Articulated arm fetch",hardware
+"Articulated arm grab",hardware
+"Manipulator arm get",hardware
+"Manipulator arm bring",hardware
+"Where are my sunglasses",hardware
+"Where are my headphones",hardware
+"Where is my backpack",hardware
+"Where is my umbrella",hardware
+"Where is my jacket",hardware
+"Where is my shoes",hardware
+"Where is my bag",hardware
+"Where is my documents",hardware
+"Where is my medicine",hardware
+"Where is my tools",hardware
+"Find my missing item",hardware
+"Find my lost object",hardware
+"Locate missing object",hardware
+"Locate lost item",hardware
+"Search for missing thing",hardware
+"Search for lost object",hardware
+"Track down my item",hardware
+"Track down my object",hardware
+"Help locate my stuff",hardware
+"Help find my belongings",hardware
+"Object detection service",hardware
+"Object location service",hardware
+"Item finder assistance",hardware
+"Item locator help",hardware
+"Lost object recovery",hardware
+"Missing item search",hardware
+"Personal item tracker",hardware
+"Belongings locator",hardware
+"Asset tracking help",hardware
+"Property location service",hardware
+"Brew me an americano",hardware
+"Brew me a cappuccino",hardware
+"Make me hot coffee",hardware
+"Make me iced coffee",hardware
+"Prepare black coffee",hardware
+"Prepare coffee with milk",hardware
+"Strong coffee please",hardware
+"Weak coffee please",hardware
+"Decaf coffee please",hardware
+"Regular coffee please",hardware
+"Fresh ground coffee",hardware
+"Instant coffee preparation",hardware
+"Coffee machine start",hardware
+"Coffee machine stop",hardware
+"Espresso machine on",hardware
+"Espresso machine off",hardware
+"Coffee brewing cycle",hardware
+"Coffee preparation mode",hardware
+"Automatic coffee making",hardware
+"Manual coffee brewing",hardware
+"Coffee maker activation",hardware
+"Coffee maker operation",hardware
+"Beverage preparation",hardware
+"Hot beverage service",hardware
+"Morning coffee routine",hardware
+"Coffee service request",hardware
+"Caffeine preparation",hardware
+"Coffee dispensing",hardware
+"Coffee production",hardware
+"Coffee manufacturing",hardware
+"Open garage door",hardware
+"Close garage door",hardware
+"Open patio door",hardware
+"Close patio door",hardware
+"Open sliding door",hardware
+"Close sliding door",hardware
+"Open back door",hardware
+"Close back door",hardware
+"Open side door",hardware
+"Close side door",hardware
+"Electronic door control",hardware
+"Automatic door operation",hardware
+"Smart door activation",hardware
+"Smart door deactivation",hardware
+"Door access control",hardware
+"Door security control",hardware
+"Entry point control",hardware
+"Exit point control",hardware
+"Portal opening",hardware
+"Portal closing",hardware
+"Doorway access",hardware
+"Doorway blocking",hardware
+"Entrance automation",hardware
+"Exit automation",hardware
+"Door motor control",hardware
+"Door mechanism control",hardware
+"Access barrier control",hardware
+"Security barrier control",hardware
+"Automated entry system",hardware
+"Automated exit system",hardware
+"Open the curtains","hardware"
+"Close the curtains","hardware"
+"Can you draw the curtains?","hardware"
+"Pull the curtains back","hardware"
+"Let some light in by opening the curtains","hardware"
+"Shut the curtains","hardware"
+"Curtains open please","hardware"
+"Curtains close now","hardware"
+"Turn on the lights","hardware"
+"Switch off the fan","hardware"
+"Can you toggle the LED strip?","hardware"
+"Lights off","hardware"
+"Lights on","hardware"
+"Fan on please","hardware"
+"LED strip off","hardware"
+"Please turn off all lights","hardware"
+"Activate the light switch","hardware"
+"Switch on fan","hardware"
+"Pass me the object","hardware"
+"Where is my object?","hardware"
+"Use the robotic arm to grab that","hardware"
+"Hand me that item","hardware"
+"Pick that up using the robot arm","hardware"
+"Robot arm, fetch the item","hardware"
+"Grab the object for me","hardware"
+"Deliver that thing to me","hardware"
+"Make me coffee","hardware"
+"Brew some coffee","hardware"
+"Prepare coffee for me","hardware"
+"Start the coffee machine","hardware"
+"I need coffee","hardware"
+"Can I have some coffee?","hardware"
+"Make a cup of coffee","hardware"
+"Coffee please","hardware"
+"Open the door","hardware"
+"Close the door","hardware"
+"Can you open the main door?","hardware"
+"Shut the door","hardware"
+"Unlock the door","hardware"
+"Lock the door","hardware"
+"Main door open","hardware"
+Please close the door,hardware
+"Now, open the curtains",hardware
+"Right away, curtains close now",hardware
+"Right away, pull the curtains back",hardware
+"Please, close the curtains",hardware
+"Right away, please turn off all lights",hardware
+"Right away, prepare coffee for me",hardware
+"Kindly, start the coffee machine",hardware
+"Immediately, lock the door",hardware
+"Please, please turn off all lights",hardware
+"Right away, unlock the door",hardware
+"Please, switch off the fan",hardware
+"Now, use the robotic arm to grab that",hardware
+"Right away, can i have some coffee?",hardware
+"Kindly, can i have some coffee?",hardware
+"Now, brew some coffee",hardware
+"Please, where is my object?",hardware
+"Immediately, prepare coffee for me",hardware
+"Kindly, pass me the object",hardware
+"Immediately, deliver that thing to me",hardware
+"Right away, switch on fan",hardware
+"Please, use the robotic arm to grab that",hardware
+"Kindly, close the curtains",hardware
+"Now, lights on",hardware
+"Kindly, switch on fan",hardware
+"Please, can i have some coffee?",hardware
+"Right away, i need coffee",hardware
+"Immediately, led strip off",hardware
+"Immediately, close the door",hardware
+"Immediately, prepare coffee for me",hardware
+"Kindly, make me coffee",hardware
+"Right away, shut the curtains",hardware
+"Please, turn on the lights",hardware
+"Please, close the curtains",hardware
+"Kindly, i need coffee",hardware
+"Immediately, can you toggle the led strip?",hardware
+"Kindly, i need coffee",hardware
+"Immediately, can you draw the curtains?",hardware
+"Kindly, shut the curtains",hardware
+"Right away, coffee please",hardware
+"Kindly, can you draw the curtains?",hardware
+"Kindly, lock the door",hardware
+"Now, switch off the fan",hardware
+"Right away, brew some coffee",hardware
+"Please, pull the curtains back",hardware
+"Immediately, brew some coffee",hardware
+"Right away, where is my object?",hardware
+"Right away, unlock the door",hardware
+"Please, pull the curtains back",hardware
+"Please, prepare coffee for me",hardware
+"Kindly, turn on the lights",hardware
+"Please, grab the object for me",hardware
+"Kindly, i need coffee",hardware
+"Kindly, shut the door",hardware
+"Immediately, brew some coffee",hardware
+"Immediately, led strip off",hardware
+"Now, fan on please",hardware
+"Please, make a cup of coffee",hardware
+"Please, please turn off all lights",hardware
+"Kindly, where is my object?",hardware
+"Please, fan on please",hardware
+"Now, open the door",hardware
+"Right away, open the curtains",hardware
+"Immediately, open the door",hardware
+"Right away, pull the curtains back",hardware
+"Immediately, make a cup of coffee",hardware
+"Now, pass me the object",hardware
+"Please, coffee please",hardware
+"Immediately, lights on",hardware
+"Please, close the door",hardware
+"Right away, switch off the fan",hardware
+"Right away, make a cup of coffee",hardware
+"Immediately, lights off",hardware
+"Now, open the door",hardware
+"Please, shut the door",hardware
+"Please, please close the door",hardware
+"Immediately, make a cup of coffee",hardware
+"Kindly, make me coffee",hardware
+"Right away, coffee please",hardware
+"Right away, close the door",hardware
+"Right away, please close the door",hardware
+"Please, can you draw the curtains?",hardware
+"Immediately, pick that up using the robot arm",hardware
+"Immediately, lights off",hardware
+"Immediately, pass me the object",hardware
+"Kindly, deliver that thing to me",hardware
+"Now, pick that up using the robot arm",hardware
+"Now, lights off",hardware
+"Please, make me coffee",hardware
+"Right away, unlock the door",hardware
+"Now, close the curtains",hardware
+"Right away, close the curtains",hardware
+"Now, make me coffee",hardware
+"Now, close the curtains",hardware
+"Kindly, i need coffee",hardware
+"Immediately, make a cup of coffee",hardware
+"Immediately, robot arm, fetch the item",hardware
+"Kindly, please close the door",hardware
+"Now, hand me that item",hardware
+"Immediately, curtains close now",hardware
+"Kindly, pick that up using the robot arm",hardware
+"Please, open the curtains",hardware
+"Please, please close the door",hardware
+"Right away, open the curtains",hardware
+"Immediately, activate the light switch",hardware
+"Right away, pass me the object",hardware
+"Right away, please turn off all lights",hardware
+"Kindly, prepare coffee for me",hardware
+"Immediately, shut the curtains",hardware
+"Right away, curtains open please",hardware
+"Kindly, open the door",hardware
+"Please, turn on the lights",hardware
+"Now, pull the curtains back",hardware
+"Please, start the coffee machine",hardware
+"Immediately, open the door",hardware
+"Now, activate the light switch",hardware
+"Right away, hand me that item",hardware
+"Kindly, please close the door",hardware
+"Please, prepare coffee for me",hardware
+"Please, lights off",hardware
+"Right away, curtains close now",hardware
+"Immediately, open the curtains",hardware
+"Right away, please close the door",hardware
+"Now, shut the door",hardware
+"Please, curtains open please",hardware
+"Kindly, open the curtains",hardware
+"Right away, make a cup of coffee",hardware
+"Please, can you open the main door?",hardware
+"Now, activate the light switch",hardware
+"Right away, can you toggle the led strip?",hardware
+"Right away, can you draw the curtains?",hardware
+"Right away, prepare coffee for me",hardware
+"Immediately, can you toggle the led strip?",hardware
+"Kindly, switch off the fan",hardware
+"Please, unlock the door",hardware
+"Please, pass me the object",hardware
+"Now, brew some coffee",hardware
+"Right away, pass me the object",hardware
+"Kindly, open the curtains",hardware
+"Kindly, can you draw the curtains?",hardware
+"Kindly, open the door",hardware
+"Kindly, start the coffee machine",hardware
+"Right away, main door open",hardware
+"Now, i need coffee",hardware
+"Now, curtains open please",hardware
+"Now, lock the door",hardware
+"Right away, turn on the lights",hardware
+"Right away, lights off",hardware
+"Now, where is my object?",hardware
+"Immediately, shut the curtains",hardware
+"Kindly, curtains close now",hardware
+"Please, pass me the object",hardware
+"Kindly, please close the door",hardware
+"Right away, can you open the main door?",hardware
+"Immediately, shut the door",hardware
+"Now, coffee please",hardware
+"Immediately, curtains open please",hardware
+"Immediately, curtains close now",hardware
+"Kindly, can you draw the curtains?",hardware
+"Please, lights on",hardware
+"Right away, where is my object?",hardware
+"Immediately, where is my object?",hardware
+"Right away, brew some coffee",hardware
+"Kindly, open the door",hardware
+"Kindly, can you draw the curtains?",hardware
+"Right away, pull the curtains back",hardware
+"Now, lights on",hardware
+"Immediately, shut the door",hardware
+"Now, where is my object?",hardware
+"Immediately, turn on the lights",hardware
+"Please, can you draw the curtains?",hardware
+"Now, main door open",hardware
+"Immediately, make a cup of coffee",hardware
+"Please, hand me that item",hardware
+"Immediately, switch off the fan",hardware
+"Now, switch on fan",hardware
+"Immediately, switch on fan",hardware
+"Right away, open the curtains",hardware
+"Right away, please turn off all lights",hardware
+"Please, lights on",hardware
+"Now, close the door",hardware
+"Kindly, deliver that thing to me",hardware
+"Please, led strip off",hardware
+"Immediately, led strip off",hardware
+"Kindly, unlock the door",hardware
+"Please, curtains close now",hardware
+"Kindly, i need coffee",hardware
+"Right away, start the coffee machine",hardware
+"Kindly, make a cup of coffee",hardware
+"Right away, brew some coffee",hardware
+"Immediately, pass me the object",hardware
+"Right away, lock the door",hardware
+"Now, unlock the door",hardware
+"Kindly, turn on the lights",hardware
+"Right away, turn on the lights",hardware
+"Now, let some light in by opening the curtains",hardware
+"Now, make a cup of coffee",hardware
+"Immediately, please close the door",hardware
+"Kindly, led strip off",hardware
+"Now, deliver that thing to me",hardware
+"Now, prepare coffee for me",hardware
+"Please, grab the object for me",hardware
+"Now, pass me the object",hardware
+"Kindly, pull the curtains back",hardware
+"Now, turn on the lights",hardware
+"Please, switch on fan",hardware
+"Now, coffee please",hardware
+"Kindly, please close the door",hardware
+"Please, coffee please",hardware
+"Right away, switch off the fan",hardware
+"Kindly, main door open",hardware
+"Immediately, where is my object?",hardware
+"Right away, pull the curtains back",hardware
+"Right away, pull the curtains back",hardware
+"Kindly, close the curtains",hardware
+"Now, prepare coffee for me",hardware
+"Right away, grab the object for me",hardware
+"Please, brew some coffee",hardware
+"Right away, start the coffee machine",hardware
+"Immediately, make me coffee",hardware
+"Please, use the robotic arm to grab that",hardware
+"Now, start the coffee machine",hardware
+"Immediately, can you open the main door?",hardware
+"Immediately, activate the light switch",hardware
+"Kindly, deliver that thing to me",hardware
+"Please, open the curtains",hardware
+"Please, can you draw the curtains?",hardware
+"Now, make a cup of coffee",hardware
+"Right away, use the robotic arm to grab that",hardware
+"Immediately, can you toggle the led strip?",hardware
+"Right away, make a cup of coffee",hardware
+"Please, lights on",hardware
+"Kindly, i need coffee",hardware
+"Right away, brew some coffee",hardware
+"Now, brew some coffee",hardware
+"Immediately, let some light in by opening the curtains",hardware
+"Now, grab the object for me",hardware
+"Kindly, brew some coffee",hardware
+"Right away, pull the curtains back",hardware
+"Please, hand me that item",hardware
+"Now, open the curtains",hardware
+"Immediately, can you toggle the led strip?",hardware
+"Immediately, can you draw the curtains?",hardware
+"Please, close the door",hardware
+"Right away, brew some coffee",hardware
+"Now, led strip off",hardware
+"Now, unlock the door",hardware
+"Immediately, please turn off all lights",hardware
+"Kindly, robot arm, fetch the item",hardware
+"Kindly, curtains open please",hardware
+"Now, can you open the main door?",hardware
+"Kindly, coffee please",hardware
+"Please, make a cup of coffee",hardware
+"Kindly, can you open the main door?",hardware
+"Please, pass me the object",hardware
+"Now, hand me that item",hardware
+"Please, pass me the object",hardware
+"Please, can you draw the curtains?",hardware
+"Immediately, main door open",hardware
+"Kindly, start the coffee machine",hardware
+"Kindly, let some light in by opening the curtains",hardware
+"Please, curtains open please",hardware
+"Right away, start the coffee machine",hardware
+"Please, start the coffee machine",hardware
+"Please, open the curtains",hardware
+"Now, pass me the object",hardware
+"Please, robot arm, fetch the item",hardware
+"Immediately, make me coffee",hardware
+"Immediately, lights off",hardware
+"Now, i need coffee",hardware
+"Immediately, close the curtains",hardware
+"Please, curtains open please",hardware
+"Now, let some light in by opening the curtains",hardware
+"Now, shut the door",hardware
+"Immediately, hand me that item",hardware
+"Right away, please turn off all lights",hardware
+"Kindly, led strip off",hardware
+"Immediately, close the door",hardware
+"Right away, shut the curtains",hardware
+"Please, can i have some coffee?",hardware
+"Now, pick that up using the robot arm",hardware
+"Immediately, hand me that item",hardware
+"Immediately, close the door",hardware
+"Now, deliver that thing to me",hardware
+"Now, can you open the main door?",hardware
+"Please, close the door",hardware
+"Now, curtains close now",hardware
+"Kindly, open the door",hardware
+"Please, robot arm, fetch the item",hardware
+"Kindly, let some light in by opening the curtains",hardware
+"Immediately, main door open",hardware
+"Please, make a cup of coffee",hardware
+"Now, curtains close now",hardware
+"Kindly, brew some coffee",hardware
+"Please, lock the door",hardware
+"Kindly, prepare coffee for me",hardware
+"Immediately, shut the door",hardware
+"Kindly, curtains close now",hardware
+"Please, please turn off all lights",hardware
+"Immediately, curtains open please",hardware
+"Immediately, open the door",hardware
+"Right away, please turn off all lights",hardware
+"Now, lights off",hardware
+"Please, deliver that thing to me",hardware
+"Kindly, turn on the lights",hardware
+"Now, main door open",hardware
+"Now, switch off the fan",hardware
+"Please, open the curtains",hardware
+"Right away, please close the door",hardware
+"Kindly, can i have some coffee?",hardware
+"Kindly, curtains close now",hardware
+"Right away, led strip off",hardware
+"Now, start the coffee machine",hardware
+"Now, shut the door",hardware
+"Immediately, grab the object for me",hardware
+"Immediately, robot arm, fetch the item",hardware
+"Immediately, deliver that thing to me",hardware
+"Right away, please close the door",hardware
+"Please, robot arm, fetch the item",hardware
+"Please, brew some coffee",hardware
+"Please, activate the light switch",hardware
+"Right away, open the door",hardware
+"Kindly, hand me that item",hardware
+"Right away, coffee please",hardware
+"Immediately, i need coffee",hardware
+"Now, hand me that item",hardware
+"Now, grab the object for me",hardware
+"Please, open the curtains",hardware
+"Please, switch off the fan",hardware
+"Immediately, lights on",hardware
+"Please, activate the light switch",hardware
+"Please, curtains open please",hardware
+"Kindly, can i have some coffee?",hardware
+"Right away, curtains open please",hardware
+"Immediately, use the robotic arm to grab that",hardware
+"Now, turn on the lights",hardware
+"Kindly, lights on",hardware
+"Right away, i need coffee",hardware
+"Now, close the curtains",hardware
+"Immediately, lights on",hardware
+"Right away, open the door",hardware
+"Please, can you toggle the led strip?",hardware
+"Kindly, make a cup of coffee",hardware
+"Now, close the curtains",hardware
+"Please, grab the object for me",hardware
+"Now, fan on please",hardware
+"Right away, deliver that thing to me",hardware
+"Now, fan on please",hardware
+"Kindly, use the robotic arm to grab that",hardware
+"Now, deliver that thing to me",hardware
+"Immediately, can you draw the curtains?",hardware
+"Kindly, let some light in by opening the curtains",hardware
+"Please, pull the curtains back",hardware
+"Please, pass me the object",hardware
+"Kindly, use the robotic arm to grab that",hardware
+"Please, led strip off",hardware
+"Please, open the door",hardware
+"Immediately, i need coffee",hardware
+"Kindly, activate the light switch",hardware
+"Immediately, can you open the main door?",hardware
+"Kindly, unlock the door",hardware
+"Right away, use the robotic arm to grab that",hardware
+"Kindly, switch on fan",hardware
+"Now, let some light in by opening the curtains",hardware
+"Immediately, make me coffee",hardware
+"Right away, lights off",hardware
+"Now, unlock the door",hardware
+"Right away, switch off the fan",hardware
+"Right away, open the curtains",hardware
+"Kindly, curtains open please",hardware
+"Kindly, coffee please",hardware
+"Right away, pull the curtains back",hardware
+"Please, main door open",hardware
+"Kindly, unlock the door",hardware
+"Right away, make a cup of coffee",hardware
+"Please, hand me that item",hardware
+"Now, lock the door",hardware
+"Kindly, pull the curtains back",hardware
+"Please, switch off the fan",hardware
+"Kindly, switch on fan",hardware
+"Now, use the robotic arm to grab that",hardware
+"Immediately, where is my object?",hardware
+"Immediately, lights off",hardware
+"Now, prepare coffee for me",hardware
+"Please, pass me the object",hardware
+"Now, curtains open please",hardware
+"Now, use the robotic arm to grab that",hardware
+"Please, close the door",hardware
+"Immediately, lights off",hardware
+"Kindly, lights off",hardware
+"Right away, can i have some coffee?",hardware
+"Now, main door open",hardware
+"Right away, shut the curtains",hardware
+"Kindly, hand me that item",hardware
+"Now, make me coffee",hardware
+"Kindly, coffee please",hardware
+"Right away, i need coffee",hardware
+"Kindly, hand me that item",hardware
+"Right away, robot arm, fetch the item",hardware
+"Please, make me coffee",hardware
+"Now, please close the door",hardware
+"Now, make me coffee",hardware
+"Immediately, can you draw the curtains?",hardware
+"Please, brew some coffee",hardware
+"Kindly, grab the object for me",hardware
+"Please, curtains open please",hardware
+"Please, turn on the lights",hardware
+"Please, i need coffee",hardware
+"Please, curtains open please",hardware
+"Please, let some light in by opening the curtains",hardware
+"Kindly, please close the door",hardware
+"Now, deliver that thing to me",hardware
+"Immediately, switch off the fan",hardware
+"Right away, robot arm, fetch the item",hardware
+"Immediately, fan on please",hardware
+"Right away, coffee please",hardware
+"Please, activate the light switch",hardware
+"Please, hand me that item",hardware
+"Right away, main door open",hardware
+"Now, please close the door",hardware
+"Kindly, close the door",hardware
+"Right away, lights on",hardware
+"Right away, unlock the door",hardware
+"Kindly, grab the object for me",hardware
+"Kindly, close the door",hardware
+"Immediately, robot arm, fetch the item",hardware
+"Immediately, switch off the fan",hardware
+"Now, grab the object for me",hardware
+"Please, led strip off",hardware
+"Please, make me coffee",hardware
+"Please, curtains open please",hardware
+"Please, curtains open please",hardware
+"Please, activate the light switch",hardware
+"Immediately, make me coffee",hardware
+"Now, let some light in by opening the curtains",hardware
+"Kindly, open the curtains",hardware
+"Immediately, activate the light switch",hardware
+"Now, start the coffee machine",hardware
+"Right away, curtains open please",hardware
+"Now, can you draw the curtains?",hardware
+"Please, let some light in by opening the curtains",hardware
+"Please, pick that up using the robot arm",hardware
+"Now, let some light in by opening the curtains",hardware
+"Kindly, pick that up using the robot arm",hardware
+"Right away, can you draw the curtains?",hardware
+"Kindly, can you draw the curtains?",hardware
+"Right away, curtains close now",hardware
+"Please, grab the object for me",hardware
+"Please, pass me the object",hardware
+"Right away, please close the door",hardware
+"Kindly, brew some coffee",hardware
+"Now, let some light in by opening the curtains",hardware
+"Kindly, lock the door",hardware
+"Now, activate the light switch",hardware
+"Right away, make me coffee",hardware
+"Right away, close the curtains",hardware
+"Kindly, pass me the object",hardware
+"Kindly, switch on fan",hardware
+"Right away, make a cup of coffee",hardware

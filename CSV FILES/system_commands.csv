@@ -1,0 +1,920 @@
+text, label
+"increase the volume",system
+"increase the volume by 50",system
+"set the volume to 40",system
+"can you please increase the volume",system
+"can you please increase the volume by 50",system
+"can you please set the volume to 40",system
+"increase the brightness",system
+"increase the brightness by 50",system
+"set the brightness to 40",system
+"can you please increase the brightness",system
+"can you please increase the brightness by 50",system
+"can you please set the brightness to 40",system
+"shutdown the system",system
+"shutdown the computer",system
+"shutdown the laptop",system
+"can you please shutdown the system",system
+"can you please shutdown the computer",system
+"can you please shutdown the laptop",system
+"restart the system",system
+"restart the computer",system
+"restart the laptop",system
+"can you please restart the system",system
+"can you please restart the computer",system
+"can you please restart the laptop",system
+"play shape of you",system
+"can you please play interstellar theme on youtube",system
+"search quantum computing",system
+"search physics on google",system
+"can you please search artificial intelligence on google",system
+"can you please open chrome for me",system
+"can you please open spotify for me",system
+"can you please open task manager for me",system
+"can you please open notepad for me",system
+"open chrome",system
+"open spotify",system
+"open task manager",system
+"open notepad",system
+"close the chrome",system
+"close the spotify",system
+"close the task manager",system
+"close the notepad",system
+"turn up the volume",system
+"make the volume louder",system
+"volume up",system
+"raise the volume",system
+"boost the volume",system
+"amplify the volume",system
+"enhance the volume",system
+"pump up the volume",system
+"maximize the volume",system
+"crank up the volume",system
+"decrease the volume",system
+"lower the volume",system
+"reduce the volume",system
+"mute the volume",system
+"turn down the volume",system
+"set volume to zero",system
+"minimize the volume",system
+"quiet the volume",system
+"volume down",system
+"adjust volume to 75",system
+"change volume to 25",system
+"modify volume to 60",system
+"update volume to 80",system
+"configure volume to 35",system
+"establish volume at 45",system
+"fix volume at 90",system
+"determine volume as 20",system
+"regulate volume to 55",system
+"control volume at 65",system
+"manage volume to 30",system
+"please increase the volume",system
+"could you increase the volume",system
+"would you increase the volume",system
+"kindly increase the volume",system
+"i need you to increase the volume",system
+"help me increase the volume",system
+"assist me with increasing the volume",system
+"make the brightness higher",system
+"brighten the screen",system
+"turn up the brightness",system
+"raise the brightness",system
+"boost the brightness",system
+"amplify the brightness",system
+"enhance the brightness",system
+"maximize the brightness",system
+"brighten the display",system
+"illuminate the screen",system
+"decrease the brightness",system
+"lower the brightness",system
+"reduce the brightness",system
+"dim the brightness",system
+"turn down the brightness",system
+"darken the screen",system
+"minimize the brightness",system
+"fade the brightness",system
+"brightness down",system
+"adjust brightness to 75",system
+"change brightness to 25",system
+"modify brightness to 60",system
+"update brightness to 80",system
+"configure brightness to 35",system
+"establish brightness at 45",system
+"fix brightness at 90",system
+"determine brightness as 20",system
+"regulate brightness to 55",system
+"control brightness at 65",system
+"manage brightness to 30",system
+"please increase the brightness",system
+"could you increase the brightness",system
+"would you increase the brightness",system
+"kindly increase the brightness",system
+"i need you to increase the brightness",system
+"help me increase the brightness",system
+"assist me with increasing the brightness",system
+"power off the system",system
+"turn off the computer",system
+"shut down the machine",system
+"power down the laptop",system
+"turn off the device",system
+"switch off the system",system
+"halt the computer",system
+"stop the system",system
+"end the session",system
+"terminate the system",system
+"close the system",system
+"exit the system",system
+"kill the system",system
+"suspend the computer",system
+"hibernate the laptop",system
+"sleep the system",system
+"standby the computer",system
+"shutdown now",system
+"immediate shutdown",system
+"force shutdown",system
+"emergency shutdown",system
+"quick shutdown",system
+"fast shutdown",system
+"shutdown please",system
+"kindly shutdown",system
+"please shutdown",system
+"would you shutdown",system
+"could you shutdown",system
+"i need to shutdown",system
+"help me shutdown",system
+"reboot the system",system
+"reboot the computer",system
+"restart the machine",system
+"reboot the laptop",system
+"reset the system",system
+"refresh the computer",system
+"reload the system",system
+"cycle the computer",system
+"reinitialize the system",system
+"restore the computer",system
+"renew the system",system
+"revive the computer",system
+"restart now",system
+"immediate restart",system
+"force restart",system
+"emergency restart",system
+"quick restart",system
+"fast restart",system
+"restart please",system
+"kindly restart",system
+"please restart",system
+"would you restart",system
+"could you restart",system
+"i need to restart",system
+"help me restart",system
+"soft restart",system
+"hard restart",system
+"warm restart",system
+"cold restart",system
+"play despacito on youtube",system
+"play bohemian rhapsody",system
+"play imagine dragons",system
+"play ed sheeran",system
+"play taylor swift",system
+"play drake",system
+"play adele",system
+"play billie eilish",system
+"play the weeknd",system
+"play ariana grande",system
+"play coldplay",system
+"play maroon 5",system
+"play bruno mars",system
+"play justin bieber",system
+"play rihanna",system
+"play eminem",system
+"play kanye west",system
+"play beyonce",system
+"play dua lipa",system
+"play harry styles",system
+"play shawn mendes",system
+"play selena gomez",system
+"play twenty one pilots",system
+"play panic at the disco",system
+"play fall out boy",system
+"play my chemical romance",system
+"play linkin park",system
+"play green day",system
+"play red hot chili peppers",system
+"play radiohead",system
+"play the beatles",system
+"play queen",system
+"play led zeppelin",system
+"play pink floyd",system
+"play ac/dc",system
+"play metallica",system
+"play guns n roses",system
+"play nirvana",system
+"play pearl jam",system
+"play u2",system
+"play the rolling stones",system
+"play david bowie",system
+"play elvis presley",system
+"play michael jackson",system
+"play madonna",system
+"play whitney houston",system
+"play celine dion",system
+"play barbra streisand",system
+"play frank sinatra",system
+"play elvis",system
+"can you play despacito",system
+"please play bohemian rhapsody",system
+"would you play imagine dragons",system
+"could you play ed sheeran",system
+"kindly play taylor swift",system
+"i want to hear drake",system
+"play some adele for me",system
+"put on billie eilish",system
+"start playing the weeknd",system
+"launch ariana grande",system
+"queue up coldplay",system
+"stream maroon 5",system
+"search machine learning",system
+"search deep learning",system
+"search neural networks",system
+"search data science",system
+"search python programming",system
+"search javascript",system
+"search web development",system
+"search react js",system
+"search node js",system
+"search angular",system
+"search vue js",system
+"search html css",system
+"search bootstrap",system
+"search jquery",system
+"search php",system
+"search mysql",system
+"search mongodb",system
+"search sql",system
+"search database design",system
+"search cloud computing",system
+"search aws",system
+"search azure",system
+"search google cloud",system
+"search docker",system
+"search kubernetes",system
+"search devops",system
+"search git github",system
+"search linux",system
+"search ubuntu",system
+"search windows",system
+"search cybersecurity",system
+"search ethical hacking",system
+"search blockchain",system
+"search cryptocurrency",system
+"search bitcoin",system
+"search ethereum",system
+"search mobile development",system
+"search android development",system
+"search ios development",system
+"search flutter",system
+"search react native",system
+"search swift",system
+"search kotlin",system
+"search java",system
+"search c plus plus",system
+"search c sharp",system
+"search ruby",system
+"search go language",system
+"search rust",system
+"search scala",system
+"search r programming",system
+"search statistics",system
+"search mathematics",system
+"search calculus",system
+"search algebra",system
+"search geometry",system
+"search trigonometry",system
+"search biology",system
+"search chemistry",system
+"search psychology",system
+"search sociology",system
+"search history",system
+"search geography",system
+"search economics",system
+"search finance",system
+"search marketing",system
+"search business",system
+"search entrepreneurship",system
+"search philosophy",system
+"search literature",system
+"search art",system
+"search music",system
+"search movies",system
+"search sports",system
+"search fitness",system
+"search health",system
+"search nutrition",system
+"search cooking",system
+"search recipes",system
+"search travel",system
+"search photography",system
+"search gaming",system
+"search technology",system
+"search innovation",system
+"search startups",system
+"search investing",system
+"search stock market",system
+"search cryptocurrency trading",system
+"search forex",system
+"can you search machine learning",system
+"please search deep learning",system
+"would you search neural networks",system
+"could you search data science",system
+"kindly search python programming",system
+"i want to search javascript",system
+"help me search web development",system
+"look up react js for me",system
+"find information about node js",system
+"google search angular",system
+"search on google for vue js",system
+"lookup html css on google",system
+"open firefox",system
+"open internet explorer",system
+"open edge",system
+"open safari",system
+"open opera",system
+"open brave",system
+"open google chrome",system
+"open mozilla firefox",system
+"open microsoft edge",system
+"open apple safari",system
+"open opera browser",system
+"open brave browser",system
+"open music player",system
+"open windows media player",system
+"open vlc",system
+"open itunes",system
+"open apple music",system
+"open youtube music",system
+"open soundcloud",system
+"open pandora",system
+"open amazon music",system
+"open tidal",system
+"open deezer",system
+"open winamp",system
+"open foobar",system
+"open audacity",system
+"open garageband",system
+"open fl studio",system
+"open ableton",system
+"open pro tools",system
+"open logic pro",system
+"open cubase",system
+"open reaper",system
+"open calculator",system
+"open calendar",system
+"open clock",system
+"open alarm",system
+"open timer",system
+"open stopwatch",system
+"open weather",system
+"open maps",system
+"open google maps",system
+"open apple maps",system
+"open waze",system
+"open uber",system
+"open lyft",system
+"open settings",system
+"open control panel",system
+"open device manager",system
+"open system preferences",system
+"open activity monitor",system
+"open resource monitor",system
+"open performance monitor",system
+"open event viewer",system
+"open registry editor",system
+"open command prompt",system
+"open powershell",system
+"open terminal",system
+"open bash",system
+"open cmd",system
+"open run",system
+"open file explorer",system
+"open finder",system
+"open my computer",system
+"open this pc",system
+"open documents",system
+"open downloads",system
+"open pictures",system
+"open videos",system
+"open music",system
+"open desktop",system
+"open recycle bin",system
+"open trash",system
+"open word",system
+"open microsoft word",system
+"open excel",system
+"open microsoft excel",system
+"open powerpoint",system
+"open microsoft powerpoint",system
+"open outlook",system
+"open microsoft outlook",system
+"open onenote",system
+"open microsoft onenote",system
+"open access",system
+"open microsoft access",system
+"open publisher",system
+"open microsoft publisher",system
+"open visio",system
+"open microsoft visio",system
+"open project",system
+"open microsoft project",system
+"open teams",system
+"open microsoft teams",system
+"open skype",system
+"open zoom",system
+"open discord",system
+"open slack",system
+"open whatsapp",system
+"open telegram",system
+"open signal",system
+"open messenger",system
+"open facebook",system
+"open twitter",system
+"open instagram",system
+"open linkedin",system
+"open tiktok",system
+"open snapchat",system
+"open pinterest",system
+"open reddit",system
+"open youtube",system
+"open netflix",system
+"open hulu",system
+"open disney plus",system
+"open amazon prime",system
+"open hbo max",system
+"open paramount plus",system
+"open peacock",system
+"open apple tv",system
+"open twitch",system
+"open steam",system
+"open epic games",system
+"open origin",system
+"open uplay",system
+"open battle net",system
+"open gog galaxy",system
+"open xbox",system
+"open playstation",system
+"open nintendo",system
+"open photoshop",system
+"open illustrator",system
+"open indesign",system
+"open after effects",system
+"open premiere pro",system
+"open lightroom",system
+"open acrobat",system
+"open dreamweaver",system
+"open animate",system
+"open dimension",system
+"open xd",system
+"open audition",system
+"open bridge",system
+"open camera raw",system
+"open media encoder",system
+"open character animator",system
+"open prelude",system
+"open speedgrade",system
+"open story plus",system
+"close firefox",system
+"close internet explorer",system
+"close edge",system
+"close safari",system
+"close opera",system
+"close brave",system
+"close google chrome",system
+"close mozilla firefox",system
+"close microsoft edge",system
+"close apple safari",system
+"close opera browser",system
+"close brave browser",system
+"close music player",system
+"close windows media player",system
+"close vlc",system
+"close itunes",system
+"close apple music",system
+"close youtube music",system
+"close soundcloud",system
+"close pandora",system
+"close amazon music",system
+"close tidal",system
+"close deezer",system
+"close winamp",system
+"close foobar",system
+"close audacity",system
+"close garageband",system
+"close fl studio",system
+"close ableton",system
+"close pro tools",system
+"close logic pro",system
+"close cubase",system
+"close reaper",system
+"close calculator",system
+"close calendar",system
+"close clock",system
+"close alarm",system
+"close timer",system
+"close stopwatch",system
+"close weather",system
+"close maps",system
+"close google maps",system
+"close apple maps",system
+"close waze",system
+"close uber",system
+"close lyft",system
+"close settings",system
+"close control panel",system
+"close device manager",system
+"close system preferences",system
+"close activity monitor",system
+"close resource monitor",system
+"close performance monitor",system
+"close event viewer",system
+"close registry editor",system
+"close command prompt",system
+"close powershell",system
+"close terminal",system
+"close bash",system
+"close cmd",system
+"close run",system
+"close file explorer",system
+"close finder",system
+"close my computer",system
+"close this pc",system
+"close documents",system
+"close downloads",system
+"close pictures",system
+"close videos",system
+"close music",system
+"close desktop",system
+"close recycle bin",system
+"close trash",system
+"close word",system
+"close microsoft word",system
+"close excel",system
+"close microsoft excel",system
+"close powerpoint",system
+"close microsoft powerpoint",system
+"close outlook",system
+"close microsoft outlook",system
+"close onenote",system
+"close microsoft onenote",system
+"close access",system
+"close microsoft access",system
+"close publisher",system
+"close microsoft publisher",system
+"close visio",system
+"close microsoft visio",system
+"close project",system
+"close microsoft project",system
+"close teams",system
+"close microsoft teams",system
+"close skype",system
+"close zoom",system
+"close discord",system
+"close slack",system
+"close whatsapp",system
+"close telegram",system
+"close signal",system
+"close messenger",system
+"close facebook",system
+"close twitter",system
+"close instagram",system
+"close linkedin",system
+"close tiktok",system
+"close snapchat",system
+"close pinterest",system
+"close reddit",system
+"close youtube",system
+"close netflix",system
+"close hulu",system
+"close disney plus",system
+"close amazon prime",system
+"close hbo max",system
+"close paramount plus",system
+"close peacock",system
+"close apple tv",system
+"close twitch",system
+"close steam",system
+"close epic games",system
+"close origin",system
+"close uplay",system
+"close battle net",system
+"close gog galaxy",system
+"close xbox",system
+"close playstation",system
+"close nintendo",system
+"close photoshop",system
+"close illustrator",system
+"close indesign",system
+"close after effects",system
+"close premiere pro",system
+"close lightroom",system
+"close acrobat",system
+"close dreamweaver",system
+"close animate",system
+"close dimension",system
+"close xd",system
+"close audition",system
+"close bridge",system
+"close camera raw",system
+"close media encoder",system
+"close character animator",system
+"close prelude",system
+"close speedgrade",system
+"close story plus",system
+"inrease the volume",system
+"increase the volume by 50",system
+"set the volume to 40",system
+"can you please inrease the volume",system
+"can you please increase the volume by 50",system
+"can you please set the volume to 40",system
+"turn up the volume",system
+"raise the volume level",system
+"make it louder",system
+"boost the volume by 30",system
+"set volume to maximum",system
+"volume up",system
+"increase sound level",system
+"please turn up the volume",system
+"adjust volume higher",system
+"volume to 75 percent",system
+"max volume please",system
+"make the volume 80",system
+"i need more volume",system
+"louder please",system
+"increase by 20 percent",system
+"volume at 50 percent",system
+"please increase the volume",system
+"turn volume to 60",system
+"raise by 15 units",system
+"lower the volume",system
+"decrease volume by 10",system
+"mute the sound",system
+"unmute the volume",system
+"volume down",system
+"soften the volume",system
+"quiet mode please",system
+"set volume to zero",system
+"half volume level",system
+"reduce volume gradually",system
+"volume to mid level",system
+"minimum volume please",system
+"inrease the brightness",system
+"increase the brightness by 50",system
+"set the brightness to 40",system
+"can you please inrease the brightness",system
+"can you please increase the brightness by 50",system
+"can you please set the brightness to 40",system
+"make the screen brighter",system
+"turn up brightness",system
+"set brightness to max",system
+"increase display light",system
+"brightness level 70",system
+"adjust brightness higher",system
+"screen too dim",system
+"raise brightness by 20",system
+"maximum brightness please",system
+"set to 90 percent brightness",system
+"i need more brightness",system
+"brighter display please",system
+"increase by 30 percent",system
+"brightness at 60 percent",system
+"please make it brighter",system
+"turn brightness to 80",system
+"raise by 25 units",system
+"dim the screen",system
+"reduce brightness by 15",system
+"night mode brightness",system
+"auto brightness off",system
+"set brightness to min",system
+"eye comfort level",system
+"low light setting",system
+"dark mode brightness",system
+"adjust for night time",system
+"shutdown the system",system
+"shutdown the computer",system
+"shutdown the laptop",system
+"can you please shutdown the system",system
+"can you please shutdown the computer",system
+"can you please shutdown the laptop",system
+"turn off the pc",system
+"power down the system",system
+"shutdown now",system
+"please shutdown the device",system
+"close all and shutdown",system
+"initiate shutdown sequence",system
+"shutdown my computer",system
+"turn off the machine",system
+"shutdown immediately",system
+"shutdown this device",system
+"power off the system",system
+"shutdown process please",system
+"complete shutdown",system
+"terminate system operation",system
+"force shutdown",system
+"schedule shutdown",system
+"shutdown in 5 minutes",system
+"emergency power off",system
+"shutdown with updates",system
+"restart the system",system
+"restart the computer",system
+"restart the laptop",system
+"can you please restart the system",system
+"can you please restart the computer",system
+"can you please restart the laptop",system
+"reboot the pc",system
+"restart now",system
+"please restart the device",system
+"reboot the system",system
+"initiate restart sequence",system
+"restart my computer",system
+"refresh the system",system
+"restart immediately",system
+"restart this device",system
+"reboot please",system
+"restart process",system
+"soft restart",system
+"hard restart",system
+"full system restart",system
+"restart in safe mode",system
+"reboot with updates",system
+"scheduled restart",system
+"restart to apply changes",system
+"emergency reboot",system
+"play shape of you",system
+"can you please play interstellar theme on youtube",system
+"play despacito on youtube",system
+"play mozart on youtube",system
+"stream avengers trailer",system
+"play latest news on youtube",system
+"open youtube video",system
+"play pop music",system
+"stream documentary",system
+"play tutorial video",system
+"queue up music video",system
+"play relaxing music",system
+"stream standup comedy",system
+"play my playlist",system
+"open favorite channel",system
+"play trending videos",system
+"stream live event",system
+"play educational content",system
+"search for podcast",system
+"play workout music",system
+"stream 4k content",system
+"play background music",system
+"open subscribed channels",system
+"play kids songs",system
+"stream gameplay video",system
+"search quantum computing",system
+"search physics on google",system
+"can you please search artificial intelligence on google",system
+"look up world news",system
+"search for recipes",system
+"find nearby restaurants",system
+"google search history",system
+"search weather forecast",system
+"look up definition",system
+"find scientific papers",system
+"search movie showtimes",system
+"google translate please",system
+"find hardware stores",system
+"search job openings",system
+"look up medical information",system
+"find programming tutorials",system
+"search stock prices",system
+"google maps search",system
+"find book summaries",system
+"search tech news",system
+"lookup word meaning",system
+"find open source projects",system
+"search health tips",system
+"google academic search",system
+"find local events",system
+"search diy ideas",system
+"can you please open chrome",system
+"open spotify",system
+"open task manager",system
+"open notepad",system
+"close the chrome",system
+"close spotify",system
+"close task manager",system
+"close notepad",system
+"launch microsoft word",system
+"open calculator app",system
+"start photoshop",system
+"run excel please",system
+"open file explorer",system
+"close all apps",system
+"terminate background apps",system
+"launch settings",system
+"open control panel",system
+"start powerpoint",system
+"run diagnostic tool",system
+"open camera app",system
+"close unnecessary programs",system
+"exit all applications",system
+"open steam client",system
+"launch video editor",system
+"start antivirus scan",system
+"run disk cleanup",system
+"open paint tool",system
+"close all windows",system
+"minimize all programs",system
+"open system preferences",system
+"launch calendar app",system
+"start screen recording",system
+"open voice recorder",system
+"run troubleshooter",system
+"open firefox browser",system
+"launch mail client",system
+"start video call app",system
+"open weather application",system
+"run system update",system
+"open pdf reader",system
+"launch music production software",system
+"start virtual machine",system
+"open programming ide",system
+"run backup tool",system
+"open screenshot tool",system
+"launch database manager",system
+"start network monitor",system
+"open color picker",system
+"run defragmentation",system
+"open font manager",system
+"launch terminal",system
+"start remote desktop",system
+"open archive tool",system
+"run registry editor",system
+"open task scheduler",system
+"launch system monitor",system
+"start disk partition tool",system
+"open command prompt",system
+"run system restore",system
+"open device manager",system
+"launch bios setup",system
+"start performance monitor",system
+"open group policy editor",system
+"run memory diagnostic",system
+"open services console",system
+"launch event viewer",system
+"start windows security",system
+"open regional settings",system
+"run component services",system
+"open sound settings",system
+"launch language pack",system
+"start windows tools",system
+"open default programs",system
+"run troubleshooting pack",system
+"open user accounts",system
+"launch system information",system
+"start resource monitor",system
+"open power options",system
+"run clean manager",system
+"open indexing options",system
+"launch sysnative tool",system
+"start computer management",system
+"open print management",system
+"run windows memory diagnostic",system
+"open remote assistance",system
+"launch windows media player",system
+"start windows defender",system
+"open sysdm.cpl",system
+"run msinfo32",system
+"open perfmon",system
+"launch diskmgmt.msc",system
+"start services.msc",system
+"open devmgmt.msc",system
+"run eventvwr.msc",system
+"open taskschd.msc",system
+"launch secpol.msc",system
+"start lusrmgr.msc",system
+"open fsmgmt.msc",system
+"run compmgmt.msc",system
+"open odbcad32.exe",system
+"launch printui.exe",system
+"start mmc.exe",system
+"open sndvol.exe",system
+"run cleanmgr.exe",system
+"open msconfig.exe",system
+"launch dxdiag.exe",system
+"start chkdsk.exe",system
+"open sfc.exe",system
+"run diskpart.exe",system
+"open format.com",system
+"launch ipconfig.exe",system
+"start ping.exe",system
+"open tracert.exe",system
+"run netstat.exe",system
+"open nslookup.exe",system
+"launch telnet.exe",system
+"start ftp.exe",system
+"open chrome",system

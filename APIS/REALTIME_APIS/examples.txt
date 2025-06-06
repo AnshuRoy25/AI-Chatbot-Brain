@@ -1,0 +1,5 @@
+news - latest news of india today
+time - what is the time in my location/in usa
+weather - current weather in my location
+location - what is my current location, book shops neaar me
+

@@ -5,7 +5,8 @@ import joblib
 
 df = pd.read_csv("real_normal_query.csv")
 
-df['text'] = df['text'].str.replace('’', "'", regex=False)
+#df['text'] = df['text'].str.replace('’', "'", regex=False)
+df = df.sample(frac=1, random_state=42).reset_index(drop=True)
 
 
 vectorizer = TfidfVectorizer()
