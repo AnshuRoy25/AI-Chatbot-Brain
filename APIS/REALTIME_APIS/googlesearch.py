@@ -12,7 +12,7 @@ def google_search(text):
     params = {
         "engine": "google",
         "q": text,
-        "api_key" : "761bb92ff490aee44ed378416606065cae02e680f9870aba5fb032c5c5bc78ec" 
+        "api_key" : "" 
     }
 
     search = GoogleSearch(params)
