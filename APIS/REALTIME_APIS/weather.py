@@ -19,7 +19,7 @@ def get_weather_data(text):
     city = cities[0] if cities else None
 
     if city is not None:
-        owm_api = "c91c8df4d9b328b18c9cbd4b0f1c9ebd"
+        owm_api = ""
         base_url = "http://api.openweathermap.org/data/2.5/weather"
         parameter = {
             "q": city,
